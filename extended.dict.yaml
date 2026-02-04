@@ -23,6 +23,7 @@ import_tables:
   # emoji 补全词库
   - dicts/emoji
   - dicts/sogou_minecraft
+  - dicts/sogou_cities
   - dicts/custom_sougou_extenal
 
   # 英文
