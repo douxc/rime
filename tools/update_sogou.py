@@ -9,6 +9,7 @@ import re
 workDir = os.path.abspath(os.path.dirname(sys.path[0]))
 dict_list = {
     "sogou_net.dict.yaml": {"id": 4, "name": "网络流行新词", "increment": True},
+    "sogou_cities.dict.yaml":{"id": 11314, "name":"全国县及县以上行政区划地名"},
     "sogou_minecraft.dict.yaml": {
         "id": 124017,
         "name": "Minecraft最全词库（更新至1.16.2）",
