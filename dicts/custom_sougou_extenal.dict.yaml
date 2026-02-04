@@ -13,7 +13,9 @@ use_preset_vocabulary: false
 阿巴嘎旗行政干部学校	a ba ga qi xing zheng gan bu xue xiao
 阿坝师范高等专科学校	a ba shi fan gao deng zhuan ke xue xiao
 阿坝县委党校	a ba xian wei dang xiao
+阿尔法小队	a er fa xiao dui
 阿合奇县委党校	a he qi xian wei dang xiao
+阿轲	a ke
 阿克苏地区行政学院	a ke su di qu xing zheng xue yuan
 阿克苏地委党校	a ke su di wei dang xiao
 阿克苏市电大	a ke su shi dian da
@@ -32,6 +34,9 @@ use_preset_vocabulary: false
 阿鲁科尔沁旗委党校	a lu ke er qin qi wei dang xiao
 阿荣旗委党校	a rong qi wei dang xiao
 阿荣旗行政干部学校	a rong qi xing zheng gan bu xue xiao
+埃及法老	ai ji fa lao
+艾琳	ai lin
+爱情与死亡	ai qing yu si wang
 安昌镇委党校	an chang zhen wei dang xiao
 安达市委党校	an da shi wei dang xiao
 安定区委党校	an ding qu wei dang xiao
@@ -98,9 +103,13 @@ use_preset_vocabulary: false
 安康市行政学院	an kang shi xing zheng xue yuan
 安康学院	an kang xue yuan
 安康职业技术学院	an kang zhi ye ji shu xue yuan
+安禄山	an lu shan
 安陆市行政学校	an lu shi xing zheng xue xiao
 安宁市委党校	an ning shi wei dang xiao
 安培华女子大学	an pei hua nv zi da xue
+安其拉	an qi la
+安琪拉	an qi la
+安琪拉魔法小厨娘	an qi la mo fa xiao chu niang
 安庆广播电视大学	an qing guang bo dian shi da xue
 安庆师范学院	an qing shi fan xue yuan
 安丘市委党校	an qiu shi wei dang xiao
@@ -122,7 +131,13 @@ use_preset_vocabulary: false
 安阳技师学院	an yang ji shi xue yuan
 安阳师范学院	an yang shi fan xue yuan
 安阳市委党校	an yang shi wei dang xiao
+暗夜贵公子	an ye gui gong zi
+暗夜使徒	an ye shi tu
+暗夜之王	an ye zhi wang
 安义县委党校	an yi xian wei dang xiao
+暗影刀锋	an ying dao feng
+暗影战斧	an ying zhan fu
+暗影主宰	an ying zhu zai
 安岳县委党校	an yue xian wei dang xiao
 安泽县委党校	an ze xian wei dang xiao
 澳大利亚墨尔本商学院	ao da li ya mo er ben shang xue yuan
@@ -136,12 +151,16 @@ use_preset_vocabulary: false
 巴林左旗委党校	ba lin zuo qi wei dang xiao
 巴南电大	ba nan dian da
 巴南区委党校	ba nan qu wei dang xiao
+八神庵	ba shen an
+霸王别姬	ba wang bie ji
 巴彦淖尔市电视大学	ba yan nao er shi dian shi da xue
 巴彦淖尔市委党校	ba yan nao er shi wei dang xiao
 巴彦县委党校	ba yan xian wei dang xiao
 巴彦县行政干部学校	ba yan xian xing zheng gan bu xue xiao
 巴音郭楞技师培训学院	ba yin guo leng ji shi pei xun xue yuan
 巴音学院	ba yin xue yuan
+霸者	ba zhe
+霸者重装	ba zhe chong zhuang
 巴中市党校	ba zhong shi dang xiao
 巴州党校	ba zhou dang xiao
 巴州广播电视大学	ba zhou guang bo dian shi da xue
@@ -158,6 +177,8 @@ use_preset_vocabulary: false
 白城师院经管学院	bai cheng shi yuan jing guan xue yuan
 白城医学高等专科学校	bai cheng yi xue gao deng zhuan ke xue xiao
 柏立基学院	bai li ji xue yuan
+白龙吟	bai long yin
+白起	bai qi
 白求恩医科大学	bai qiu en yi ke da xue
 白求恩医学院	bai qiu en yi xue yuan
 拜泉县委党校	bai quan xian wei dang xiao
@@ -169,12 +190,19 @@ use_preset_vocabulary: false
 白山市委党校	bai shan shi wei dang xiao
 百事特计算机教育学院	bai shi te ji suan ji jiao yu xue yuan
 白水县委党校	bai shui xian wei dang xiao
+白银	bai yin
 白银市电大	bai yin shi dian da
 白银市委党校	bai yin shi wei dang xiao
 白银职业技术学院	bai yin zhi ye ji shu xue yuan
 白云区老干部大学	bai yun qu lao gan bu da xue
 白云区行政干部学校	bai yun qu xing zheng gan bu xue xiao
 白云职业技术学院	bai yun zhi ye ji shu xue yuan
+白执事	bai zhi shi
+半肉	ban rou
+半肉半攻	ban rou ban gong
+半肉半输出装	ban rou ban shu chu zhuang
+半肉路线	ban rou lu xian
+半神之弓	ban shen zhi gong
 半淞园路街道老年学校	ban song yuan lu jie dao lao nian xue xiao
 邦德职业技术学院基础教育学院	bang de zhi ye ji shu xue yuan ji chu jiao yu xue yuan
 宝德学院	bao de xue yuan
@@ -184,12 +212,18 @@ use_preset_vocabulary: false
 保定金融高等专科学校	bao ding jin rong gao deng zhuan ke xue xiao
 保定市人民警察学校	bao ding shi ren min jing cha xue xiao
 保定市委党校	bao ding shi wei dang xiao
+爆发	bao fa
+保护后排	bao hu hou pai
 宝鸡教育学院	bao ji jiao yu xue yuan
 宝鸡市渭滨区委党校	bao ji shi wei bin qu wei dang xiao
 宝鸡市委党校	bao ji shi wei dang xiao
 宝鸡市行政学院	bao ji shi xing zheng xue yuan
 宝鸡文理学院	bao ji wen li xue yuan
 宝鸡职业技术学院	bao ji zhi ye ji shu xue yuan
+暴君	bao jun
+暴烈	bao lie
+暴烈之甲	bao lie zhi jia
+抱歉你挡路了	bao qian ni dang lu le
 保山电大	bao shan dian da
 宝山区电大	bao shan qu dian da
 宝山区罗泾镇党校	bao shan qu luo jing zhen dang xiao
@@ -434,16 +468,29 @@ use_preset_vocabulary: false
 北京卓达经济管理研修学院	bei jing zhuo da jing ji guan li yan xiu xue yuan
 北京自修大学	bei jing zi xiu da xue
 北师大京师科技学院	bei shi da jing shi ke ji xue yuan
+奔狼纹章	ben lang wen zhang
 本溪广播电视大学	ben xi guang bo dian shi da xue
 蚌埠机电技师学院	beng bu ji dian ji shi xue yuan
 蚌埠市委党校	beng bu shi wei dang xiao
 蚌埠市职工大学	beng bu shi zhi gong da xue
 蚌埠学院	beng bu xue yuan
 蚌埠医学院	beng bu yi xue yuan
+庇护之光	bi hu zhi guang
 毕节地区广播电视大学	bi jie di qu guang bo dian shi da xue
 毕节学院	bi jie xue yuan
+壁垒	bi lei
 璧山县委党校	bi shan xian wei dang xiao
 璧山县行政学校	bi shan xian xing zheng xue xiao
+匕首	bi shou
+扁鹊	bian que
+扁鹊金木研皮肤	bian que jin mu yan pi fu
+扁鹊炼金王	bian que lian jin wang
+别跟着我别分我经验	bie gen zhe wo bie fen wo jing yan
+别管了先打龙	bie guan le xian da long
+别管了先推塔	bie guan le xian tui ta
+别慌能赢	bie huang neng ying
+别浪	bie lang
+别抓人优先推塔	bie zhua ren you xian tui ta
 滨城区委党校	bin cheng qu wei dang xiao
 宾川县行政学校	bin chuan xian xing zheng xue xiao
 滨海外事学院	bin hai wai shi xue yuan
@@ -458,28 +505,54 @@ use_preset_vocabulary: false
 滨州学院	bin zhou xue yuan
 滨州医学院	bin zhou yi xue yuan
 滨州职业学院	bin zhou zhi ye xue yuan
+冰痕之握	bing hen zhi wo
+冰脉护手	bing mai hu shou
+冰霜长矛	bing shuang chang mao
+冰霜法杖	bing shuang fa zhang
 兵团电大	bing tuan dian da
 兵团建工师行政学院	bing tuan jian gong shi xing zheng xue yuan
+兵线	bing xian
+冰心	bing xin
+冰雪之华	bing xue zhi hua
+冰杖	bing zhang
 伯大尼美国学校	bo da ni mei guo xue xiao
 渤海船舶职业学院	bo hai chuan bo zhi ye xue yuan
 渤海大学	bo hai da xue
 渤海石油职业学院	bo hai shi you zhi ye xue yuan
 博湖电大	bo hu dian da
+搏击拳套	bo ji quan tao
+铂金	bo jin
 博罗县广播电视大学	bo luo xian guang bo dian shi da xue
 博罗县委党校	bo luo xian wei dang xiao
 博罗县行政学校	bo luo xian xing zheng xue xiao
 博山区行政学校	bo shan qu xing zheng xue xiao
 博兴县委党校	bo xing xian wei dang xiao
+博学者的愤怒	bo xue zhe de fen nu
+博学者之怒	bo xue zhe zhi nu
 博州电大	bo zhou dian da
 亳州市谯城区委党校	bo zhou shi qiao cheng qu wei dang xiao
 亳州市委党校	bo zhou shi wei dang xiao
 博州行政学院	bo zhou xing zheng xue yuan
 博州州委党校	bo zhou zhou wei dang xiao
+补刀	bu dao
 布吉街道成人文化技术学校	bu ji jie dao cheng ren wen hua ji shu xue xiao
+不羁之风	bu ji zhi feng
+布甲	bu jia
+布甲鞋	bu jia xie
+不死鸟之眼	bu si niao zhi yan
+不祥征兆	bu xiang zheng zhao
+不祥之兆	bu xiang zhi zhao
+不知火舞	bu zhi huo wu
+蔡文姬	cai wen ji
+沧海之矅	cang hai zhi yao
+苍狼末裔	cang lang mo yi
 苍南县委党校	cang nan xian wei dang xiao
+苍天翔龙	cang tian xiang long
 沧州广播电视大学	cang zhou guang bo dian shi da xue
 沧州师范专科学校	cang zhou shi fan zhuan ke xue xiao
 沧州医学高等专科学校	cang zhou yi xue gao deng zhuan ke xue xiao
+曹操	cao cao
+曹操死神来了	cao cao si shen lai le
 曹家渡街道老年学校	cao jia du jie dao lao nian xue xiao
 曹路镇老年学校	cao lu zhen lao nian xue xiao
 曹县县委党校	cao xian xian wei dang xiao
@@ -561,6 +634,7 @@ use_preset_vocabulary: false
 昌乐县委党校	chang le xian wei dang xiao
 昌黎县委党校	chang li xian wei dang xiao
 昌宁县行政学校	chang ning xian xing zheng xue xiao
+长平攻防战	chang ping gong fang zhan
 长沙大学	chang sha da xue
 长沙电大	chang sha dian da
 长沙电力职业技术学院	chang sha dian li zhi ye ji shu xue yuan
@@ -647,10 +721,15 @@ use_preset_vocabulary: false
 巢湖学院	chao hu xue yuan
 巢湖职业技术学院	chao hu zhi ye ji shu xue yuan
 潮汕职业技术学院	chao shan zhi ye ji shu xue yuan
+超神	chao shen
+超时空战士	chao shi kong zhan shi
 潮阳区广播电视大学	chao yang qu guang bo dian shi da xue
 潮州市广播电视大学	chao zhou shi guang bo dian shi da xue
 潮州市老干部大学	chao zhou shi lao gan bu da xue
 潮州市委党校	chao zhou shi wei dang xiao
+撤退没技能	che tui mei ji neng
+撤退没蓝	che tui mei lan
+撤退没血	che tui mei xue
 陈家镇老年学校	chen jia zhen lao nian xue xiao
 辰溪县委党校	chen xi xian wei dang xiao
 郴州电大	chen zhou dian da
@@ -715,11 +794,16 @@ use_preset_vocabulary: false
 成都职业技术学院	cheng du zhi ye ji shu xue yuan
 成都中医学院	cheng du zhong yi xue yuan
 成都中医药大学	cheng du zhong yi yao da xue
+惩击	cheng ji
+成吉思	cheng ji si
+成吉思汗	cheng ji si han
 城市职业技术学院	cheng shi zhi ye ji shu xue yuan
 成铁党校	cheng tie dang xiao
 成武县委党校	cheng wu xian wei dang xiao
 成县委党校	cheng xian wei dang xiao
 城阳区委党校	cheng yang qu wei dang xiao
+程咬金	cheng yao jin
+成装	cheng zhuang
 赤壁电大	chi bi dian da
 赤壁市委党校	chi bi shi wei dang xiao
 赤峰电视大学	chi feng dian shi da xue
@@ -727,9 +811,12 @@ use_preset_vocabulary: false
 赤峰市委党校	chi feng shi wei dang xiao
 赤峰学院	chi feng xue yuan
 茌平县委党校	chi ping xian wei dang xiao
+炽热支配者	chi re zhi pei zhe
 池州市委党校	chi zhou shi wei dang xiao
 池州师专	chi zhou shi zhuan
+冲击波	chong ji bo
 崇明县堡镇委党校	chong ming xian bao zhen wei dang xiao
+冲能拳套	chong neng quan tao
 重庆城市管理职业学院	chong qing cheng shi guan li zhi ye xue yuan
 重庆大学	chong qing da xue
 重庆电大	chong qing dian da
@@ -804,6 +891,7 @@ use_preset_vocabulary: false
 崇左市委员会党校	chong zuo shi wei yuan hui dang xiao
 崇左市行政学院	chong zuo shi xing zheng xue yuan
 楚材自修大学	chu cai zi xiu da xue
+出门蓝开	chu men lan kai
 楚天信息工程专修学院	chu tian xin xi gong cheng zhuan xiu xue yuan
 楚雄师范学院	chu xiong shi fan xue yuan
 楚雄医药高等专科学校	chu xiong yi yao gao deng zhuan ke xue xiao
@@ -812,16 +900,25 @@ use_preset_vocabulary: false
 滁州市行政学院	chu zhou shi xing zheng xue yuan
 滁州学院	chu zhou xue yuan
 滁州职业技术学院	chu zhou zhi ye ji shu xue yuan
+出装推荐	chu zhuang tui jian
 川北医学院	chuan bei yi xue yuan
 川汇区委党校	chuan hui qu wei dang xiao
+传说之刃	chuan shuo zhi ren
 川西北职业培训学院	chuan xi bei zhi ye pei xun xue yuan
 淳安县委党校	chun an xian wei dang xiao
 淳安县行政学校	chun an xian xing zheng xue xiao
+纯白花嫁	chun bai hua jia
 淳化县委党校	chun hua xian wei dang xiao
+纯净苍穹	chun jing cang qiong
+刺客	ci ke
+刺客信条	ci ke xin tiao
 慈溪市龙山镇委党校	ci xi shi long shan zhen wei dang xiao
 慈溪市委党校	ci xi shi wei dang xiao
 磁县县委党校	ci xian xian wei dang xiao
+雌雄双剑	ci xiong shuang jian
 从化市广播电视大学	cong hua shi guang bo dian shi da xue
+脆皮英雄	cui pi ying xiong
+大棒	da bang
 大厂县委党校	da chang xian wei dang xiao
 大城教师进修学校	da cheng jiao shi jin xiu xue xiao
 达德研修学院	da de yan xiu xue yuan
@@ -831,7 +928,10 @@ use_preset_vocabulary: false
 大港区老年大学	da gang qu lao nian da xue
 大港区委党校	da gang qu wei dang xiao
 大港区中塘镇党校	da gang qu zhong tang zhen dang xiao
+大红	da hong
 大红鹰专修学院工商学院	da hong ying zhuan xiu xue yuan gong shang xue yuan
+妲己	da ji
+妲己少女阿狸	da ji shao nv a li
 大理市教委党校	da li shi jiao wei dang xiao
 大荔县委党校	da li xian wei dang xiao
 大理学院	da li xue yuan
@@ -890,9 +990,14 @@ use_preset_vocabulary: false
 大连游戏学院	da lian you xi xue yuan
 大连职工大学	da lian zhi gong da xue
 大连职业技术学院	da lian zhi ye ji shu xue yuan
+大龙	da long
 达茂联合旗委党校	da mao lian he qi wei dang xiao
 达茂旗教师进修学校	da mao qi jiao shi jin xiu xue xiao
+大面具	da mian ju
 大名县委党校	da ming xian wei dang xiao
+达摩	da mo
+达摩拳王	da mo quan wang
+大乔	da qiao
 大庆广播电视大学	da qing guang bo dian shi da xue
 大庆市大同区委党校	da qing shi da tong qu wei dang xiao
 大庆师范学院	da qing shi fan xue yuan
@@ -903,8 +1008,10 @@ use_preset_vocabulary: false
 大庆石油化工总厂职工大学	da qing shi you hua gong zong chang zhi gong da xue
 大庆石油学院	da qing shi you xue yuan
 大庆医学高等专科学校	da qing yi xue gao deng zhuan ke xue xiao
+大杀特杀	da sha te sha
 大山外国语学院	da shan wai guo yu xue yuan
 大石桥市委党校	da shi qiao shi wei dang xiao
+大天使长委	da tian shi zhang wei
 大田县均溪镇委党校	da tian xian jun xi zhen wei dang xiao
 大田县委党校	da tian xian wei dang xiao
 大同大学	da tong da xue
@@ -913,28 +1020,41 @@ use_preset_vocabulary: false
 大同市党校	da tong shi dang xiao
 大同市会计学校	da tong shi kuai ji xue xiao
 大同市商业学校	da tong shi shang ye xue xiao
+打团技巧	da tuan ji qiao
 大洼县委党校	da wa xian wei dang xiao
 大洼县行政学院	da wa xian xing zheng xue yuan
 大悟县行政学校	da wu xian xing zheng xue xiao
+大仙	da xian
 达县县委党校	da xian xian wei dang xiao
+大小姐	da xiao jie
 大信工商管理学院	da xin gong shang guan li xue yuan
 大兴安岭地委党校	da xing an ling di wei dang xiao
 大兴安岭林管局委党校	da xing an ling lin guan ju wei dang xiao
 大兴安岭职业学院	da xing an ling zhi ye xue yuan
 大兴老年大学	da xing lao nian da xue
+打野	da ye
+打野的发育快点	da ye de fa yu kuai dian
+打野夺龙	da ye duo long
+打野技巧	da ye ji qiao
+打野抢龙	da ye qiang long
+打野装备	da ye zhuang bei
 大邑县行政学校	da yi xian xing zheng xue xiao
 大一学院	da yi xue yuan
+大招	da zhao
 达州市广播电视大学	da zhou shi guang bo dian shi da xue
 达州市委党校	da zhou shi wei dang xiao
 大足县委党校	da zu xian wei dang xiao
 大足县行政学校	da zu xian xing zheng xue xiao
+逮捕令	dai bu ling
 代尔国际企业家大学	dai er guo ji qi ye jia da xue
+单刀赴会	dan dao fu hui
 丹东广播电视大学	dan dong guang bo dian shi da xue
 丹东市委党校	dan dong shi wei dang xiao
 丹东市振兴区委党校	dan dong shi zhen xing qu wei dang xiao
 丹凤县委党校	dan feng xian wei dang xiao
 淡江大学	dan jiang da xue
 儋州市五七大学	dan zhou shi wu qi da xue
+刀锋铁骑	dao feng tie qi
 德宏师范高等专科学校	de hong shi fan gao deng zhuan ke xue xiao
 德宏州行政学校	de hong zhou xing zheng xue xiao
 德化陶瓷学院	de hua tao ci xue yuan
@@ -956,7 +1076,21 @@ use_preset_vocabulary: false
 灯塔市委党校	deng ta shi wei dang xiao
 灯塔市行政干部管理学校	deng ta shi xing zheng gan bu guan li xue xiao
 登云科技职业学院	deng yun ke ji zhi ye xue yuan
+抵抗之靴	di kang zhi xue
 迪庆州委党校	di qing zhou wei dang xiao
+狄仁杰	di ren jie
+狄仁杰传说皮肤	di ren jie chuan shuo pi fu
+狄仁杰阴阳师	di ren jie yin yang shi
+地狱火	di yu huo
+地狱之眼	di yu zhi yan
+电刀	dian dao
+点控	dian kong
+典韦	dian wei
+典韦黄金武士	dian wei huang jin wu shi
+貂蝉	diao chan
+貂蝉叮叮当	diao chan ding ding dang
+貂蝉绝世舞姬	diao chan jue shi wu ji
+貂蝉逐梦之音	diao chan zhu meng zhi yin
 迭部县委党校	die bu xian wei dang xiao
 定安县五七大学	ding an xian wu qi da xue
 定陶县委党校	ding tao xian wei dang xiao
@@ -977,6 +1111,7 @@ use_preset_vocabulary: false
 东大航空运输服务学院	dong da hang kong yun shu fu wu xue yuan
 东大医学院	dong da yi xue yuan
 东阿县委党校	dong e xian wei dang xiao
+东方不败	dong fang bu bai
 东方财经日语大学	dong fang cai jing ri yu da xue
 东方传媒学院	dong fang chuan mei xue yuan
 东方大学	dong fang da xue
@@ -1009,6 +1144,7 @@ use_preset_vocabulary: false
 东华大学	dong hua da xue
 东华科技学院	dong hua ke ji xue yuan
 东华理工大学	dong hua li gong da xue
+东皇太一	dong huang tai yi
 东京日语学院	dong jing ri yu xue yuan
 东丽区委党校	dong li qu wei dang xiao
 东明县委党校	dong ming xian wei dang xiao
@@ -1036,7 +1172,11 @@ use_preset_vocabulary: false
 都江堰市委党校	du jiang yan shi wei dang xiao
 杜桥电大	du qiao dian da
 独山子区委党校	du shan zi qu wei dang xiao
+断案大师	duan an da shi
+段位	duan wei
 对外经济贸易大学	dui wai jing ji mao yi da xue
+对线	dui xian
+对战系统	dui zhan xi tong
 峨边彝族自治县委党校	e bian yi zu zi zhi xian wei dang xiao
 鄂东职业技术学院	e dong zhi ye ji shu xue yuan
 鄂尔多斯大学	e er duo si da xue
@@ -1055,11 +1195,40 @@ use_preset_vocabulary: false
 恩施州广播电视大学	en shi zhou guang bo dian shi da xue
 二连浩特国际语言学校	er lian hao te guo ji yu yan xue xiao
 二连市委党校行政学院	er lian shi wei dang xiao xing zheng xue yuan
+法穿靴	fa chuan xue
+法穿靴子	fa chuan xue zi
+法抗	fa kang
 法库县行政学校	fa ku xian xing zheng xue xiao
+法力值回复武器	fa li zhi hui fu wu qi
+法强	fa qiang
+法师	fa shi
+法师的宗师之力	fa shi de zong shi zhi li
+法师帽	fa shi mao
+法师英雄	fa shi ying xiong
+法术	fa shu
+法术穿透	fa shu chuan tou
+法术穿透武器	fa shu chuan tou wu qi
+法术打野刀	fa shu da ye dao
+法术防御	fa shu fang yu
+法术攻击	fa shu gong ji
+法术武器	fa shu wu qi
+法术吸血	fa shu xi xue
+法术吸血武器	fa shu xi xue wu qi
 法源寺佛学院	fa yuan si fo xue yuan
+范海辛	fan hai xin
+反甲	fan jia
 泛美国际航空学校	fan mei guo ji hang kong xue xiao
+反伤刺甲	fan shang ci jia
+反野	fan ye
+反野先杀刘备	fan ye xian sha liu bei
 防城港市委党校	fang cheng gang shi wei dang xiao
 房山区史家营乡党校	fang shan qu shi jia ying xiang dang xiao
+方天画斩	fang tian hua zhan
+防御类英雄	fang yu lei ying xiong
+防御塔	fang yu ta
+防御鞋子	fang yu xie zi
+防御英雄	fang yu ying xiong
+防御装备	fang yu zhuang bei
 防灾科技学院	fang zai ke ji xue yuan
 方正县委党校	fang zheng xian wei dang xiao
 纺织服装职业技术学院	fang zhi fu zhuang zhi ye ji shu xue yuan
@@ -1071,13 +1240,19 @@ use_preset_vocabulary: false
 肥西县委党校	fei xi xian wei dang xiao
 费县县委党校	fei xian xian wei dang xiao
 肥乡县委党校	fei xiang xian wei dang xiao
+非指向性技能	fei zhi xiang xing ji neng
+凤白	feng bai
+风暴巨剑	feng bao ju jian
 凤城市委党校	feng cheng shi wei dang xiao
 奉化电大	feng hua dian da
 凤凰县委党校	feng huang xian wei dang xiao
+凤凰于飞	feng huang yu fei
 封开县广播电视大学	feng kai xian guang bo dian shi da xue
 枫林街道老年学校	feng lin jie dao lao nian xue xiao
 丰南区教师进修学校	feng nan qu jiao shi jin xiu xue xiao
 丰宁县委员会党校	feng ning xian wei yuan hui dang xiao
+凤求凰	feng qiu huang
+风骚控制	feng sao kong zhi
 丰台区外交外语学院	feng tai qu wai jiao wai yu xue yuan
 丰台区委党校	feng tai qu wei dang xiao
 奉贤区金汇镇委党校	feng xian qu jin hui zhen wei dang xiao
@@ -1104,6 +1279,7 @@ use_preset_vocabulary: false
 复旦大学	fu dan da xue
 福鼎电大	fu ding dian da
 复格科技文化进修学院	fu ge ke ji wen hua jin xiu xue yuan
+复活甲	fu huo jia
 福建财会管理干部学院	fu jian cai kuai guan li gan bu xue yuan
 福建船政学校	fu jian chuan zheng xue xiao
 福建电大	fu jian dian da
@@ -1155,6 +1331,7 @@ use_preset_vocabulary: false
 福建职业技术学院	fu jian zhi ye ji shu xue yuan
 福建中华职业大学	fu jian zhong hua zhi ye da xue
 福建中医学院	fu jian zhong yi xue yuan
+富可敌国	fu ke di guo
 抚矿工学院	fu kuang gong xue yuan
 涪陵电大	fu ling dian da
 涪陵区老年大学	fu ling qu lao nian da xue
@@ -1173,6 +1350,8 @@ use_preset_vocabulary: false
 抚顺县委党校	fu shun xian wei dang xiao
 抚顺职工大学	fu shun zhi gong da xue
 抚顺职业技术学院	fu shun zhi ye ji shu xue yuan
+符文大剑	fu wen da jian
+符文碎片	fu wen sui pian
 富县县委党校	fu xian xian wei dang xiao
 阜新高等专科学校	fu xin gao deng zhuan ke xue xiao
 阜新矿务局职工大学	fu xin kuang wu ju zhi gong da xue
@@ -1211,7 +1390,10 @@ use_preset_vocabulary: false
 福州业余大学	fu zhou ye yu da xue
 福州英华学院	fu zhou ying hua xue yuan
 福州职业技术学院	fu zhou zhi ye ji shu xue yuan
+辅助	fu zhu
 伽师县委党校	ga shi xian wei dang xiao
+干将	gan jiang
+干将莫邪	gan jiang mo ye
 赣江学院	gan jiang xue yuan
 甘井子区委党校	gan jing zi qu wei dang xiao
 赣南教育学院	gan nan jiao yu xue yuan
@@ -1221,6 +1403,7 @@ use_preset_vocabulary: false
 赣南医学院	gan nan yi xue yuan
 甘南州委党校	gan nan zhou wei dang xiao
 赣南专修学院	gan nan zhuan xiu xue yuan
+干扰	gan rao
 甘肃电大	gan su dian da
 甘肃电子工程技术学校	gan su dian zi gong cheng ji shu xue xiao
 甘肃钢铁职业技术学院	gan su gang tie zhi ye ji shu xue yuan
@@ -1257,6 +1440,9 @@ use_preset_vocabulary: false
 藁城电大	gao cheng dian da
 髙塍镇委党校	gao cheng zhen wei dang xiao
 高淳县委党校	gao chun xian wei dang xiao
+高地	gao di
+高地塔	gao di ta
+高渐离	gao jian li
 高境镇老年学校	gao jing zhen lao nian xue xiao
 皋兰县委党校	gao lan xian wei dang xiao
 高陵县委党校	gao ling xian wei dang xiao
@@ -1276,7 +1462,10 @@ use_preset_vocabulary: false
 高州电视大学	gao zhou dian shi da xue
 高州时代专修学院	gao zhou shi dai zhuan xiu xue yuan
 格尔木市委党校	ge er mu shi wei dang xiao
+哥特玫瑰	ge te mei gui
+阁下的首级收下了	ge xia de shou ji shou xia le
 葛洲坝党校	ge zhou ba dang xiao
+根源之目	gen yuan zhi mu
 公安部管理干部学院	gong an bu guan li gan bu xue yuan
 公安部前卫金州体育学校	gong an bu qian wei jin zhou ti yu xue xiao
 公安部人民警察干部学校	gong an bu ren min jing cha gan bu xue xiao
@@ -1284,12 +1473,22 @@ use_preset_vocabulary: false
 公安司法管理干部学院	gong an si fa guan li gan bu xue yuan
 公安县社会主义学校	gong an xian she hui zhu yi xue xiao
 公安县行政学校	gong an xian xing zheng xue xiao
+宫本	gong ben
+宫本地狱之眼	gong ben di yu zhi yan
+宫本万象初新	gong ben wan xiang chu xin
+宫本武藏	gong ben wu zang
 工程兵学院	gong cheng bing xue yuan
 共和县委党校	gong he xian wei dang xiao
+攻击速度	gong ji su du
+攻击装	gong ji zhuang
 巩留县委党校	gong liu xian wei dang xiao
 公明成人学校	gong ming cheng ren xue xiao
 贡山县委党校	gong shan xian wei dang xiao
 贡山县行政学校	gong shan xian xing zheng xue xiao
+攻速打野刀	gong su da ye dao
+攻速鞋	gong su xie
+攻速鞋子	gong su xie zi
+攻速装	gong su zhuang
 公主岭市委党校	gong zhu ling shi wei dang xiao
 公主岭市行政干部学校	gong zhu ling shi xing zheng gan bu xue xiao
 固安县教师进修学校	gu an xian jiao shi jin xiu xue xiao
@@ -1297,16 +1496,21 @@ use_preset_vocabulary: false
 古交市教师进修学校	gu jiao shi jiao shi jin xiu xue xiao
 古交市委党校	gu jiao shi wei dang xiao
 古交市行政学校	gu jiao shi xing zheng xue xiao
+孤身越塔	gu shen yue ta
 固阳县委党校	gu yang xian wei dang xiao
 固阳县行政学校	gu yang xian xing zheng xue xiao
 固原民族职业技术学院	gu yuan min zu zhi ye ji shu xue yuan
 固镇五七大学	gu zhen wu qi da xue
 古镇镇委党校	gu zhen zhen wei dang xiao
+挂机	gua ji
+挂机狗	gua ji gou
 观海卫镇委党校	guan hai wei zhen wei dang xiao
 观塘工业学院	guan tang gong ye xue yuan
 冠县党校	guan xian dang xiao
 灌阳县委党校	guan yang xian wei dang xiao
 灌阳县行政学校	guan yang xian xing zheng xue xiao
+关羽	guan yu
+关羽天启骑士	guan yu tian qi qi shi
 广安广播电视大学	guang an guang bo dian shi da xue
 广安区委党校	guang an qu wei dang xiao
 广安市广安区行政学校	guang an shi guang an qu xing zheng xue xiao
@@ -1390,6 +1594,7 @@ use_preset_vocabulary: false
 广东智通自学辅导大学	guang dong zhi tong zi xue fu dao da xue
 广东职业技术师范学院	guang dong zhi ye ji shu shi fan xue yuan
 光福镇委党校	guang fu zhen wei dang xiao
+光辉之剑	guang hui zhi jian
 光明理工职业技术学校	guang ming li gong zhi ye ji shu xue xiao
 广平县委党校	guang ping xian wei dang xiao
 广饶县委党校	guang rao xian wei dang xiao
@@ -1516,8 +1721,10 @@ use_preset_vocabulary: false
 贵港市广播电视大学	gui gang shi guang bo dian shi da xue
 贵港市委党校	gui gang shi wei dang xiao
 贵港市行政学院	gui gang shi xing zheng xue yuan
+鬼谷子	gui gu zi
 硅湖大学	gui hu da xue
 硅湖学院	gui hu xue yuan
+鬼剑武藏	gui jian wu zang
 桂林电子科技大学	gui lin dian zi ke ji da xue
 桂林工学院	gui lin gong xue yuan
 桂林广播电视大学	gui lin guang bo dian shi da xue
@@ -1568,6 +1775,7 @@ use_preset_vocabulary: false
 贵州行政学院	gui zhou xing zheng xue yuan
 贵州亚泰职业学院	gui zhou ya tai zhi ye xue yuan
 国防大学	guo fang da xue
+国服赵云顺风局	guo fu zhao yun shun feng ju
 国航大学	guo hang da xue
 国际标准舞学院	guo ji biao zhun wu xue yuan
 国际关系学院	guo ji guan xi xue yuan
@@ -1589,6 +1797,7 @@ use_preset_vocabulary: false
 国立空中大学	guo li kong zhong da xue
 国立武汉大学	guo li wu han da xue
 国立艺术大学	guo li yi shu da xue
+国士无双	guo shi wu shuang
 国税局扬州进修学院	guo shui ju yang zhou jin xiu xue yuan
 国土资源和房屋职业学院	guo tu zi yuan he fang wu zhi ye xue yuan
 国玄学院	guo xuan xue yuan
@@ -1647,6 +1856,7 @@ use_preset_vocabulary: false
 海淀走读大学	hai dian zou du da xue
 海关高等专科学校	hai guan gao deng zhuan ke xue xiao
 海关总署党校	hai guan zong shu dang xiao
+海军大将	hai jun da jiang
 海口市经济职业技术学院	hai kou shi jing ji zhi ye ji shu xue yuan
 海口市社会主义学院	hai kou shi she hui zhu yi xue yuan
 海口市委党校	hai kou shi wei dang xiao
@@ -1669,6 +1879,7 @@ use_preset_vocabulary: false
 海南职业技术学院	hai nan zhi ye ji shu xue yuan
 海宁电大	hai ning dian da
 海宁市马桥镇委党校	hai ning shi ma qiao zhen wei dang xiao
+嗨氏	hai shi
 海棠学院	hai tang xue yuan
 海外教育学院	hai wai jiao yu xue yuan
 海星音乐学院	hai xing yin yue xue yuan
@@ -1681,6 +1892,7 @@ use_preset_vocabulary: false
 海州区委党校	hai zhou qu wei dang xiao
 汉滨区委党校	han bin qu wei dang xiao
 汉滨区行政干部学校	han bin qu xing zheng gan bu xue xiao
+寒冰之心	han bing zhi xin
 韩城市委党校	han cheng shi wei dang xiao
 邯郸大学	han dan da xue
 邯郸广播电视大学	han dan guang bo dian shi da xue
@@ -1696,6 +1908,10 @@ use_preset_vocabulary: false
 汉台区委党校	han tai qu wei dang xiao
 寒亭区委党校	han ting qu wei dang xiao
 寒亭区委老干部党校	han ting qu wei lao gan bu dang xiao
+韩信	han xin
+韩信白龙吟	han xin bai long yin
+韩信教廷特使	han xin jiao ting te shi
+汉昭烈帝	han zhao lie di
 汉中市委党校	han zhong shi wei dang xiao
 汉中市行政学院	han zhong shi xing zheng xue yuan
 汉中职业技术学院	han zhong zhi ye ji shu xue yuan
@@ -1754,6 +1970,8 @@ use_preset_vocabulary: false
 杭州指挥学校	hang zhou zhi hui xue xiao
 杭州之江专修学院	hang zhou zhi jiang zhuan xiu xue yuan
 杭州职业技术学院	hang zhou zhi ye ji shu xue yuan
+好友	hao you
+好友系统	hao you xi tong
 河北安邦专修学院	he bei an bang zhuan xiu xue yuan
 河北安格计算机专修学院	he bei an ge ji suan ji zhuan xiu xue yuan
 河北北方学院	he bei bei fang xue yuan
@@ -1848,6 +2066,7 @@ use_preset_vocabulary: false
 合川区党校	he chuan qu dang xiao
 合川区广播电视大学	he chuan qu guang bo dian shi da xue
 合川区行政学校	he chuan qu xing zheng xue xiao
+和妲己玩耍开个价吧	he da ji wan shua kai ge jia ba
 河东区教育局委员会党校	he dong qu jiao yu ju wei yuan hui dang xiao
 河东区委党校	he dong qu wei dang xiao
 合肥财经学院	he fei cai jing xue yuan
@@ -1930,6 +2149,7 @@ use_preset_vocabulary: false
 和平区老干部大学	he ping qu lao gan bu da xue
 和平区老干部党校	he ping qu lao gan bu dang xiao
 和平区业余无线电学院	he ping qu ye yu wu xian dian xue yuan
+和平守望	he ping shou wang
 和平镇委党校	he ping zhen wei dang xiao
 合浦县委员会党校	he pu xian wei yuan hui dang xiao
 合庆镇老年学校	he qing zhen lao nian xue xiao
@@ -1948,6 +2168,7 @@ use_preset_vocabulary: false
 菏泽市委党校	he ze shi wei dang xiao
 贺州八步区行政干部学校	he zhou ba bu qu xing zheng gan bu xue xiao
 合作民族师范高等专科学校	he zuo min zu shi fan gao deng zhuan ke xue xiao
+黑暗暴君	hei an bao jun
 黑河广播电视大学	hei he guang bo dian shi da xue
 黑河市委员会党校	hei he shi wei yuan hui dang xiao
 黑河市行政管理干部学院	hei he shi xing zheng guan li gan bu xue yuan
@@ -2029,8 +2250,11 @@ use_preset_vocabulary: false
 黑龙江职业技术学院	hei long jiang zhi ye ji shu xue yuan
 黑龙江中华文化学院	hei long jiang zhong hua wen hua xue yuan
 黑龙江中医药大学	hei long jiang zhong yi yao da xue
+黑切	hei qie
+黑色战斧	hei se zhan fu
 黑山县委党校	hei shan xian wei dang xiao
 衡南县行政学校	heng nan xian xing zheng xue xiao
+横扫千军	heng sao qian jun
 横沙乡老年学校	heng sha xiang lao nian xue xiao
 横山桥镇委员会党校	heng shan qiao zhen wei yuan hui dang xiao
 横山县委党校	heng shan xian wei dang xiao
@@ -2051,6 +2275,7 @@ use_preset_vocabulary: false
 衡阳职工大学	heng yang zhi gong da xue
 弘博国际软件学院	hong bo guo ji ruan jian xue yuan
 弘博学院	hong bo xue yuan
+轰飞	hong fei
 红河学院	hong he xue yuan
 洪湖电大	hong hu dian da
 鸿鹄涉外经济学院	hong hu she wai jing ji xue yuan
@@ -2060,16 +2285,30 @@ use_preset_vocabulary: false
 洪江市委党校	hong jiang shi wei dang xiao
 虹口教育学院	hong kou jiao yu xue yuan
 虹口区委党校	hong kou qu wei dang xiao
+红莲斗篷	hong lian dou peng
+红莲之瞳	hong lian zhi tong
+红玛瑙	hong ma nao
 虹梅街道老年学校	hong mei jie dao lao nian xue xiao
 虹桥街道老年学校	hong qiao jie dao lao nian xue xiao
 红桥区电视大学	hong qiao qu dian shi da xue
 红桥区委党校	hong qiao qu wei dang xiao
 红桥区职工大学	hong qiao qu zhi gong da xue
+红色惩戒	hong se cheng jie
+红色狂热	hong se kuang re
+红色梦魇	hong se meng yan
+红色阳炎	hong se yang yan
 洪山和平党校	hong shan he ping dang xiao
 红塔区委党校	hong ta qu wei dang xiao
 红星党校	hong xing dang xiao
+红野刀	hong ye dao
 洪泽县委党校	hong ze xian wei dang xiao
 侯马市委党校	hou ma shi wei dang xiao
+后排英雄	hou pai ying xiong
+后期切后排	hou qi qie hou pai
+后羿	hou yi
+后羿阿尔法小队	hou yi a er fa xiao dui
+后羿精灵王	hou yi jing ling wang
+狐白	hu bai
 湖北财经高等专科学校	hu bei cai jing gao deng zhuan ke xue xiao
 湖北城市建设职业技术学院	hu bei cheng shi jian she zhi ye ji shu xue yuan
 湖北大学	hu bei da xue
@@ -2134,6 +2373,7 @@ use_preset_vocabulary: false
 湖北中医药高等专科学校	hu bei zhong yi yao gao deng zhuan ke xue xiao
 湖大法学院	hu da fa xue yuan
 湖大化工学院	hu da hua gong xue yuan
+蝴蝶梦	hu die meng
 呼和浩特广播电视大学	hu he hao te guang bo dian shi da xue
 呼和浩特市社会主义学院	hu he hao te shi she hui zhu yi xue yuan
 呼和浩特市委党校	hu he hao te shi wei dang xiao
@@ -2143,6 +2383,7 @@ use_preset_vocabulary: false
 呼和浩特职业学院传媒学院	hu he hao te zhi ye xue yuan chuan mei xue yuan
 呼和浩特职业学院机电工程学院	hu he hao te zhi ye xue yuan ji dian gong cheng xue yuan
 呼和浩特职业学院铁道学院	hu he hao te zhi ye xue yuan tie dao xue yuan
+护甲鞋	hu jia xie
 护理学院	hu li xue yuan
 葫芦岛市南票区委党校	hu lu dao shi nan piao qu wei dang xiao
 葫芦岛行政学院	hu lu dao xing zheng xue yuan
@@ -2258,6 +2499,7 @@ use_preset_vocabulary: false
 湖州市委党校	hu zhou shi wei dang xiao
 湖州新世纪外国语学校	hu zhou xin shi ji wai guo yu xue xiao
 湖州职业技术学院	hu zhou zhi ye ji shu xue yuan
+护主邪冢	hu zhu xie zhong
 华澳国际会计学院	hua ao guo ji kuai ji xue yuan
 华北电力大学	hua bei dian li da xue
 华北电业联合职工大学	hua bei dian ye lian he zhi gong da xue
@@ -2284,6 +2526,7 @@ use_preset_vocabulary: false
 华光学院	hua guang xue yuan
 华海学院	hua hai xue yuan
 华美学院	hua mei xue yuan
+花木兰	hua mu lan
 华南工商学院	hua nan gong shang xue yuan
 华南理工大学	hua nan li gong da xue
 华南农业大学	hua nan nong ye da xue
@@ -2343,12 +2586,15 @@ use_preset_vocabulary: false
 淮阴师范学院	huai yin shi fan xue yuan
 淮阴师范学院文通学院	huai yin shi fan xue yuan wen tong xue yuan
 环翠区委党校	huan cui qu wei dang xiao
+换掉	huan diao
 环境保护职业技术学院	huan jing bao hu zhi ye ji shu xue yuan
 环境与能源工程学院	huan jing yu neng yuan gong cheng xue yuan
 桓仁满族自治县行政学校	huan ren man zu zi zhi xian xing zheng xue xiao
 桓仁县委党校	huan ren xian wei dang xiao
 桓台县委党校	huan tai xian wei dang xiao
 桓台县委老干部党校	huan tai xian wei lao gan bu dang xiao
+换线	huan xian
+欢迎来到王者荣耀	huan ying lai dao wang zhe rong yao
 黄埭镇委党校	huang dai zhen wei dang xiao
 黄渡镇老年学校	huang du zhen lao nian xue xiao
 黄冈广播电视大学	huang gang guang bo dian shi da xue
@@ -2362,6 +2608,9 @@ use_preset_vocabulary: false
 黄河水利技术学院	huang he shui li ji shu xue yuan
 黄河医学专修学院	huang he yi xue zhuan xiu xue yuan
 黄淮学院	huang huai xue yuan
+皇家上将	huang jia shang jiang
+黄金	huang jin
+黄金武士	huang jin wu shi
 黄克竞工学院	huang ke jing gong xue yuan
 黄路镇老年学校	huang lu zhen lao nian xue xiao
 黄梅县行政学校	huang mei xian xing zheng xue xiao
@@ -2373,10 +2622,19 @@ use_preset_vocabulary: false
 黄石广播电视大学	huang shi guang bo dian shi da xue
 黄石理工学院	huang shi li gong xue yuan
 黄石市行政学院	huang shi shi xing zheng xue yuan
+黄忠	huang zhong
+黄忠纽约教父	huang zhong niu yue jiao fu
 湟中县广播电视大学	huang zhong xian guang bo dian shi da xue
+黄忠芝加哥教父	huang zhong zhi jia ge jiao fu
+回城徽章	hui cheng hui zhang
 惠东县广播电视大学	hui dong xian guang bo dian shi da xue
+灰灰	hui hui
 惠来县广播电视大学	hui lai xian guang bo dian shi da xue
 惠民县委党校	hui min xian wei dang xiao
+回响	hui xiang
+回响之杖	hui xiang zhi zhang
+回血装备技能	hui xue zhuang bei ji neng
+辉月	hui yue
 惠州经济学院	hui zhou jing ji xue yuan
 惠州理工学校	hui zhou li gong xue xiao
 惠州市广播电视大学	hui zhou shi guang bo dian shi da xue
@@ -2392,17 +2650,31 @@ use_preset_vocabulary: false
 霍城县委党校	huo cheng xian wei dang xiao
 霍城县五七大学	huo cheng xian wu qi da xue
 霍城县行政学校	huo cheng xian xing zheng xue xiao
+火甲	huo jia
 霍娜格兰商学院	huo na ge lan shang xue yuan
+火炮千金	huo pao qian jin
+火舞	huo wu
+火焰山	huo yan shan
+火焰山大战	huo yan shan da zhan
+活跃度系统	huo yue du xi tong
 霍州行政学校	huo zhou xing zheng xue xiao
 吉安市财政干部学校	ji an shi cai zheng gan bu xue xiao
 吉安市吉州区行政学校	ji an shi ji zhou qu xing zheng xue xiao
+疾步之靴	ji bu zhi xue
 吉大基础医学院	ji da ji chu yi xue yuan
 吉大外贸学院	ji da wai mao xue yuan
 吉大一莱姆顿学院	ji da yi lai mu dun xue yuan
 吉大职业学院	ji da zhi ye xue yuan
 鸡东县委党校	ji dong xian wei dang xiao
+击飞	ji fei
+机关术	ji guan shu
+机关血条	ji guan xue tiao
+机关造物	ji guan zao wu
 济光学院	ji guang xue yuan
 济光职业技术学院	ji guang zhi ye ji shu xue yuan
+极寒风暴	ji han feng bao
+集火	ji huo
+集火秒杀	ji huo miao sha
 冀联医学院	ji lian yi xue yuan
 吉林传播学院	ji lin chuan bo xue yuan
 吉林传播专修学院	ji lin chuan bo zhuan xiu xue yuan
@@ -2495,6 +2767,8 @@ use_preset_vocabulary: false
 济南职工科技大学	ji nan zhi gong ke ji da xue
 济南职业工程学院	ji nan zhi ye gong cheng xue yuan
 济南职业学院	ji nan zhi ye xue yuan
+技能分析	ji neng fen xi
+技能冷却鞋子	ji neng leng que xie zi
 济宁广播电视大学	ji ning guang bo dian shi da xue
 济宁技术学院	ji ning ji shu xue yuan
 济宁市人民警察学校	ji ning shi ren min jing cha xue xiao
@@ -2505,11 +2779,14 @@ use_preset_vocabulary: false
 济宁学院	ji ning xue yuan
 济宁医学院	ji ning yi xue yuan
 济宁职业技术学院	ji ning zhi ye ji shu xue yuan
+疾跑	ji pao
 稷山县委党校	ji shan xian wei dang xiao
+即时对战	ji shi dui zhan
 吉首大学	ji shou da xue
 吉首市委党校	ji shou shi wei dang xiao
 吉水县委党校	ji shui xian wei dang xiao
 吉水县行政学校	ji shui xian xing zheng xue xiao
+急速战靴	ji su zhan xue
 鸡西大学	ji xi da xue
 鸡西广播电视大学	ji xi guang bo dian shi da xue
 鸡西天立外国语学院	ji xi tian li wai guo yu xue yuan
@@ -2519,9 +2796,11 @@ use_preset_vocabulary: false
 集贤县行政干部学校	ji xian xian xing zheng gan bu xue xiao
 机械电子工程师进修大学	ji xie dian zi gong cheng shi jin xiu da xue
 机械工业职工大学	ji xie gong ye zhi gong da xue
+机械之圣	ji xie zhi sheng
 机械职业大学	ji xie zhi ye da xue
 继续教育学院	ji xu jiao yu xue yuan
 济阳县党校	ji yang xian dang xiao
+基友	ji you
 冀中科技学院	ji zhong ke ji xue yuan
 冀中职业学院	ji zhong zhi ye xue yuan
 冀壮国际工商管理学院	ji zhuang guo ji gong shang guan li xue yuan
@@ -2529,6 +2808,7 @@ use_preset_vocabulary: false
 嘉定区老干部大学	jia ding qu lao gan bu da xue
 嘉定区委党校	jia ding qu wei dang xiao
 加格达奇区委党校	jia ge da qi qu wei dang xiao
+加勒比小姐	jia le bi xiao jie
 佳木斯大学	jia mu si da xue
 佳木斯广播电视大学	jia mu si guang bo dian shi da xue
 佳木斯市联合职工大学	jia mu si shi lian he zhi gong da xue
@@ -2564,6 +2844,7 @@ use_preset_vocabulary: false
 建设街涉外经济学院	jian she jie she wai jing ji xue yuan
 建设镇老年学校	jian she zhen lao nian xue xiao
 建设职工大学	jian she zhi gong da xue
+剑圣	jian sheng
 健雄职业技术学院	jian xiong zhi ye ji shu xue yuan
 建阳市委党校	jian yang shi wei dang xiao
 简阳市委党校	jian yang shi wei dang xiao
@@ -2740,6 +3021,7 @@ use_preset_vocabulary: false
 江阴职业技术学院	jiang yin zhi ye ji shu xue yuan
 江阴职业技术学院成人教育学院	jiang yin zhi ye ji shu xue yuan cheng ren jiao yu xue yuan
 江油工业学校	jiang you gong ye xue xiao
+姜子牙	jiang zi ya
 蕉城区行政干部学校	jiao cheng qu xing zheng gan bu xue xiao
 蛟河广播电视大学	jiao he guang bo dian shi da xue
 蛟河市委党校	jiao he shi wei dang xiao
@@ -2750,6 +3032,7 @@ use_preset_vocabulary: false
 教师进修大学	jiao shi jin xiu da xue
 教师进修学校	jiao shi jin xiu xue xiao
 教师进修学院	jiao shi jin xiu xue yuan
+教廷特使	jiao ting te shi
 交通大学	jiao tong da xue
 交通技师学院	jiao tong ji shi xue yuan
 教育学院	jiao yu xue yuan
@@ -2760,11 +3043,13 @@ use_preset_vocabulary: false
 焦作市委党校	jiao zuo shi wei dang xiao
 焦作市行政学院	jiao zuo shi xing zheng xue yuan
 焦作职工医学院	jiao zuo zhi gong yi xue yuan
+桀骜炎枪	jie ao yan qiang
 揭阳市广播电视大学	jie yang shi guang bo dian shi da xue
 揭阳市社会主义学院	jie yang shi she hui zhu yi xue yuan
 揭阳市委党校	jie yang shi wei dang xiao
 揭阳市行政学院	jie yang shi xing zheng xue yuan
 揭阳学院	jie yang xue yuan
+金币	jin bi
 金昌市委党校	jin chang shi wei dang xiao
 金昌市行政学院	jin chang shi xing zheng xue yuan
 金城江区委党校	jin cheng jiang qu wei dang xiao
@@ -2781,6 +3066,7 @@ use_preset_vocabulary: false
 金华市社会主义学院	jin hua shi she hui zhu yi xue yuan
 金华市委党校	jin hua shi wei dang xiao
 金华市行政学院	jin hua shi xing zheng xue yuan
+进化水晶	jin hua shui jing
 金华职业技术学院	jin hua zhi ye ji shu xue yuan
 浸会大学	jin hui da xue
 金汇镇老年学校	jin hui zhen lao nian xue xiao
@@ -2804,8 +3090,11 @@ use_preset_vocabulary: false
 金坛市广播电视大学	jin tan shi guang bo dian shi da xue
 金坛市委党校	jin tan shi wei dang xiao
 金堂县老年大学	jin tang xian lao nian da xue
+近卫荣耀	jin wei rong yao
 金乡镇委党校	jin xiang zhen wei dang xiao
 浸信会神学院	jin xin hui shen xue yuan
+禁血狂兽	jin xue kuang shou
+锦衣卫	jin yi wei
 晋中市社会主义学院	jin zhong shi she hui zhu yi xue yuan
 晋中市委党校	jin zhong shi wei dang xiao
 晋中市行政学院	jin zhong shi xing zheng xue yuan
@@ -2831,11 +3120,16 @@ use_preset_vocabulary: false
 警官学校	jing guan xue xiao
 静海县委党校	jing hai xian wei dang xiao
 景洪市委党校	jing hong shi wei dang xiao
+净化	jing hua
 景华美容美发培训学院	jing hua mei rong mei fa pei xun xue yuan
 京华医科大学	jing hua yi ke da xue
 经济管理干部学院	jing ji guan li gan bu xue yuan
 靖江市委党校	jing jiang shi wei dang xiao
 靖江市行政学校	jing jiang shi xing zheng xue xiao
+警戒令	jing jie ling
+荆轲	jing ke
+精灵公主	jing ling gong zhu
+精灵王	jing ling wang
 荆门市党校	jing men shi dang xiao
 荆门市社会主义学院	jing men shi she hui zhu yi xue yuan
 荆门市行政学院	jing men shi xing zheng xue yuan
@@ -2876,15 +3170,23 @@ use_preset_vocabulary: false
 酒泉市行政学院	jiu quan shi xing zheng xue yuan
 酒泉职业技术学院	jiu quan zhi ye ji shu xue yuan
 九三委主办复新进修学院	jiu san wei zhu ban fu xin jin xiu xue yuan
+九天	jiu tian
 九原区教师进修学校	jiu yuan qu jiao shi jin xiu xue xiao
 九原区行政学院	jiu yuan qu xing zheng xue yuan
 九州大学	jiu zhou da xue
+举报	ju bao
 莒南县委党校	ju nan xian wei dang xiao
+巨人之握	ju ren zhi wo
 莒县县委党校	ju xian xian wei dang xiao
 莒县县委老干部党校	ju xian xian wei lao gan bu dang xiao
 巨野县委党校	ju ye xian wei dang xiao
+橘右京	ju you jing
 鄄城县委党校	juan cheng xian wei dang xiao
+绝代智谋	jue dai zhi mou
+倔强青铜	jue jiang qing tong
+绝世舞姬	jue shi wu ji
 筠连县委党校	jun lian xian wei dang xiao
+军团荣耀	jun tuan rong yao
 喀什教育学院	ka shi jiao yu xue yuan
 喀什师范学院	ka shi shi fan xue yuan
 喀什市委党校	ka shi shi wei dang xiao
@@ -2896,12 +3198,14 @@ use_preset_vocabulary: false
 开封市广播电视大学	kai feng shi guang bo dian shi da xue
 开封市金明区委党校	kai feng shi jin ming qu wei dang xiao
 开封市委党校	kai feng shi wei dang xiao
+开黑	kai hei
 开滦党校	kai luan dang xiao
 开平市伟伦广播电视大学	kai ping shi wei lun guang bo dian shi da xue
 开平市行政学校	kai ping shi xing zheng xue xiao
 坎山镇委党校	kan shan zhen wei dang xiao
 康定县委党校	kang ding xian wei dang xiao
 康健街道老年学校	kang jian jie dao lao nian xue xiao
+抗魔披风	kang mo pi feng
 康培研修学院	kang pei yan xiu xue yuan
 康平县行政干部学校	kang ping xian xing zheng gan bu xue xiao
 康桥镇老年学校	kang qiao zhen lao nian xue xiao
@@ -2909,6 +3213,7 @@ use_preset_vocabulary: false
 科尔沁区委党校	ke er qin qu wei dang xiao
 科尔沁右翼前旗委党校	ke er qin you yi qian qi wei dang xiao
 科尔沁左翼后旗委党校	ke er qin zuo yi hou qi wei dang xiao
+可汗狂猎	ke han kuang lie
 科技大学	ke ji da xue
 科技干部进修学院	ke ji gan bu jin xiu xue yuan
 科技进修学院	ke ji jin xiu xue yuan
@@ -2918,6 +3223,8 @@ use_preset_vocabulary: false
 克拉玛依行政学院	ke la ma yi xing zheng xue yuan
 克拉玛依职业技术学院	ke la ma yi zhi ye ji shu xue yuan
 柯隶华医学院	ke li hua yi xue yuan
+克隆大作战	ke long da zuo zhan
+克隆模式	ke long mo shi
 克旗委党校	ke qi wei dang xiao
 克山县党校	ke shan xian dang xiao
 科右中旗委党校	ke you zhong qi wei dang xiao
@@ -2926,12 +3233,17 @@ use_preset_vocabulary: false
 克州党校	ke zhou dang xiao
 垦利县委党校	ken li xian wei dang xiao
 控江街道老年学校	kong jiang jie dao lao nian xue xiao
+控线	kong xian
+控制技能	kong zhi ji neng
 库尔勒市委党校	ku er le shi wei dang xiao
 库伦旗五七大学	ku lun qi wu qi da xue
 会计专修学院	kuai ji zhuan xiu xue yuan
 宽城满族自治县委党校	kuan cheng man zu zi zhi xian wei dang xiao
+狂暴	kuang bao
+狂暴双刃	kuang bao shuang ren
 矿山大学	kuang shan da xue
 矿务局工人大学	kuang wu ju gong ren da xue
+狂战士	kuang zhan shi
 奎屯市电大	kui tun shi dian da
 奎文区委党校	kui wen qu wei dang xiao
 昆都仑区行政干部学院	kun du lun qu xing zheng gan bu xue yuan
@@ -2956,6 +3268,7 @@ use_preset_vocabulary: false
 昆山市玉山镇委党校	kun shan shi yu shan zhen wei dang xiao
 昆山市张浦镇党校	kun shan shi zhang pu zhen dang xiao
 昆山市周庄镇党校	kun shan shi zhou zhuang zhen dang xiao
+辣鸡	la ji
 拉萨市行政学院	la sa shi xing zheng xue yuan
 莱钢电大	lai gang dian da
 莱芜市委党校	lai wu shi wei dang xiao
@@ -2965,8 +3278,15 @@ use_preset_vocabulary: false
 莱阳市广播电视大学	lai yang shi guang bo dian shi da xue
 莱阳市委党校	lai yang shi wei dang xiao
 莱州市委党校	lai zhou shi wei dang xiao
+蓝宝石	lan bao shi
+兰陵王	lan ling wang
+兰陵王隐刃	lan ling wang yin ren
 兰坪县委党校	lan ping xian wei dang xiao
 兰坪县行政学校	lan ping xian xing zheng xue xiao
+蓝色急救	lan se ji jiu
+蓝色渴血	lan se ke xue
+蓝色轮回	lan se lun hui
+蓝色正义	lan se zheng yi
 兰山区委党校	lan shan qu wei dang xiao
 蓝田县委党校	lan tian xian wei dang xiao
 蓝天学院	lan tian xue yuan
@@ -3006,6 +3326,7 @@ use_preset_vocabulary: false
 老边区委党校	lao bian qu wei dang xiao
 劳动大学	lao dong da xue
 劳动大学干部学校	lao dong da xue gan bu xue xiao
+老夫子	lao fu zi
 老干部大学	lao gan bu da xue
 老年大学	lao nian da xue
 老年人大学	lao nian ren da xue
@@ -3023,6 +3344,10 @@ use_preset_vocabulary: false
 乐山市金口河区委党校	le shan shi jin kou he qu wei dang xiao
 乐山市市中区委党校	le shan shi shi zhong qu wei dang xiao
 乐山信息技术专修学院	le shan xin xi ji shu zhuan xiu xue yuan
+雷鸣刃	lei ming ren
+冷静之靴	leng jing zhi xue
+冷血装备	leng xue zhuang bei
+李白	li bai
 鲤城电视大学	li cheng dian shi da xue
 历城区行政干部学校	li cheng qu xing zheng gan bu xue xiao
 立达职业技术学院	li da zhi ye ji shu xue yuan
@@ -3031,6 +3356,8 @@ use_preset_vocabulary: false
 丽江市古城区委员会党校	li jiang shi gu cheng qu wei yuan hui dang xiao
 丽江市社会主义学院	li jiang shi she hui zhu yi xue yuan
 丽江市委党校	li jiang shi wei dang xiao
+李九	li jiu
+力量腰带	li liang yao dai
 醴陵市渌江职业技术学校	li ling shi lu jiang zhi ye ji shu xue xiao
 黎明大学	li ming da xue
 力诺大学	li nuo da xue
@@ -3042,15 +3369,24 @@ use_preset_vocabulary: false
 溧水县委党校	li shui xian wei dang xiao
 溧水县行政学校	li shui xian xing zheng xue xiao
 丽水职业技术学院	li shui zhi ye ji shu xue yuan
+离我远点	li wo yuan dian
 蠡县广播电视大学	li xian guang bo dian shi da xue
+李元芳	li yuan fang
+李元芳特种部队	li yuan fang te zhong bu dui
 莲花县委党校	lian hua xian wei dang xiao
 莲花县行政学校	lian hua xian xing zheng xue xiao
 连江电大	lian jiang dian da
+炼金大师	lian jin da shi
+炼金护符	lian jin hu fu
+炼金王	lian jin wang
 连南劳动大学	lian nan lao dong da xue
 连南县广播电视大学	lian nan xian guang bo dian shi da xue
 连南县教师进修学校	lian nan xian jiao shi jin xiu xue xiao
 连南县委党校	lian nan xian wei dang xiao
 连平县广播电视大学	lian ping xian guang bo dian shi da xue
+廉颇	lian po
+恋人	lian ren
+连杀	lian sha
 连山县广播电视大学	lian shan xian guang bo dian shi da xue
 连山县教师进修学校	lian shan xian jiao shi jin xiu xue xiao
 练市镇委党校	lian shi zhen wei dang xiao
@@ -3061,12 +3397,15 @@ use_preset_vocabulary: false
 连云港市委党校	lian yun gang shi wei dang xiao
 连云港市委市级机关党校	lian yun gang shi wei shi ji ji guan dang xiao
 连云港市职业技术学院	lian yun gang shi zhi ye ji shu xue yuan
+连招加点	lian zhao jia dian
+恋之微风	lian zhi wei feng
 连州市广播电视大学	lian zhou shi guang bo dian shi da xue
 连州市委党校	lian zhou shi wei dang xiao
 凉山广播电视大学	liang shan guang bo dian shi da xue
 凉山州委党校	liang shan zhou wei dang xiao
 凉山州行政学院	liang shan zhou xing zheng xue yuan
 梁头镇委党校	liang tou zhen wei dang xiao
+两小	liang xiao
 凉州区羊下坝镇党校	liang zhou qu yang xia ba zhen dang xiao
 辽北技师学院	liao bei ji shi xue yuan
 聊城大学	liao cheng da xue
@@ -3183,10 +3522,17 @@ use_preset_vocabulary: false
 六安市行政学院	liu an shi xing zheng xue yuan
 六安市裕安区委党校	liu an shi yu an qu wei dang xiao
 留坝县委党校	liu ba xian wei dang xiao
+刘邦	liu bang
+刘备	liu bei
+刘备汉昭烈帝	liu bei han zhao lie di
+刘备万事如意	liu bei wan shi ru yi
+刘表	liu biao
 刘国钧高等职业技术学校	liu guo jun gao deng zhi ye ji shu xue xiao
+六令追凶	liu ling zhui xiong
 六盘水市电视大学	liu pan shui shi dian shi da xue
 六盘水市委党校	liu pan shui shi wei dang xiao
 六盘水职业技术学院	liu pan shui zhi ye ji shu xue yuan
+刘禅	liu shan
 浏阳市委党校	liu yang shi wei dang xiao
 六灶镇老年学校	liu zao zhen lao nian xue xiao
 柳州财经学校	liu zhou cai jing xue xiao
@@ -3207,6 +3553,7 @@ use_preset_vocabulary: false
 陇川县行政学校	long chuan xian xing zheng xue xiao
 陇东学院	long dong xue yuan
 龙海市委党校	long hai shi wei dang xiao
+龙虎榜	long hu bang
 龙华街道老年学校	long hua jie dao lao nian xue xiao
 龙江县委党校	long jiang xian wei dang xiao
 龙江县行政干部学校	long jiang xian xing zheng gan bu xue xiao
@@ -3221,7 +3568,9 @@ use_preset_vocabulary: false
 龙泉驿区行政学校	long quan yi qu xing zheng xue xiao
 龙沙区委党校	long sha qu wei dang xiao
 龙塘国际护理学院	long tang guo ji hu li xue yuan
+龙腾万里	long teng wan li
 龙溪师范学校	long xi shi fan xue xiao
+龙信	long xin
 龙岩电大	long yan dian da
 龙岩技师学院	long yan ji shi xue yuan
 龙岩市委党校	long yan shi wei dang xiao
@@ -3233,12 +3582,18 @@ use_preset_vocabulary: false
 六安市委党校	lu an shi wei dang xiao
 六安职业技术学院	lu an zhi ye ji shu xue yuan
 潞安职业技术学院	lu an zhi ye ji shu xue yuan
+鲁班	lu ban
+鲁班大师	lu ban da shi
+鲁班七号	lu ban qi hao
 芦潮港镇老年学校	lu chao gang zhen lao nian xue xiao
 鲁东大学	lu dong da xue
 陆丰市广播电视大学	lu feng shi guang bo dian shi da xue
 陆丰市委党校	lu feng shi wei dang xiao
 陆河县广播电视大学	lu he xian guang bo dian shi da xue
 卢龙县委党校	lu long xian wei dang xiao
+露娜	lu na
+露娜哥特玫瑰	lu na ge te mei gui
+露娜紫霞仙子	lu na zi xia xian zi
 路桥区委党校	lu qiao qu wei dang xiao
 鹿泉市委党校	lu quan shi wei dang xiao
 庐山区委党校	lu shan qu wei dang xiao
@@ -3270,6 +3625,7 @@ use_preset_vocabulary: false
 漯河职业技术学院	luo he zhi ye ji shu xue yuan
 洛南县委党校	luo nan xian wei dang xiao
 洛宁行政学校	luo ning xing zheng xue xiao
+洛神降临	luo shen jiang lin
 洛阳电大	luo yang dian da
 洛阳教育学院	luo yang jiao yu xue yuan
 洛阳经贸学院	luo yang jing mao xue yuan
@@ -3283,13 +3639,18 @@ use_preset_vocabulary: false
 罗源电大	luo yuan dian da
 罗源县委党校	luo yuan xian wei dang xiao
 罗子沟五七大学	luo zi gou wu qi da xue
+吕布	lv bu
 绿岛学校	lv dao xue xiao
 绿华镇老年学校	lv hua zhen lao nian xue xiao
+绿甲	lv jia
 吕梁电视大学	lv liang dian shi da xue
 吕梁高等专科学校	lv liang gao deng zhuan ke xue xiao
 吕梁教育学院	lv liang jiao yu xue yuan
 吕梁会计学校	lv liang kuai ji xue xiao
 吕梁行政学院	lv liang xing zheng xue yuan
+绿色侵蚀	lv se qin shi
+绿色心眼	lv se xin yan
+绿色野性	lv se ye xing
 旅游服务管理学院	lv you fu wu guan li xue yuan
 旅游学院	lv you xue yuan
 马鞍山电视网络大学	ma an shan dian shi wang luo da xue
@@ -3302,6 +3663,8 @@ use_preset_vocabulary: false
 马边彝族自治县委党校	ma bian yi zu zi zhi xian wei dang xiao
 麻城广播电视大学	ma cheng guang bo dian shi da xue
 麻城市行政学校	ma cheng shi xing zheng xue xiao
+马可	ma ke
+马可波罗	ma ke bo luo
 玛利诺修院学院	ma li nuo xiu yuan xue yuan
 马陆镇老年学校	ma lu zhen lao nian xue xiao
 马桥镇老年学校	ma qiao zhen lao nian xue xiao
@@ -3316,6 +3679,8 @@ use_preset_vocabulary: false
 茂名市职业技术学院	mao ming shi zhi ye ji shu xue yuan
 茂名学院	mao ming xue yuan
 美的学院	mei di xue yuan
+魅惑之狐	mei huo zhi hu
+没蓝	mei lan
 梅里斯达斡尔族区委党校	mei li si da wo er zu qu wei dang xiao
 眉山电大信息工程学校	mei shan dian da xin xi gong cheng xue xiao
 眉山广播电视大学	mei shan guang bo dian shi da xue
@@ -3324,6 +3689,8 @@ use_preset_vocabulary: false
 眉山职业技术学院	mei shan zhi ye ji shu xue yuan
 梅县县委党校	mei xian xian wei dang xiao
 眉县县委党校	mei xian xian wei dang xiao
+没血	mei xue
+魅影面罩	mei ying mian zhao
 梅园新村街道老年学校	mei yuan xin cun jie dao lao nian xue xiao
 梅州市广播电视大学	mei zhou shi guang bo dian shi da xue
 梅州市社会主义学院	mei zhou shi she hui zhu yi xue yuan
@@ -3333,15 +3700,20 @@ use_preset_vocabulary: false
 门头沟区委党校	men tou gou qu wei dang xiao
 蒙代尔国际企业家大学	meng dai er guo ji qi ye jia da xue
 盟农垦大学	meng nong ken da xue
+梦魇	meng yan
+梦魇之牙	meng yan zhi ya
 蒙阴县委党校	meng yin xian wei dang xiao
 蒙阴县行政干部学校	meng yin xian xing zheng gan bu xue xiao
 米东新区工作委员会党校	mi dong xin qu gong zuo wei yuan hui dang xiao
 弥渡县委党校	mi du xian wei dang xiao
 弥渡县行政学校	mi du xian xing zheng xue xiao
+秘法之靴	mi fa zhi xue
 密山市委党校	mi shan shi wei dang xiao
+芈月	mi yue
 密云县行政学校	mi yun xian xing zheng xue xiao
 渑池县委党校	mian chi xian wei dang xiao
 棉花巷北塘区老年大学	mian hua xiang bei tang qu lao nian da xue
+面具	mian ju
 勉县县委党校	mian xian xian wei dang xiao
 绵阳创业学院	mian yang chuang ye xue yuan
 绵阳广播电视大学	mian yang guang bo dian shi da xue
@@ -3351,6 +3723,7 @@ use_preset_vocabulary: false
 绵阳市行政学院	mian yang shi xing zheng xue yuan
 绵阳职业技术学院	mian yang zhi ye ji shu xue yuan
 绵竹市委党校	mian zhu shi wei dang xiao
+秒脆皮英雄	miao cui pi ying xiong
 庙镇老年学校	miao zhen lao nian xue xiao
 民办东方联合学院	min ban dong fang lian he xue yuan
 民办天河职业技术学院	min ban tian he zhi ye ji shu xue yuan
@@ -3374,10 +3747,30 @@ use_preset_vocabulary: false
 明爱乐群学校	ming ai yue qun xue xiao
 铭传大学	ming chuan da xue
 明达职业技术学院	ming da zhi ye ji shu xue yuan
+名刀	ming dao
+名刀司命	ming dao si ming
 明华上海海院深圳进修学院	ming hua shang hai hai yuan shen zhen jin xiu xue yuan
+明媚烈焰	ming mei lie yan
+铭文	ming wen
+铭文碎片	ming wen sui pian
+铭文系统	ming wen xi tong
 明阳镇委党校	ming yang zhen wei dang xiao
 明园大学	ming yuan da xue
+魔道	mo dao
+魔法小厨娘	mo fa xiao chu niang
 漠河县委党校	mo he xian wei dang xiao
+墨家机关道	mo jia ji guan dao
+魔抗	mo kang
+魔抗鞋子	mo kang xie zi
+魔女斗篷	mo nv dou peng
+魔女面纱	mo nv mian sha
+末日机甲	mo ri ji jia
+魔神降临	mo shen jiang lin
+末世	mo shi
+莫邪夺魂	mo ye duo hun
+魔种	mo zhong
+魔种少女	mo zhong shao nv
+墨子	mo zi
 牟定县委员会党校	mou ding xian wei yuan hui dang xiao
 牟定县行政学校	mou ding xian xing zheng xue xiao
 牡丹江大学	mu dan jiang da xue
@@ -3392,6 +3785,7 @@ use_preset_vocabulary: false
 木兰县委党校	mu lan xian wei dang xiao
 穆棱市委党校	mu ling shi wei dang xiao
 牧业工程高等专科学校	mu ye gong cheng gao deng zhuan ke xue xiao
+娜可露露	na ke lu lu
 奈曼旗委党校	nai man qi wei dang xiao
 南安电大	nan an dian da
 南岸区委党校	nan an qu wei dang xiao
@@ -3571,6 +3965,8 @@ use_preset_vocabulary: false
 南洋学院	nan yang xue yuan
 南洋镇委党校	nan yang zhen wei dang xiao
 讷河党校	ne he dang xiao
+哪吒	ne zha
+哪吒哪吒	ne zha ne zha
 内江广播电视大学	nei jiang guang bo dian shi da xue
 内江师范学院	nei jiang shi fan xue yuan
 内江市社会主义学院	nei jiang shi she hui zhu yi xue yuan
@@ -3611,6 +4007,9 @@ use_preset_vocabulary: false
 内蒙古中山软件专修学院	nei meng gu zhong shan ruan jian zhuan xiu xue yuan
 内蒙古中山学院	nei meng gu zhong shan xue yuan
 内蒙儒科职业学院	nei meng ru ke zhi ye xue yuan
+内圈	nei quan
+你们跑不掉了	ni men pao bu diao le
+你们已无路可逃	ni men yi wu lu ke tao
 宁波城市职业技术学院	ning bo cheng shi zhi ye ji shu xue yuan
 宁波大红鹰职业技术学院	ning bo da hong ying zhi ye ji shu xue yuan
 宁波大学	ning bo da xue
@@ -3662,6 +4061,8 @@ use_preset_vocabulary: false
 宁夏医学院	ning xia yi xue yuan
 宁夏职业技术学院	ning xia zhi ye ji shu xue yuan
 宁乡县委党校	ning xiang xian wei dang xiao
+牛魔	niu mo
+纽约教父	niu yue jiao fu
 农二师委员会党校	nong er shi wei yuan hui dang xiao
 农行河南省分行党校	nong hang he nan sheng fen hang dang xiao
 农垦干部学校	nong ken gan bu xue xiao
@@ -3674,7 +4075,9 @@ use_preset_vocabulary: false
 农业科学院	nong ye ke xue yuan
 农一师委员会党校	nong yi shi wei yuan hui dang xiao
 农一师行政学校	nong yi shi xing zheng xue xiao
+女娲	nv wa
 欧阳路街道老年学校	ou yang lu jie dao lao nian xue xiao
+排位	pai wei
 磐安县行政学校	pan an xian xing zheng xue xiao
 盘锦广播电视大学	pan jin guang bo dian shi da xue
 盘锦市教师进修学院	pan jin shi jiao shi jin xiu xue yuan
@@ -3693,6 +4096,7 @@ use_preset_vocabulary: false
 番禺职业技术学院行知学院	pan yu zhi ye ji shu xue yuan xing zhi xue yuan
 攀枝花广播电视大学	pan zhi hua guang bo dian shi da xue
 攀枝花学院	pan zhi hua xue yuan
+庞统	pang tong
 培德学院	pei de xue yuan
 沛县县委党校	pei xian xian wei dang xiao
 沛县行政学校	pei xian xing zheng xue xiao
@@ -3703,6 +4107,9 @@ use_preset_vocabulary: false
 彭阳县行政学院	peng yang xian xing zheng xue yuan
 彭州市委党校	peng zhou shi wei dang xiao
 彭州市行政学校	peng zhou shi xing zheng xue xiao
+皮肤	pi fu
+皮肤碎片	pi fu sui pian
+匹配	pi pei
 皮山县党校	pi shan xian dang xiao
 郫县县委党校	pi xian xian wei dang xiao
 邳州市广播电视大学	pi zhou shi guang bo dian shi da xue
@@ -3742,6 +4149,16 @@ use_preset_vocabulary: false
 平阴县孝直镇委党校	ping yin xian xiao zhi zhen wei dang xiao
 平远县广播电视大学	ping yuan xian guang bo dian shi da xue
 平原县委党校	ping yuan xian wei dang xiao
+瓶子	ping zi
+破败	po bai
+破甲	po jia
+破甲弓	po jia gong
+破军	po jun
+破军之矛	po jun zhi mao
+破灭	po mie
+破灭君主	po mie jun zhu
+破魔刀	po mo dao
+破碎圣杯	po sui sheng bei
 鄱阳县行政学校	po yang xian xing zheng xue xiao
 浦北县党校	pu bei xian dang xiao
 浦东教师进修学校	pu dong jiao shi jin xiu xue xiao
@@ -3749,6 +4166,7 @@ use_preset_vocabulary: false
 浦东新区建设和交通委员会党校	pu dong xin qu jian she he jiao tong wei yuan hui dang xiao
 浦东新区委党校	pu dong xin qu wei dang xiao
 浦东新区行政学院	pu dong xin qu xing zheng xue yuan
+普攻	pu gong
 蒲江县委党校	pu jiang xian wei dang xiao
 蒲江县行政学校	pu jiang xian xing zheng xue xiao
 浦口街道委员会党校	pu kou jie dao wei yuan hui dang xiao
@@ -3797,15 +4215,20 @@ use_preset_vocabulary: false
 栖霞市委党校	qi xia shi wei dang xiao
 七贤镇人民政府一类成人学校	qi xian zhen ren min zheng fu yi lei cheng ren xue xiao
 齐贤镇委员会党校	qi xian zhen wei yuan hui dang xiao
+泣血之刃	qi xue zhi ren
 黔东南民族职业技术学院	qian dong nan min zu zhi ye ji shu xue yuan
 黔东南州行政学院	qian dong nan zhou xing zheng xue yuan
 前郭县委党校	qian guo xian wei dang xiao
 黔江电大	qian jiang dian da
 潜江市行政学校	qian jiang shi xing zheng xue xiao
 前进大学	qian jin da xue
+千金重弩	qian jin zhong nu
 黔南民族医学高等专科学校	qian nan min zu yi xue gao deng zhuan ke xue xiao
 黔南民族职业技术学院	qian nan min zu zhi ye ji shu xue yuan
 黔南行政学院	qian nan xing zheng xue yuan
+千年狐	qian nian hu
+千年之狐	qian nian zhi hu
+前期发育	qian qi fa yu
 犍为电大	qian wei dian da
 犍为县行政学校	qian wei xian xing zheng xue xiao
 迁西电视大学	qian xi dian shi da xue
@@ -3814,6 +4237,8 @@ use_preset_vocabulary: false
 黔西南州行政学院	qian xi nan zhou xing zheng xue yuan
 乾县县委党校	qian xian xian wei dang xiao
 千阳县委党校	qian yang xian wei dang xiao
+强杀脆皮	qiang sha cui pi
+蔷薇恋人	qiang wei lian ren
 乔司镇委党校	qiao si zhen wei dang xiao
 侨鑫大学	qiao xin da xue
 侨鑫工商管理专修学院	qiao xin gong shang guan li zhuan xiu xue yuan
@@ -3825,6 +4250,7 @@ use_preset_vocabulary: false
 秦皇岛市行政学院	qin huang dao shi xing zheng xue yuan
 秦皇岛外国语职业学院	qin huang dao wai guo yu zhi ye xue yuan
 秦皇岛职业技术学院	qin huang dao zhi ye ji shu xue yuan
+侵蚀	qin shi
 钦州市社会主义学院	qin zhou shi she hui zhu yi xue yuan
 钦州市行政学院	qin zhou shi xing zheng xue yuan
 青村镇老年学校	qing cun zhen lao nian xue xiao
@@ -3876,6 +4302,8 @@ use_preset_vocabulary: false
 清涧五七大学	qing jian wu qi da xue
 清流县委党校	qing liu xian wei dang xiao
 青龙县委党校	qing long xian wei dang xiao
+青龙偃月	qing long yan yue
+情侣	qing lv
 青浦区白鹤镇委党校	qing pu qu bai he zhen wei dang xiao
 青浦区财经进修学校	qing pu qu cai jing jin xiu xue xiao
 青浦区成人进修学院	qing pu qu cheng ren jin xiu xue yuan
@@ -3885,6 +4313,7 @@ use_preset_vocabulary: false
 青山区委党校	qing shan qu wei dang xiao
 清水河县教师进修学校	qing shui he xian jiao shi jin xiu xue xiao
 青田县行政学校	qing tian xian xing zheng xue xiao
+青铜	qing tong
 青铜峡市行政学院	qing tong xia shi xing zheng xue yuan
 清新县委党校	qing xin xian wei dang xiao
 青阳广播电视大学	qing yang guang bo dian shi da xue
@@ -3917,6 +4346,7 @@ use_preset_vocabulary: false
 衢州市衢江区委党校	qu zhou shi qu jiang qu wei dang xiao
 衢州市委党校	qu zhou shi wei dang xiao
 曲周县委党校	qu zhou xian wei dang xiao
+拳王	quan wang
 泉州电视大学	quan zhou dian shi da xue
 泉州纺织服装职业学院	quan zhou fang zhi fu zhuang zhi ye xue yuan
 泉州光电信息职业学院	quan zhou guang dian xin xi zhi ye xue yuan
@@ -3927,14 +4357,20 @@ use_preset_vocabulary: false
 泉州行政学院	quan zhou xing zheng xue yuan
 泉州医学高等专科学校	quan zhou yi xue gao deng zhuan ke xue xiao
 泉州育青学院	quan zhou yu qing xue yuan
+燃魂重炮	ran hun zhong pao
 饶平县广播电视大学	rao ping xian guang bo dian shi da xue
+热烈之斧	re lie zhi fu
 任城区委老干部党校	ren cheng qu wei lao gan bu dang xiao
 任大学校	ren da xue xiao
+仁德义枪	ren de yi qiang
 仁化县行政学校	ren hua xian xing zheng xue xiao
 仁济医科专修学院	ren ji yi ke zhuan xiu xue yuan
 人民广场街道老年学校	ren min guang chang jie dao lao nian xue xiao
 仁寿电大	ren shou dian da
 仁寿县行政学校	ren shou xian xing zheng xue xiao
+忍炎影	ren yan ying
+日冕	ri mian
+日蚀亲临	ri shi qin lin
 日照广播电视大学	ri zhao guang bo dian shi da xue
 日照市东港区委党校	ri zhao shi dong gang qu wei dang xiao
 日照市委党校	ri zhao shi wei dang xiao
@@ -3945,19 +4381,28 @@ use_preset_vocabulary: false
 荣成市广播电视大学	rong cheng shi guang bo dian shi da xue
 荣成市夏庄镇委党校	rong cheng shi xia zhuang zhen wei dang xiao
 容城县五七大学	rong cheng xian wu qi da xue
+熔炼之心	rong lian zhi xin
 融水苗族自治县行政学校	rong shui miao zu zi zhi xian xing zheng xue xiao
 融水县委党校	rong shui xian wei dang xiao
+荣耀兵器谱	rong yao bing qi pu
+荣耀黄金	rong yao huang jin
+荣耀王者	rong yao wang zhe
+肉盾	rou dun
+肉装	rou zhuang
 如东广播电视大学	ru dong guang bo dian shi da xue
 如东县委党校	ru dong xian wei dang xiao
 如皋电大	ru gao dian da
 如皋高等师范学校	ru gao gao deng shi fan xue xiao
 如皋市委党校	ru gao shi wei dang xiao
+如我之神迹	ru wo zhi shen ji
 乳源教师进修学校	ru yuan jiao shi jin xiu xue xiao
 软件学院	ruan jian xue yuan
 芮城县委党校	rui cheng xian wei dang xiao
 瑞金二路街道老年学校	rui jin er lu jie dao lao nian xue xiao
 瑞丽市委党校	rui li shi wei dang xiao
 若尔盖县委党校	ruo er gai xian wei dang xiao
+弱化	ruo hua
+赛事周刊	sai shi zhou kan
 三墩镇老年学校	san dun zhen lao nian xue xiao
 三江大学	san jiang da xue
 三江民族行政学校	san jiang min zu xing zheng xue xiao
@@ -3966,6 +4411,7 @@ use_preset_vocabulary: false
 三江学院成人教育学院	san jiang xue yuan cheng ren jiao yu xue yuan
 三江学院高等职业技术学院	san jiang xue yuan gao deng zhi ye ji shu xue yuan
 三联职业技术学院	san lian zhi ye ji shu xue yuan
+三路争锋	san lu zheng feng
 三门峡市委党校	san men xia shi wei dang xiao
 三门峡行政学院	san men xia xing zheng xue yuan
 三门峡职业技术学院	san men xia zhi ye ji shu xue yuan
@@ -3974,7 +4420,11 @@ use_preset_vocabulary: false
 三明学院	san ming xue yuan
 三平五七大学	san ping wu qi da xue
 三荣集团天天好商学院	san rong ji tuan tian tian hao shang xue yuan
+三杀	san sha
+三圣	san sheng
+三圣之力	san sheng zhi li
 三水广播电视大学	san shui guang bo dian shi da xue
+三太子	san tai zi
 三峡大学	san xia da xue
 三峡机电技术培训学院	san xia ji dian ji shu pei xun xue yuan
 三峡联合职业大学	san xia lian he zhi ye da xue
@@ -3991,17 +4441,22 @@ use_preset_vocabulary: false
 森泰达职业学院	sen tai da zhi ye xue yuan
 莎车县委党校	sha che xian wei dang xiao
 沙河口区委党校	sha he kou qu wei dang xiao
+杀戮之影	sha lu zhi ying
 沙孟海书学院	sha meng hai shu xue yuan
 沙坪坝区社会主义学院	sha ping ba qu she hui zhu yi xue yuan
 沙坪坝区委党校	sha ping ba qu wei dang xiao
+杀人书	sha ren shu
 沙市大学	sha shi da xue
+杀手不太冷	sha shou bu tai leng
 沙湾县委员会党校	sha wan xian wei yuan hui dang xiao
 沙县县委党校	sha xian xian wei dang xiao
 沙洋县行政学校	sha yang xian xing zheng xue xiao
 沙洲工学院	sha zhou gong xue yuan
+鲨嘴炮	sha zui pao
 汕大成人教育学院	shan da cheng ren jiao yu xue yuan
 杉达大学	shan da da xue
 山大法律职业学院	shan da fa lv zhi ye xue yuan
+闪电匕首	shan dian bi shou
 山东财政学院	shan dong cai zheng xue yuan
 山东财政学院东方学院	shan dong cai zheng xue yuan dong fang xue yuan
 山东财政职工大学	shan dong cai zheng zhi gong da xue
@@ -4139,6 +4594,7 @@ use_preset_vocabulary: false
 山东中西医联合大学	shan dong zhong xi yi lian he da xue
 山东中医药大学	shan dong zhong yi yao da xue
 山东中医药高等专科学校	shan dong zhong yi yao gao deng zhuan ke xue xiao
+善恶怪医	shan e guai yi
 山口乡五七大学	shan kou xiang wu qi da xue
 山荣农场业余大学	shan rong nong chang ye yu da xue
 山亭区委党校	shan ting qu wei dang xiao
@@ -4303,6 +4759,7 @@ use_preset_vocabulary: false
 陕西中医学院	shan xi zhong yi xue yuan
 山西中医学院	shan xi zhong yi xue yuan
 山西综合职业技术学院	shan xi zong he zhi ye ji shu xue yuan
+闪现	shan xian
 陕县县委党校	shan xian xian wei dang xiao
 单县县委党校	shan xian xian wei dang xiao
 上钢新村街道老年学校	shang gang xin cun jie dao lao nian xue xiao
@@ -4407,6 +4864,7 @@ use_preset_vocabulary: false
 上海市邮电职工大学	shang hai shi you dian zhi gong da xue
 上海市闸北区教师进修学院	shang hai shi zha bei qu jiao shi jin xiu xue yuan
 上海市钟表工业公司职工大学	shang hai shi zhong biao gong ye gong si zhi gong da xue
+伤害输出	shang hai shu chu
 上海水产大学	shang hai shui chan da xue
 上海体育运动技术学院	shang hai ti yu yun dong ji shu xue yuan
 上海体育职业学院	shang hai ti yu zhi ye xue yuan
@@ -4429,6 +4887,7 @@ use_preset_vocabulary: false
 上栗县委党校	shang li xian wei dang xiao
 上林县委党校	shang lin xian wei dang xiao
 上林县行政学校	shang lin xian xing zheng xue xiao
+上路	shang lu
 商洛电大	shang luo dian da
 商洛市行政学院	shang luo shi xing zheng xue yuan
 商洛学院	shang luo xue yuan
@@ -4452,6 +4911,7 @@ use_preset_vocabulary: false
 上师大旅游学院	shang shi da lv you xue yuan
 上学师范大学	shang xue shi fan da xue
 商学院	shang xue yuan
+上野	shang ye
 商业大学	shang ye da xue
 尚义县大青沟镇党校	shang yi xian da qing gou zhen dang xiao
 上虞市委党校	shang yu shi wei dang xiao
@@ -4461,6 +4921,7 @@ use_preset_vocabulary: false
 韶关学院继续教育学院	shao guan xue yuan ji xu jiao yu xue yuan
 韶关学院医学院	shao guan xue yuan yi xue yuan
 少年地质环保科学院	shao nian di zhi huan bao ke xue yuan
+少女阿狸	shao nv a li
 韶山市委党校	shao shan shi wei dang xiao
 绍兴电大	shao xing dian da
 绍兴市委党校	shao xing shi wei dang xiao
@@ -4479,9 +4940,17 @@ use_preset_vocabulary: false
 社会大学	she hui da xue
 社会科学大学	she hui ke xue da xue
 社会主义学院	she hui zhu yi xue yuan
+蛇皮走位	she pi zou wei
+射手	she shou
 涉县县委党校	she xian xian wei dang xiao
+神兵天降	shen bing tian jiang
 沈河区委党校	shen he qu wei dang xiao
+蜃楼王	shen lou wang
+神梦一刀	shen meng yi dao
+神秘斗篷	shen mi dou peng
 神农架林区委党校	shen nong jia lin qu wei dang xiao
+神射	shen she
+神速之靴	shen su zhi xue
 沈阳出国管理人员培训学院	shen yang chu guo guan li ren yuan pei xun xue yuan
 沈阳大学	shen yang da xue
 沈阳电大	shen yang dian da
@@ -4543,7 +5012,9 @@ use_preset_vocabulary: false
 沈阳职业技术学院计算机学院	shen yang zhi ye ji shu xue yuan ji suan ji xue yuan
 沈阳职业技术学院商学院	shen yang zhi ye ji shu xue yuan shang xue yuan
 沈阳中医药学院	shen yang zhong yi yao xue yuan
+神隐斗篷	shen yin dou peng
 沈音艺术学院	shen yin yi shu xue yuan
+深渊大乱斗	shen yuan da luan dou
 神召神学院	shen zhao shen xue yuan
 深圳城市学院	shen zhen cheng shi xue yuan
 深圳大学	shen zhen da xue
@@ -4568,20 +5039,28 @@ use_preset_vocabulary: false
 深圳振西科技学院	shen zhen zhen xi ke ji xue yuan
 深圳职业技术学院	shen zhen zhi ye ji shu xue yuan
 深圳自学考试辅导学院	shen zhen zi xue kao shi fu dao xue yuan
+圣杯	sheng bei
 升达大学	sheng da da xue
+圣诞恋歌	sheng dan lian ge
 省第一师范大学	sheng di yi shi fan da xue
+圣殿骑士团	sheng dian qi shi tuan
 省公安司法干部管理学院	sheng gong an si fa gan bu guan li xue yuan
 省工商行政管理学院	sheng gong shang xing zheng guan li xue yuan
 省科技职工大学	sheng ke ji zhi gong da xue
 胜利油田党校	sheng li you tian dang xiao
 胜利油田电视大学	sheng li you tian dian shi da xue
 省联合大学	sheng lian he da xue
+生命打野刀	sheng ming da ye dao
+圣骑之力	sheng qi zhi li
 省师范大学	sheng shi fan da xue
 省委党校行政学院继续教育学院	sheng wei dang xiao xing zheng xue yuan ji xu jiao yu xue yuan
 省委党校云南行政学院	sheng wei dang xiao yun nan xing zheng xue yuan
 生物工程职业技术学院	sheng wu gong cheng zhi ye ji shu xue yuan
+圣域余晖	sheng yu yu hui
+圣者法典	sheng zhe fa dian
 省政府机关干部业务大学	sheng zheng fu ji guan gan bu ye wu da xue
 嵊州市委党校	sheng zhou shi wei dang xiao
+十步杀一人千里不留人	shi bu sha yi ren qian li bu liu ren
 师大城环学院	shi da cheng huan xue yuan
 师大化学学院	shi da hua xue xue yuan
 师大理学院	shi da li xue yuan
@@ -4659,10 +5138,14 @@ use_preset_vocabulary: false
 市老年大学	shi lao nian da xue
 石林行政学校	shi lin xing zheng xue xiao
 石门二路街道老年学校	shi men er lu jie dao lao nian xue xiao
+噬灭日蚀	shi mie ri shi
 石碁镇委党校	shi qi zhen wei dang xiao
 石泉路街道老年学校	shi quan lu jie dao lao nian xue xiao
+嗜杀剑气	shi sha jian qi
+噬神之书	shi shen zhi shu
 石首市行政学校	shi shou shi xing zheng xue xiao
 石台县委党校	shi tai xian wei dang xiao
+师徒系统	shi tu xi tong
 市委党校	shi wei dang xiao
 始兴县广播电视大学	shi xing xian guang bo dian shi da xue
 始兴县教师进修学校	shi xing xian jiao shi jin xiu xue xiao
@@ -4675,14 +5158,21 @@ use_preset_vocabulary: false
 石油管理干部学院	shi you guan li gan bu xue yuan
 石油化工管理干部学院	shi you hua gong guan li gan bu xue yuan
 石油专修学院	shi you zhuan xiu xue yuan
+时之预言	shi zhi yu yan
 首都经济贸易大学	shou du jing ji mao yi da xue
 首都联合职工大学	shou du lian he zhi gong da xue
 首都师范大学	shou du shi fan da xue
 首都体育学院	shou du ti yu xue yuan
 首都医科大学	shou du yi ke da xue
 首钢工学院	shou gang gong xue yuan
+收割	shou ge
+收割技能	shou ge ji neng
+守护者之铠	shou hu zhe zhi kai
+狩猎宽刃	shou lie kuan ren
+输出	shu chu
 疏附县委党校	shu fu xian wei dang xiao
 疏附县行政学校	shu fu xian xing zheng xue xiao
+数据封神榜	shu ju feng shen bang
 舒兰市电视大学	shu lan shi dian shi da xue
 疏勒县委党校	shu le xian wei dang xiao
 澍青医学院	shu qing yi xue yuan
@@ -4690,17 +5180,27 @@ use_preset_vocabulary: false
 沭阳国际学校	shu yang guo ji xue xiao
 沭阳县委党校	shu yang xian wei dang xiao
 书院镇老年学校	shu yuan zhen lao nian xue xiao
+刷新暴君	shua xin bao jun
+刷新黑暗暴君	shua xin hei an bao jun
+刷新野怪	shua xin ye guai
+刷新主宰	shua xin zhu zai
+刷野	shua ye
 双城市广播电视大学	shuang cheng shi guang bo dian shi da xue
 双城市委党校	shuang cheng shi wei dang xiao
 双流县黄甲乡成人教育学院	shuang liu xian huang jia xiang cheng ren jiao yu xue yuan
+双面君主	shuang mian jun zhu
+双杀	shuang sha
 双鸭山广播电视大学	shuang ya shan guang bo dian shi da xue
 双鸭山市委党校	shuang ya shan shi wei dang xiao
 双鸭山市行政学院	shuang ya shan shi xing zheng xue yuan
 水产学院	shui chan xue yuan
 水城县委党校	shui cheng xian wei dang xiao
+水果甜心	shui guo tian xin
+水晶	shui jing
 水磨沟区委党校	shui mo gou qu wei dang xiao
 顺德教师进修学校	shun de jiao shi jin xiu xue xiao
 顺德职业技术学院	shun de zhi ye ji shu xue yuan
+顺风	shun feng
 朔县农业大学	shuo xian nong ye da xue
 朔州市委党校	shuo zhou shi wei dang xiao
 朔州行政学院	shuo zhou xing zheng xue yuan
@@ -4766,6 +5266,7 @@ use_preset_vocabulary: false
 四川邮电职业技术学院	si chuan you dian zhi ye ji shu xue yuan
 四川中山学院	si chuan zhong shan xue yuan
 四川自修大学	si chuan zi xiu da xue
+死的多注意下战局	si de duo zhu yi xia zhan ju
 司法警官学校	si fa jing guan xue xiao
 泗洪县委党校	si hong xian wei dang xiao
 四会市广播电视大学	si hui shi guang bo dian shi da xue
@@ -4780,8 +5281,12 @@ use_preset_vocabulary: false
 四平市教育学院	si ping shi jiao yu xue yuan
 四平市委党校	si ping shi wei dang xiao
 四平市行政学院	si ping shi xing zheng xue yuan
+四杀	si sha
+死神来了	si shen lai le
 泗水县委党校	si shui xian wei dang xiao
 四团镇老年学校	si tuan zhen lao nian xue xiao
+死亡骑士	si wang qi shi
+死亡之刃	si wang zhi ren
 泗县五七大学	si xian wu qi da xue
 泗阳广播电视大学	si yang guang bo dian shi da xue
 泗阳县委党校	si yang xian wei dang xiao
@@ -4801,7 +5306,9 @@ use_preset_vocabulary: false
 松原广播电视大学	song yuan guang bo dian shi da xue
 松原市委党校	song yuan shi wei dang xiao
 松原市行政学院	song yuan shi xing zheng xue yuan
+搜查令	sou cha ling
 宿城区行政学校	su cheng qu xing zheng xue xiao
+速击之枪	su ji zhi qiang
 苏加学院	su jia xue yuan
 苏尼特右旗委党校	su ni te you qi wei dang xiao
 苏尼特右旗行政学校	su ni te you qi xing zheng xue xiao
@@ -4859,6 +5366,11 @@ use_preset_vocabulary: false
 随州广播电视大学	sui zhou guang bo dian shi da xue
 随州市委党校	sui zhou shi wei dang xiao
 随州职业技术学院	sui zhou zhi ye ji shu xue yuan
+孙膑	sun bin
+孙膑妖精王	sun bin yao jing wang
+孙尚香	sun shang xiang
+孙尚香蔷薇恋人	sun shang xiang qiang wei lian ren
+孙悟空	sun wu kong
 塔城地委党校	ta cheng di wei dang xiao
 塔城广播电视大学	ta cheng guang bo dian shi da xue
 塔河县委党校	ta he xian wei dang xiao
@@ -4896,6 +5408,9 @@ use_preset_vocabulary: false
 台湾科技大学	tai wan ke ji da xue
 台湾师范大学	tai wan shi fan da xue
 泰兴市委党校	tai xing shi wei dang xiao
+太乙	tai yi
+太乙圆桌骑士	tai yi yuan zhuo qi shi
+太乙真人	tai yi zhen ren
 太原城市职业技术学院	tai yuan cheng shi zhi ye ji shu xue yuan
 太原大学	tai yuan da xue
 太原电力高等专科学校	tai yuan dian li gao deng zhuan ke xue xiao
@@ -4928,6 +5443,9 @@ use_preset_vocabulary: false
 泰州师专	tai zhou shi zhuan
 台州学院	tai zhou xue yuan
 台州职业技术学院	tai zhou zhi ye ji shu xue yuan
+坦克	tan ke
+贪婪之噬	tan lan zhi shi
+贪狼之握	tan lang zhi wo
 坦洲理工学校	tan zhou li gong xue xiao
 塘沽区委党校	tang gu qu wei dang xiao
 塘桥街道老年学校	tang qiao jie dao lao nian xue xiao
@@ -4940,11 +5458,15 @@ use_preset_vocabulary: false
 唐山学院	tang shan xue yuan
 唐山职业技术学院	tang shan zhi ye ji shu xue yuan
 汤旺河区党校	tang wang he qu dang xiao
+饕餮血统	tao tie xue tong
 桃源广播电视大学	tao yuan guang bo dian shi da xue
 桃源镇委党校	tao yuan zhen wei dang xiao
 特殊教育学院	te shu jiao yu xue yuan
+特种部队	te zhong bu dui
 滕王阁文学院	teng wang ge wen xue yuan
 滕州市委党校	teng zhou shi wei dang xiao
+提神水晶	ti shen shui jing
+体验服	ti yan fu
 体育学院	ti yu xue yuan
 天诚信息技术专修学院	tian cheng xin xi ji shu zhuan xiu xue yuan
 天河学院	tian he xue yuan
@@ -5089,13 +5611,17 @@ use_preset_vocabulary: false
 天津中德职业技术学院	tian jin zhong de zhi ye ji shu xue yuan
 天津中医药大学	tian jin zhong yi yao da xue
 天京进修学院	tian jing jin xiu xue yuan
+天籁弦音	tian lai xian yin
 田林街道老年学校	tian lin jie dao lao nian xue xiao
+天美	tian mei
 天门市广播电视大学	tian men shi guang bo dian shi da xue
 天门市社会主义学院	tian men shi she hui zhu yi xue yuan
 天门市行政学校	tian men shi xing zheng xue xiao
 天目西路街道老年学校	tian mu xi lu jie dao lao nian xue xiao
 天平街道老年学校	tian ping jie dao lao nian xue xiao
+天启骑士	tian qi qi shi
 天桥区委老干部党校	tian qiao qu wei lao gan bu dang xiao
+天犬伏击	tian quan fu ji
 天山路街道老年学校	tian shan lu jie dao lao nian xue xiao
 天水师范学院	tian shui shi fan xue yuan
 天水市秦州区委党校	tian shui shi qin zhou qu wei dang xiao
@@ -5104,6 +5630,9 @@ use_preset_vocabulary: false
 天水新科技专修学院	tian shui xin ke ji zhuan xiu xue yuan
 天台广播电视大学	tian tai guang bo dian shi da xue
 天台县委党校	tian tai xian wei dang xiao
+天堂福音	tian tang fu yin
+天瞳被动	tian tong bei dong
+天下无双	tian xia wu shuang
 天翔技术学院	tian xiang ji shu xue yuan
 天鹰语言学院	tian ying yu yan xue yuan
 铁道部天津干部学院	tie dao bu tian jin gan bu xue yuan
@@ -5111,6 +5640,7 @@ use_preset_vocabulary: false
 铁道部学院	tie dao bu xue yuan
 铁道管理干部学院	tie dao guan li gan bu xue yuan
 铁道职业技术学院	tie dao zhi ye ji shu xue yuan
+铁剑	tie jian
 铁科院铁道技术研修学院	tie ke yuan tie dao ji shu yan xiu xue yuan
 铁岭农业职业技术学院	tie ling nong ye zhi ye ji shu xue yuan
 铁岭师范高等专科学校	tie ling shi fan gao deng zhuan ke xue xiao
@@ -5121,6 +5651,7 @@ use_preset_vocabulary: false
 铁岭师专人文学院	tie ling shi zhuan ren wen xue yuan
 铁路教育学院	tie lu jiao yu xue yuan
 铁路运输职工大学	tie lu yun shu zhi gong da xue
+铁血都督	tie xue du du
 同安党校	tong an dang xiao
 同步计算机专修学院	tong bu ji suan ji zhuan xiu xue yuan
 通城县委党校	tong cheng xian wei dang xiao
@@ -5145,6 +5676,7 @@ use_preset_vocabulary: false
 通化医药学院	tong hua yi yao xue yuan
 同济大学	tong ji da xue
 同济医科大学	tong ji yi ke da xue
+痛苦面具	tong ku mian ju
 铜梁县委党校	tong liang xian wei dang xiao
 通辽广播电视大学	tong liao guang bo dian shi da xue
 通辽市公安干部学校	tong liao shi gong an gan bu xue xiao
@@ -5168,6 +5700,9 @@ use_preset_vocabulary: false
 通信工程学院	tong xin gong cheng xue yuan
 同心县委员会党校	tong xin xian wei yuan hui dang xiao
 通州区委党校	tong zhou qu wei dang xiao
+投降	tou xiang
+突进	tu jin
+突进英雄	tu jin ying xiong
 吐鲁番地区委党校	tu lu fan di qu wei dang xiao
 吐鲁番地区行政学院	tu lu fan di qu xing zheng xue yuan
 吐鲁番电大	tu lu fan dian da
@@ -5176,32 +5711,59 @@ use_preset_vocabulary: false
 图们市委党校	tu men shi wei dang xiao
 图们市行政学校	tu men shi xing zheng xue xiao
 土左旗委党校	tu zuo qi wei dang xiao
+团队增益	tuan dui zeng yi
 团风县行政干部学校	tuan feng xian xing zheng gan bu xue xiao
+团控	tuan kong
+团控英雄	tuan kong ying xiong
+团灭	tuan mie
+团他们团不过我们	tuan ta men tuan bu guo wo men
+团战	tuan zhan
+团战技巧	tuan zhan ji qiao
+团战思路	tuan zhan si lu
+推塔	tui ta
 屯昌县五七大学	tun chang xian wu qi da xue
 屯留县党校	tun liu xian dang xiao
 托克托县教师进修学校	tuo ke tuo xian jiao shi jin xiu xue xiao
 托县委党校	tuo xian wei dang xiao
 瓦房店市委党校	wa fang dian shi wei dang xiao
+外挂	wai gua
+外挂狗	wai gua gou
 外国语学院	wai guo yu xue yuan
 外交学院	wai jiao xue yuan
+外圈	wai quan
 外事翻译学院	wai shi fan yi xue yuan
 外事学院	wai shi xue yuan
 万博科技职业技术学院	wan bo ke ji zhi ye ji shu xue yuan
 万博科技职业学院	wan bo ke ji zhi ye xue yuan
+万古长明	wan gu chang ming
 万杰科技学院	wan jie ke ji xue yuan
 万杰医学高等专科学校	wan jie yi xue gao deng zhuan ke xue xiao
 万杰医学院	wan jie yi xue yuan
 皖南医学院	wan nan yi xue yuan
 万宁市师范学校	wan ning shi shi fan xue xiao
 万盛区委党校	wan sheng qu wei dang xiao
+万事如意	wan shi ru yi
+万物有灵	wan wu you ling
 皖西学院	wan xi xue yuan
+万象初新	wan xiang chu xin
 万祥镇老年学校	wan xiang zhen lao nian xue xiao
 万载县行政学校	wan zai xian xing zheng xue xiao
 万州电大	wan zhou dian da
 万州区委党校	wan zhou qu wei dang xiao
+王朝密令	wang chao mi ling
 望城县委党校	wang cheng xian wei dang xiao
+王都密探	wang du mi tan
 望奎县委党校	wang kui xian wei dang xiao
 汪清县行政学校	wang qing xian xing zheng xue xiao
+王昭君	wang zhao jun
+王昭君凤凰于飞	wang zhao jun feng huang yu fei
+王昭君精灵公主	wang zhao jun jing ling gong zhu
+王昭君我是歌手	wang zhao jun wo shi ge shou
+王者解毒	wang zhe jie du
+王者联盟	wang zhe lian meng
+王者峡谷	wang zhe xia gu
+王者学院	wang zhe xue yuan
+王者职业	wang zhe zhi ye
 围场县委党校	wei chang xian wei dang xiao
 潍城区委党校	wei cheng qu wei dang xiao
 潍坊电力职工大学	wei fang dian li zhi gong da xue
@@ -5215,6 +5777,7 @@ use_preset_vocabulary: false
 威海市委党校	wei hai shi wei dang xiao
 威海行政学院	wei hai xing zheng xue yuan
 威海职业学院	wei hai zhi ye xue yuan
+维京掠夺者	wei jing lue duo zhe
 渭南技术学院	wei nan ji shu xue yuan
 渭南市党校	wei nan shi dang xiao
 渭南师范学院	wei nan shi fan xue yuan
@@ -5223,6 +5786,9 @@ use_preset_vocabulary: false
 微山县委党校	wei shan xian wei dang xiao
 微山县行政学校	wei shan xian xing zheng xue xiao
 卫生部党校	wei sheng bu dang xiao
+渭水之畔	wei shui zhi pan
+猥琐发育	wei suo fa yu
+位移	wei yi
 威远电大	wei yuan dian da
 文成县行政学校	wen cheng xian xing zheng xue xiao
 文山县委党校	wen shan xian wei dang xiao
@@ -5236,12 +5802,17 @@ use_preset_vocabulary: false
 温州市党校	wen zhou shi dang xiao
 温州市忠义外国语学校	wen zhou shi zhong yi wai guo yu xue xiao
 温州医学院	wen zhou yi xue yuan
+稳住我们能赢	wen zhu wo men neng ying
 翁牛特旗委党校	weng niu te qi wei dang xiao
+我是歌手	wo shi ge shou
 武昌区积玉桥街市民文明学院	wu chang qu ji yu qiao jie shi min wen ming xue yuan
 五常市委党校	wu chang shi wei dang xiao
 武城县委党校	wu cheng xian wei dang xiao
 吴川市广播电视大学	wu chuan shi guang bo dian shi da xue
+武道大会	wu dao da hui
 武定县行政干部学校	wu ding xian xing zheng gan bu xue xiao
+无防御塔	wu fang yu ta
+五福同心	wu fu tong xin
 武钢职工大学	wu gang zhi gong da xue
 乌海市社会主义学院	wu hai shi she hui zhu yi xue yuan
 乌海市委党校	wu hai shi wei dang xiao
@@ -5363,18 +5934,26 @@ use_preset_vocabulary: false
 芜湖职业技术学院	wu hu zhi ye ji shu xue yuan
 芜湖中医高等专科学校	wu hu zhong yi gao deng zhuan ke xue xiao
 五华广播电视大学	wu hua guang bo dian shi da xue
+五级铭文	wu ji ming wen
 吴江市黎里镇党校	wu jiang shi li li zhen dang xiao
 吴江市农林局委员会党校	wu jiang shi nong lin ju wei yuan hui dang xiao
 吴江市平望镇委党校	wu jiang shi ping wang zhen wei dang xiao
 吴江市委党校	wu jiang shi wei dang xiao
 吴江市行政学校	wu jiang shi xing zheng xue xiao
 五角场镇老年学校	wu jiao chang zhen lao nian xue xiao
+无尽	wu jin
+无尽刀锋	wu jin dao feng
 武进电视大学	wu jin dian shi da xue
 武进区交通局党校	wu jin qu jiao tong ju dang xiao
+无尽战刃	wu jin zhan ren
+物抗	wu kang
 乌拉特前旗委员会党校	wu la te qian qi wei yuan hui dang xiao
 乌兰察布盟委党校	wu lan cha bu meng wei dang xiao
 乌兰察布市广播电视大学	wu lan cha bu shi guang bo dian shi da xue
 乌兰浩特市委党校	wu lan hao te shi wei dang xiao
+物理	wu li
+物理防御	wu li fang yu
+物理攻击	wu li gong ji
 五里桥街道老年学校	wu li qiao jie dao lao nian xue xiao
 五莲县高泽镇委党校	wu lian xian gao ze zhen wei dang xiao
 五莲县委党校	wu lian xian wei dang xiao
@@ -5395,10 +5974,15 @@ use_preset_vocabulary: false
 吴桥党校	wu qiao dang xiao
 邬桥镇老年学校	wu qiao zhen lao nian xue xiao
 武清区南蔡村镇党校	wu qing qu nan cai cun zhen dang xiao
+五杀	wu sha
+五杀超神	wu sha chao shen
 乌审旗委员会党校	wu shen qi wei yuan hui dang xiao
 乌什县委员会党校	wu shi xian wei yuan hui dang xiao
+巫术法杖	wu shu fa zhang
 乌苏市行政学校	wu su shi xing zheng xue xiao
+无畏之盾	wu wei zhi dun
 武威职业学院	wu wei zhi ye xue yuan
+五五开黑节	wu wu kai hei jie
 无锡城市职业技术学院	wu xi cheng shi zhi ye ji shu xue yuan
 无锡创新科技专修学院	wu xi chuang xin ke ji zhuan xiu xue yuan
 无锡工艺职业技术学校	wu xi gong yi zhi ye ji shu xue xiao
@@ -5428,6 +6012,8 @@ use_preset_vocabulary: false
 武邑县委员会党校	wu yi xian wei yuan hui dang xiao
 武夷学院	wu yi xue yuan
 婺源县委党校	wu yuan xian wei dang xiao
+武则天	wu ze tian
+武则天东方不败	wu ze tian dong fang bu bai
 吴忠市委党校	wu zhong shi wei dang xiao
 吴忠市行政学院	wu zhong shi xing zheng xue yuan
 梧州市委党校	wu zhou shi wei dang xiao
@@ -5615,6 +6201,11 @@ use_preset_vocabulary: false
 浠水县行政学校	xi shui xian xing zheng xue xiao
 西乌珠穆沁旗党校	xi wu zhu mu qin qi dang xiao
 西乡县委党校	xi xiang xian wei dang xiao
+吸血	xi xue
+吸血刀	xi xue dao
+吸血机制	xi xue ji zhi
+吸血书	xi xue shu
+吸血之镰	xi xue zhi lian
 西藏大学	xi zang da xue
 西藏警官高等专科学校	xi zang jing guan gao deng zhuan ke xue xiao
 西藏民族学院	xi zang min zu xue yuan
@@ -5625,7 +6216,11 @@ use_preset_vocabulary: false
 厦大外文学院	xia da wai wen xue yuan
 厦大艺术教育学院	xia da yi shu jiao yu xue yuan
 厦大政法学院	xia da zheng fa xue yuan
+夏侯淳	xia hou chun
+夏侯惇	xia hou dun
+夏侯惇战争骑士	xia hou dun zhan zheng qi shi
 峡江行政学校	xia jiang xing zheng xue xiao
+下路	xia lu
 厦门城市大学	xia men cheng shi da xue
 厦门大学	xia men da xue
 厦门国际会展职业学院	xia men guo ji hui zhan zhi ye xue yuan
@@ -5648,6 +6243,8 @@ use_preset_vocabulary: false
 厦门英语学院	xia men ying yu xue yuan
 霞浦县委党校	xia pu xian wei dang xiao
 夏县县委党校	xia xian xian wei dang xiao
+下野	xia ye
+瞎子	xia zi
 现代管理大学	xian dai guan li da xue
 现代信息工程职业技术学院	xian dai xin xi gong cheng zhi ye ji shu xue yuan
 现代艺术学院	xian dai yi shu xue yuan
@@ -5671,6 +6268,8 @@ use_preset_vocabulary: false
 咸阳市委党校	xian yang shi wei dang xiao
 咸阳市行政学院	xian yang shi xing zheng xue yuan
 仙游县委党校	xian you xian wei dang xiao
+贤者的庇护	xian zhe de bi hu
+贤者之书	xian zhe zhi shu
 襄樊广播电视大学	xiang fan guang bo dian shi da xue
 襄樊市樊城区委党校	xiang fan shi fan cheng qu wei dang xiao
 襄樊市襄阳区行政学院	xiang fan shi xiang yang qu xing zheng xue yuan
@@ -5710,8 +6309,11 @@ use_preset_vocabulary: false
 湘西州行政学院	xiang xi zhou xing zheng xue yuan
 湘西自治州委党校	xiang xi zi zhi zhou wei dang xiao
 湘阴县委党校	xiang yin xian wei dang xiao
+项羽	xiang yu
 襄垣县委党校	xiang yuan xian wei dang xiao
 乡镇企业管理干部学院	xiang zhen qi ye guan li gan bu xue yuan
+小兵血条	xiao bing xue tiao
+小丑面罩	xiao chou mian zhao
 小东门街道老年学校	xiao dong men jie dao lao nian xue xiao
 孝感广播电视大学	xiao gan guang bo dian shi da xue
 孝感市社会主义学院	xiao gan shi she hui zhu yi xue yuan
@@ -5720,13 +6322,19 @@ use_preset_vocabulary: false
 孝感学院	xiao gan xue yuan
 孝感学院新技术学院	xiao gan xue yuan xin ji shu xue yuan
 逍林镇委党校	xiao lin zhen wei dang xiao
+小龙	xiao long
 孝南区社会主义学校	xiao nan qu she hui zhu yi xue xiao
+小乔	xiao qiao
+小学生	xiao xue sheng
+逍遥幻梦	xiao yao huan meng
+小招	xiao zhao
 晓庄学院	xiao zhuang xue yuan
 协合学院	xie he xue yuan
 协和医大护理学院	xie he yi da hu li xue yuan
 协和医科大学	xie he yi ke da xue
 斜土街道老年学校	xie tu jie dao lao nian xue xiao
 新安学院	xin an xue yuan
+信白	xin bai
 新宾县委党校	xin bin xian wei dang xiao
 新昌县委党校	xin chang xian wei dang xiao
 新村乡老年学校	xin cun xiang lao nian xue xiao
@@ -5786,6 +6394,7 @@ use_preset_vocabulary: false
 新津县委党校	xin jin xian wei dang xiao
 新乐市教师进修学校	xin le shi jiao shi jin xiu xue xiao
 新乐市委党校	xin le shi wei dang xiao
+心流型	xin liu xing
 新龙华学院	xin long hua xue yuan
 新密市委党校	xin mi shi wei dang xiao
 新民市教委党校	xin min shi jiao wei dang xiao
@@ -5836,6 +6445,7 @@ use_preset_vocabulary: false
 兴城市行政学院	xing cheng shi xing zheng xue yuan
 星海音乐学院	xing hai yin yue xue yuan
 星海音乐学院附属中等音乐学院	xing hai yin yue xue yuan fu shu zhong deng yin yue xue yuan
+星航指挥官	xing hang zhi hui guan
 兴和县委党校	xing he xian wei dang xiao
 兴和县行政干部学校	xing he xian xing zheng gan bu xue xiao
 星河学院	xing he xue yuan
@@ -5855,6 +6465,8 @@ use_preset_vocabulary: false
 兴文县委党校	xing wen xian wei dang xiao
 行政学院	xing zheng xue yuan
 行知学院	xing zhi xue yuan
+型走位	xing zou wei
+凶残之力	xiong can zhi li
 秀水学院	xiu shui xue yuan
 许昌广播电视大学	xu chang guang bo dian shi da xue
 许昌县委党校	xu chang xian wei dang xiao
@@ -5863,7 +6475,9 @@ use_preset_vocabulary: false
 徐汇区老干部大学	xu hui qu lao gan bu da xue
 徐汇区委党校	xu hui qu wei dang xiao
 徐家汇街道老年学校	xu jia hui jie dao lao nian xue xiao
+虚灵城判	xu ling cheng pan
 畜牧科学院	xu mu ke xue yuan
+虚无法杖	xu wu fa zhang
 盱眙县委党校	xu yi xian wei dang xiao
 徐州工程学院	xu zhou gong cheng xue yuan
 徐州工业技术学院	xu zhou gong ye ji shu xue yuan
@@ -5886,12 +6500,25 @@ use_preset_vocabulary: false
 宣桥镇第一老年学校	xuan qiao zhen di yi lao nian xue xiao
 玄武电大	xuan wu dian da
 宣武区红旗业余大学	xuan wu qu hong qi ye yu da xue
+血刀	xue dao
+血量装备	xue liang zhuang bei
+血魔之怒	xue mo zhi nu
+雪山圆盾	xue shan yuan dun
+血书	xue shu
+血条	xue tiao
+血族之书	xue zu zhi shu
+迅捷	xun jie
+巡守利斧	xun shou li fu
 浔阳区委党校	xun yang qu wei dang xiao
 旬邑县委党校	xun yi xian wei dang xiao
 雅安职业技术学院	ya an zhi ye ji shu xue yuan
 亚澳管理学院	ya ao guan li xue yuan
+雅典娜	ya dian na
 亚东技术学院	ya dong ji shu xue yuan
 牙克石市委党校	ya ke shi shi wei dang xiao
+亚瑟	ya se
+亚瑟死亡骑士	ya se si wang qi shi
+压制英雄	ya zhi ying xiong
 延安大学	yan an da xue
 延安电大	yan an dian da
 延安市宝塔区委党校	yan an shi bao ta qu wei dang xiao
@@ -5929,8 +6556,12 @@ use_preset_vocabulary: false
 延吉街道老年学校	yan ji jie dao lao nian xue xiao
 延吉市行政学校	yan ji shi xing zheng xue xiao
 燕京函授医学院	yan jing han shou yi xue yuan
+眼镜蛇	yan jing she
 阎良区委党校	yan liang qu wei dang xiao
+言灵操纵	yan ling cao zong
 炎陵县委党校	yan ling xian wei dang xiao
+言灵之书	yan ling zhi shu
+言灵咒印	yan ling zhou yin
 延庆电视大学	yan qing dian shi da xue
 延庆县委党校	yan qing xian wei dang xiao
 燕山大学	yan shan da xue
@@ -5961,9 +6592,14 @@ use_preset_vocabulary: false
 阳谷县委党校	yang gu xian wei dang xiao
 阳光外国语学校	yang guang wai guo yu xue xiao
 杨家埠镇成人文化技术学院	yang jia bu zhen cheng ren wen hua ji shu xue yuan
+杨戬	yang jian
+杨戬埃及法老	yang jian ai ji fa lao
+杨戬出装	yang jian chu zhuang
+杨戬杨戬	yang jian yang jian
 阳江市广播电视大学	yang jiang shi guang bo dian shi da xue
 阳江市委党校	yang jiang shi wei dang xiao
 阳江市职业技术学院	yang jiang shi zhi ye ji shu xue yuan
+杨菊花	yang ju hua
 杨陵区委党校	yang ling qu wei dang xiao
 杨凌职业技术学院	yang ling zhi ye ji shu xue yuan
 阳明大学	yang ming da xue
@@ -5983,6 +6619,7 @@ use_preset_vocabulary: false
 洋县县委党校	yang xian xian wei dang xiao
 阳信县委党校	yang xin xian wei dang xiao
 阳新县行政学校	yang xin xian xing zheng xue xiao
+杨玉环	yang yu huan
 阳原县委员会党校	yang yuan xian wei yuan hui dang xiao
 扬中市八桥镇委党校	yang zhong shi ba qiao zhen wei dang xiao
 扬中市委党校	yang zhong shi wei dang xiao
@@ -6001,8 +6638,11 @@ use_preset_vocabulary: false
 扬州市社会主义学院	yang zhou shi she hui zhu yi xue yuan
 扬州市职工大学	yang zhou shi zhi gong da xue
 扬州职业大学	yang zhou zhi ye da xue
+妖精王	yao jing wang
 药科大学	yao ke da xue
+野怪血条	ye guai xue tiao
 冶金老干部大学	ye jin lao gan bu da xue
+野区	ye qu
 依安县委党校	yi an xian wei dang xiao
 宜宾广播电视大学	yi bin guang bo dian shi da xue
 宜宾社会主义学院	yi bin she hui zhu yi xue yuan
@@ -6012,6 +6652,7 @@ use_preset_vocabulary: false
 宜宾县委员会党校	yi bin xian wei yuan hui dang xiao
 宜宾学院	yi bin xue yuan
 宜宾职业技术学院	yi bin zhi ye ji shu xue yuan
+一波	yi bo
 宜昌市广播电视大学	yi chang shi guang bo dian shi da xue
 宜昌市行政学院	yi chang shi xing zheng xue yuan
 宜川路街道老年学校	yi chuan lu jie dao lao nian xue xiao
@@ -6026,7 +6667,9 @@ use_preset_vocabulary: false
 宜春学院成人教育学院	yi chun xue yuan cheng ren jiao yu xue yuan
 宜春学院职业技术学院	yi chun xue yuan zhi ye ji shu xue yuan
 伊春职业学院	yi chun zhi ye xue yuan
+移动装备	yi dong zhuang bei
 宜丰县委党校	yi feng xian wei dang xiao
+一级铭文	yi ji ming wen
 伊金霍洛旗委党校	yi jin huo luo qi wei dang xiao
 医科大学	yi ke da xue
 伊犁师范学院	yi li shi fan xue yuan
@@ -6036,18 +6679,23 @@ use_preset_vocabulary: false
 易门县委党校	yi men xian wei dang xiao
 伊宁市委党校	yi ning shi wei dang xiao
 伊宁县委党校	yi ning xian wei dang xiao
+一骑当千	yi qi dang qian
+一千零一夜	yi qian ling yi ye
+一人守家剩下的中路推	yi ren shou jia sheng xia de zhong lu tui
 亿事达商务进修学院	yi shi da shang wu jin xiu xue yuan
 艺术学院	yi shu xue yuan
 沂水县委党校	yi shui xian wei dang xiao
 沂水县行政学校	yi shui xian xing zheng xue xiao
 易斯顿国际美术学院	yi si dun guo ji mei shu xue yuan
 伊斯兰协会伊斯兰经学院	yi si lan xie hui yi si lan jing xue yuan
+移速鞋	yi su xie
 义乌工商学院	yi wu gong shang xue yuan
 义乌商贸专修学院	yi wu shang mao zhuan xiu xue yuan
 易县广播电视大学	yi xian guang bo dian shi da xue
 逸仙自修大学	yi xian zi xiu da xue
 宜兴技师学院	yi xing ji shi xue yuan
 宜兴市委党校	yi xing shi wei dang xiao
+一血	yi xue
 医学高等专科学校	yi xue gao deng zhuan ke xue xiao
 医学院	yi xue yuan
 益阳广播电视大学	yi yang guang bo dian shi da xue
@@ -6061,7 +6709,10 @@ use_preset_vocabulary: false
 仪征市委党校	yi zheng shi wei dang xiao
 银川大学	yin chuan da xue
 银川市委党校	yin chuan shi wei dang xiao
+隐刃	yin ren
 殷行街道老年学校	yin xing jie dao lao nian xue xiao
+饮血	yin xue
+阴阳师	yin yang shi
 鄞州电大	yin zhou dian da
 英才医学院	ying cai yi xue yuan
 应城市行政学校	ying cheng shi xing zheng xue xiao
@@ -6077,12 +6728,24 @@ use_preset_vocabulary: false
 营口市教师进修学院	ying kou shi jiao shi jin xiu xue yuan
 营口市委党校	ying kou shi wei dang xiao
 营口市职业技术学院	ying kou shi zhi ye ji shu xue yuan
+影刃	ying ren
+影忍之足	ying ren zhi zu
 鹰潭师范学院	ying tan shi fan xue yuan
 鹰潭市广播电视大学	ying tan shi guang bo dian shi da xue
 鹰潭市社会主义学院	ying tan shi she hui zhu yi xue yuan
 鹰潭市委党校	ying tan shi wei dang xiao
 鹰潭市行政学院	ying tan shi xing zheng xue yuan
 应天学院	ying tian xue yuan
+英雄	ying xiong
+英雄对战	ying xiong dui zhan
+英雄碎片	ying xiong sui pian
+英雄血条	ying xiong xue tiao
+英雄战迹	ying xiong zhan ji
+鹰眼的神射	ying yan de shen she
+嬴政	ying zheng
+嬴政暗夜贵公子	ying zheng an ye gui gong zi
+嬴政优雅恋人	ying zheng you ya lian ren
+鹰之守护	ying zhi shou hu
 永安电视大学	yong an dian shi da xue
 永川干部学院	yong chuan gan bu xue yuan
 永川区老干部党校	yong chuan qu lao gan bu dang xiao
@@ -6092,6 +6755,8 @@ use_preset_vocabulary: false
 永登县委党校	yong deng xian wei dang xiao
 永定区委党校	yong ding qu wei dang xiao
 永福县委党校	yong fu xian wei dang xiao
+永恒的乐章	yong heng de yue zhang
+永恒钻石	yong heng zuan shi
 永济市委党校	yong ji shi wei dang xiao
 永吉县委党校	yong ji xian wei dang xiao
 永济行政学校	yong ji xing zheng xue xiao
@@ -6111,10 +6776,12 @@ use_preset_vocabulary: false
 永州职业技术学院师范学院	yong zhou zhi ye ji shu xue yuan shi fan xue yuan
 永州职业技术学院信息工程学院	yong zhou zhi ye ji shu xue yuan xin xi gong cheng xue yuan
 邮电部管理干部学院	you dian bu guan li gan bu xue yuan
+游击弯刀	you ji wan dao
 右江民族医学院	you jiang min zu yi xue yuan
 右江区行政干部管理学校	you jiang qu xing zheng gan bu guan li xue xiao
 尤溪县委党校	you xi xian wei dang xiao
 游戏学院	you xi xue yuan
+优雅恋人	you ya lian ren
 友谊农场党校	you yi nong chang dang xiao
 渝北区委党校	yu bei qu wei dang xiao
 雨城区委党校	yu cheng qu wei dang xiao
@@ -6125,6 +6792,8 @@ use_preset_vocabulary: false
 余干县行政学校	yu gan xian xing zheng xue xiao
 余杭区乔司镇委党校	yu hang qu qiao si zhen wei dang xiao
 于洪区老干部大学	yu hong qu lao gan bu da xue
+虞姬	yu ji
+虞姬加勒比小姐	yu ji jia le bi xiao jie
 余江县委党校	yu jiang xian wei dang xiao
 尉犁县电大	yu li xian dian da
 玉林财经学校	yu lin cai jing xue xiao
@@ -6146,12 +6815,21 @@ use_preset_vocabulary: false
 豫园街道老年学校	yu yuan jie dao lao nian xue xiao
 豫章大学	yu zhang da xue
 榆中县委党校	yu zhong xian wei dang xiao
+远程狙击法师	yuan cheng ju ji fa shi
+远程消耗	yuan cheng xiao hao
 远东涉外学院	yuan dong she wai xue yuan
 远东外国语学院	yuan dong wai guo yu xue yuan
 袁隆平科技学院	yuan long ping ke ji xue yuan
 元谋县委员会党校	yuan mou xian wei yuan hui dang xiao
+元气弹	yuan qi dan
+元素杖	yuan su zhang
 远洋船员学院	yuan yang chuan yuan xue yuan
+远游之枪	yuan you zhi qiang
+圆桌骑士	yuan zhuo qi shi
+月爱	yue ai
+月光之女	yue guang zhi nv
 岳普湖县党校	yue pu hu xian dang xiao
+越塔	yue ta
 越秀区老干部大学	yue xiu qu lao gan bu da xue
 越秀区老年大学	yue xiu qu lao nian da xue
 越秀区社区文化艺术学校	yue xiu qu she qu wen hua yi shu xue xiao
@@ -6234,6 +6912,8 @@ use_preset_vocabulary: false
 云南中元科技专修学院	yun nan zhong yuan ke ji zhuan xiu xue yuan
 运输工程学院	yun shu gong cheng xue yuan
 云霄县委党校	yun xiao xian wei dang xiao
+陨星	yun xing
+晕眩	yun xuan
 云岩区环北办事处文明市民学院	yun yan qu huan bei ban shi chu wen ming shi min xue yuan
 云岩区老年大学	yun yan qu lao nian da xue
 郧阳师范专科学校	yun yang shi fan zhuan ke xue xiao
@@ -6251,6 +6931,7 @@ use_preset_vocabulary: false
 泽州县委党校	ze zhou xian wei dang xiao
 增城市广播电视大学	zeng cheng shi guang bo dian shi da xue
 增城市委党校	zeng cheng shi wei dang xiao
+增强移动鞋子	zeng qiang yi dong xie zi
 闸北区社会主义学院	zha bei qu she hui zhu yi xue yuan
 闸北区委党校	zha bei qu wei dang xiao
 闸北区行政学院	zha bei qu xing zheng xue yuan
@@ -6266,7 +6947,12 @@ use_preset_vocabulary: false
 湛江市体育运动学校	zhan jiang shi ti yu yun dong xue xiao
 湛江市委党校	zhan jiang shi wei dang xiao
 湛江智洋外语专修学院	zhan jiang zhi yang wai yu zhuan xiu xue yuan
+斩杀	zhan sha
+战士	zhan shi
+战争骑士	zhan zheng qi shi
 张店区委党校	zhang dian qu wei dang xiao
+张飞	zhang fei
+张飞五福同心	zhang fei wu fu tong xin
 章贡区委党校	zhang gong qu wei dang xiao
 张家港市委党校	zhang jia gang shi wei dang xiao
 张家港市杨舍镇委党校	zhang jia gang shi yang she zhen wei dang xiao
@@ -6286,6 +6972,9 @@ use_preset_vocabulary: false
 张家口市医学院	zhang jia kou shi yi xue yuan
 张家口职业技术学院	zhang jia kou zhi ye ji shu xue yuan
 张江镇老年学校	zhang jiang zhen lao nian xue xiao
+张良	zhang liang
+张良天堂福音	zhang liang tian tang fu yin
+张良一千零一夜	zhang liang yi qian ling yi ye
 漳浦县委党校	zhang pu xian wei dang xiao
 章丘市委党校	zhang qiu shi wei dang xiao
 张舍镇委党校	zhang she zhen wei dang xiao
@@ -6317,6 +7006,10 @@ use_preset_vocabulary: false
 朝阳市委党校	zhao yang shi wei dang xiao
 朝阳职工工学院	zhao yang zhi gong gong xue yuan
 招远市委党校	zhao yuan shi wei dang xiao
+赵云	zhao yun
+赵云白执事	zhao yun bai zhi shi
+赵云皇家上将	zhao yun huang jia shang jiang
+赵云火影皮肤	zhao yun huo ying pi fu
 浙大华夏乡镇企业学院	zhe da hua xia xiang zhen qi ye xue yuan
 浙大西溪校区法学院	zhe da xi xi xiao qu fa xue yuan
 浙江财经成人教育学院	zhe jiang cai jing cheng ren jiao yu xue yuan
@@ -6423,8 +7116,10 @@ use_preset_vocabulary: false
 浙江远大专修学院	zhe jiang yuan da zhuan xiu xue yuan
 浙江政法管理干部学院	zhe jiang zheng fa guan li gan bu xue yuan
 浙江中医药大学	zhe jiang zhong yi yao da xue
+折磨面具	zhe mo mian ju
 柘荣县委党校	zhe rong xian wei dang xiao
 震旦学院	zhen dan xue yuan
+甄姬	zhen ji
 镇江船艇学院	zhen jiang chuan ting xue yuan
 镇江市丹徒区委党校	zhen jiang shi dan tu qu wei dang xiao
 镇江市党校	zhen jiang shi dang xiao
@@ -6432,6 +7127,7 @@ use_preset_vocabulary: false
 镇江市建设学校	zhen jiang shi jian she xue xiao
 镇江市行政学院	zhen jiang shi xing zheng xue yuan
 真如镇老年学校	zhen ru zhen lao nian xue xiao
+振兴之铠	zhen xing zhi kai
 震泽镇党校	zhen ze zhen dang xiao
 郑大工业学院	zheng da gong ye xue yuan
 正大软件职业技术学院	zheng da ruan jian zhi ye ji shu xue yuan
@@ -6439,6 +7135,7 @@ use_preset_vocabulary: false
 正德职业技术学院	zheng de zhi ye ji shu xue yuan
 正定县教师进修学校	zheng ding xian jiao shi jin xiu xue xiao
 正镶白旗党校	zheng xiang bai qi dang xiao
+正义爆轰	zheng yi bao hong
 郑州财经技师学院	zheng zhou cai jing ji shi xue yuan
 郑州财经学院	zheng zhou cai jing xue yuan
 郑州大学	zheng zhou da xue
@@ -6489,13 +7186,23 @@ use_preset_vocabulary: false
 郑州信息科技职业学院	zheng zhou xin xi ke ji zhi ye xue yuan
 郑州艺术学校	zheng zhou yi shu xue xiao
 郑州职业技术学院	zheng zhou zhi ye ji shu xue yuan
+直播	zhi bo
+制裁	zhi cai
+制裁之刃	zhi cai zhi ren
 芝罘区委党校	zhi fu qu wei dang xiao
 职工大学	zhi gong da xue
+芝加哥教父	zhi jia ge jiao fu
 芷江西路街道老年学校	zhi jiang xi lu jie dao lao nian xue xiao
 芷江县委党校	zhi jiang xian wei dang xiao
 致理技术学院	zhi li ji shu xue yuan
+治疗术	zhi liao shu
+智商低是会传染的	zhi shang di shi hui chuan ran de
 知识青年五七大学	zhi shi qing nian wu qi da xue
+秩序白银	zhi xu bai yin
+支援收割	zhi yuan shou ge
+至尊宝	zhi zun bao
 中北大学	zhong bei da xue
+中单	zhong dan
 中德职业技术学院	zhong de zhi ye ji shu xue yuan
 中咢公共关系进修学院	zhong e gong gong guan xi jin xiu xue yuan
 中方县委党校	zhong fang xian wei dang xiao
@@ -7084,10 +7791,14 @@ use_preset_vocabulary: false
 中华女子学院	zhong hua nv zi xue yuan
 中华研修大学	zhong hua yan xiu da xue
 中江县委党校	zhong jiang xian wei dang xiao
+终结	zhong jie
 仲凯农业技术学院	zhong kai nong ye ji shu xue yuan
 中科信息技术专修学院	zhong ke xin xi ji shu zhuan xiu xue yuan
+钟馗	zhong kui
 钟楼区委党校	zhong lou qu wei dang xiao
+中路	zhong lu
 中鲁工商学院	zhong lu gong shang xue yuan
+中路先团一波	zhong lu xian tuan yi bo
 中美山东建文大学	zhong mei shan dong jian wen da xue
 中牟广电大学	zhong mu guang dian da xue
 中南财经政法大学	zhong nan cai jing zheng fa da xue
@@ -7117,6 +7828,7 @@ use_preset_vocabulary: false
 中铁石家庄职业技术学院	zhong tie shi jia zhuang zhi ye ji shu xue yuan
 中铁咸阳管理干部学院	zhong tie xian yang guan li gan bu xue yuan
 中外合资西安标榜美发美容学院	zhong wai he zi xi an biao bang mei fa mei rong xue yuan
+钟无艳	zhong wu yan
 中物院工学院	zhong wu yuan gong xue yuan
 中西医结合大学	zhong xi yi jie he da xue
 钟祥市行政学校	zhong xiang shi xing zheng xue xiao
@@ -7141,13 +7853,20 @@ use_preset_vocabulary: false
 中原摄影学院	zhong yuan she ying xue yuan
 中原医学院	zhong yuan yi xue yuan
 中原油田广播电视大学	zhong yuan you tian guang bo dian shi da xue
+中招	zhong zhao
 众志学校	zhong zhi xue xiao
 周口市电大	zhou kou shi dian da
 周口市委党校	zhou kou shi wei dang xiao
 周口职业技术学院	zhou kou zhi ye ji shu xue yuan
 舟山电大	zhou shan dian da
 舟山广播电视大学	zhou shan guang bo dian shi da xue
+咒术典籍	zhou shu dian ji
 周巷社区教育学院	zhou xiang she qu jiao yu xue yuan
+周瑜	zhou yu
+周瑜海军大将	zhou yu hai jun da jiang
+诸葛大	zhu ge da
+诸葛亮	zhu ge liang
+诸葛亮星航指挥官	zhu ge liang xing hang zhi hui guan
 珠海曾正理工学校	zhu hai ceng zheng li gong xue xiao
 珠海广播电视大学	zhu hai guang bo dian shi da xue
 珠海教育学院	zhu hai jiao yu xue yuan
@@ -7158,9 +7877,15 @@ use_preset_vocabulary: false
 珠海市行政学院	zhu hai shi xing zheng xue yuan
 珠海艺术职业学院	zhu hai yi shu zhi ye xue yuan
 诸暨市委党校	zhu ji shi wei dang xiao
+主力输出	zhu li shu chu
 驻马店教育学院	zhu ma dian jiao yu xue yuan
 驻马店市委党校	zhu ma dian shi wei dang xiao
 驻马店市行政学院	zhu ma dian shi xing zheng xue yuan
+逐梦之音	zhu meng zhi yin
+逐日之弓	zhu ri zhi gong
+注意分散站位	zhu yi fen san zhan wei
+主宰	zhu zai
+主宰先锋来袭	zhu zai xian feng lai xi
 株洲工学院	zhu zhou gong xue yuan
 株洲广播电视大学	zhu zhou guang bo dian shi da xue
 株洲技术学院	zhu zhou ji shu xue yuan
@@ -7170,10 +7895,14 @@ use_preset_vocabulary: false
 株洲县委党校	zhu zhou xian wei dang xiao
 株洲职业技术学院	zhu zhou zhi ye ji shu xue yuan
 颛桥镇老年学校	zhuan qiao zhen lao nian xue xiao
+转生之术	zhuan sheng zhi shu
 装备指挥技术学院	zhuang bei zhi hui ji shu xue yuan
 庄河市大营镇委党校	zhuang he shi da ying zhen wei dang xiao
 庄河市委党校	zhuang he shi wei dang xiao
 庄行镇老年学校	zhuang xing zhen lao nian xue xiao
+庄周	zhuang zhou
+庄周蜃楼王	zhuang zhou shen lou wang
+追击刀锋	zhui ji dao feng
 准格尔旗社会保险党校	zhun ge er qi she hui bao xian dang xiao
 卓达经济管理研修学院	zhuo da jing ji guan li yan xiu xue yuan
 涿鹿县武家沟镇党校	zhuo lu xian wu jia gou zhen dang xiao
@@ -7188,756 +7917,26 @@ use_preset_vocabulary: false
 自贡市贡井区委党校	zi gong shi gong jing qu wei dang xiao
 紫琅职业技术学院	zi lang zhi ye ji shu xue yuan
 子里甲乡委党校	zi li jia xiang wei dang xiao
+资深	zi shen
 资溪劳动大学	zi xi lao dong da xue
+紫霞仙子	zi xia xian zi
 紫阳党校	zi yang dang xiao
 资阳师范学校	zi yang shi fan xue xiao
 资源县委党校	zi yuan xian wei dang xiao
 资源县行政学校	zi yuan xian xing zheng xue xiao
 资中县委党校	zi zhong xian wei dang xiao
-邹城市委党校	zou cheng shi wei dang xiao
-邹平县委党校	zou ping xian wei dang xiao
-遵义师范学院	zun yi shi fan xue yuan
-遵义市委党校	zun yi shi wei dang xiao
-遵义医学院	zun yi yi xue yuan
-遵义医药高等专科学校	zun yi yi yao gao deng zhuan ke xue xiao
-遵义职业技术学院	zun yi zhi ye ji shu xue yuan
-阿尔法小队	a er fa xiao dui
-阿轲	a ke
-埃及法老	ai ji fa lao
-艾琳	ai lin
-爱情与死亡	ai qing yu si wang
-安禄山	an lu shan
-安其拉	an qi la
-安琪拉	an qi la
-安琪拉魔法小厨娘	an qi la mo fa xiao chu niang
-暗夜贵公子	an ye gui gong zi
-暗夜使徒	an ye shi tu
-暗夜之王	an ye zhi wang
-暗影刀锋	an ying dao feng
-暗影战斧	an ying zhan fu
-暗影主宰	an ying zhu zai
-八神庵	ba shen an
-霸王别姬	ba wang bie ji
-霸者	ba zhe
-霸者重装	ba zhe chong zhuang
-白龙吟	bai long yin
-白起	bai qi
-白银	bai yin
-白执事	bai zhi shi
-半肉	ban rou
-半肉半攻	ban rou ban gong
-半肉半输出装	ban rou ban shu chu zhuang
-半肉路线	ban rou lu xian
-半神之弓	ban shen zhi gong
-爆发	bao fa
-保护后排	bao hu hou pai
-暴君	bao jun
-暴烈	bao lie
-暴烈之甲	bao lie zhi jia
-抱歉你挡路了	bao qian ni dang lu le
-奔狼纹章	ben lang wen zhang
-庇护之光	bi hu zhi guang
-壁垒	bi lei
-匕首	bi shou
-扁鹊	bian que
-扁鹊金木研皮肤	bian que jin mu yan pi fu
-扁鹊炼金王	bian que lian jin wang
-别跟着我别分我经验	bie gen zhe wo bie fen wo jing yan
-别管了先打龙	bie guan le xian da long
-别管了先推塔	bie guan le xian tui ta
-别慌能赢	bie huang neng ying
-别浪	bie lang
-别抓人优先推塔	bie zhua ren you xian tui ta
-冰痕之握	bing hen zhi wo
-冰脉护手	bing mai hu shou
-冰霜长矛	bing shuang chang mao
-冰霜法杖	bing shuang fa zhang
-兵线	bing xian
-冰心	bing xin
-冰雪之华	bing xue zhi hua
-冰杖	bing zhang
-搏击拳套	bo ji quan tao
-铂金	bo jin
-博学者的愤怒	bo xue zhe de fen nu
-博学者之怒	bo xue zhe zhi nu
-补刀	bu dao
-不羁之风	bu ji zhi feng
-布甲	bu jia
-布甲鞋	bu jia xie
-不死鸟之眼	bu si niao zhi yan
-不祥征兆	bu xiang zheng zhao
-不祥之兆	bu xiang zhi zhao
-不知火舞	bu zhi huo wu
-蔡文姬	cai wen ji
-沧海之矅	cang hai zhi yao
-苍狼末裔	cang lang mo yi
-苍天翔龙	cang tian xiang long
-曹操	cao cao
-曹操死神来了	cao cao si shen lai le
-长平攻防战	chang ping gong fang zhan
-超神	chao shen
-超时空战士	chao shi kong zhan shi
-撤退没技能	che tui mei ji neng
-撤退没蓝	che tui mei lan
-撤退没血	che tui mei xue
-惩击	cheng ji
-成吉思	cheng ji si
-成吉思汗	cheng ji si han
-程咬金	cheng yao jin
-成装	cheng zhuang
-炽热支配者	chi re zhi pei zhe
-冲击波	chong ji bo
-冲能拳套	chong neng quan tao
-出门蓝开	chu men lan kai
-出装推荐	chu zhuang tui jian
-传说之刃	chuan shuo zhi ren
-纯白花嫁	chun bai hua jia
-纯净苍穹	chun jing cang qiong
-刺客	ci ke
-刺客信条	ci ke xin tiao
-雌雄双剑	ci xiong shuang jian
-脆皮英雄	cui pi ying xiong
-大棒	da bang
-大红	da hong
-妲己	da ji
-妲己少女阿狸	da ji shao nv a li
-大龙	da long
-大面具	da mian ju
-达摩	da mo
-达摩拳王	da mo quan wang
-大乔	da qiao
-大杀特杀	da sha te sha
-大天使长委	da tian shi zhang wei
-打团技巧	da tuan ji qiao
-大仙	da xian
-大小姐	da xiao jie
-打野	da ye
-打野的发育快点	da ye de fa yu kuai dian
-打野夺龙	da ye duo long
-打野技巧	da ye ji qiao
-打野抢龙	da ye qiang long
-打野装备	da ye zhuang bei
-大招	da zhao
-逮捕令	dai bu ling
-单刀赴会	dan dao fu hui
-刀锋铁骑	dao feng tie qi
-抵抗之靴	di kang zhi xue
-狄仁杰	di ren jie
-狄仁杰传说皮肤	di ren jie chuan shuo pi fu
-狄仁杰阴阳师	di ren jie yin yang shi
-地狱火	di yu huo
-地狱之眼	di yu zhi yan
-电刀	dian dao
-点控	dian kong
-典韦	dian wei
-典韦黄金武士	dian wei huang jin wu shi
-貂蝉	diao chan
-貂蝉叮叮当	diao chan ding ding dang
-貂蝉绝世舞姬	diao chan jue shi wu ji
-貂蝉逐梦之音	diao chan zhu meng zhi yin
-东方不败	dong fang bu bai
-东皇太一	dong huang tai yi
-断案大师	duan an da shi
-段位	duan wei
-对线	dui xian
-对战系统	dui zhan xi tong
-法穿靴	fa chuan xue
-法穿靴子	fa chuan xue zi
-法抗	fa kang
-法力值回复武器	fa li zhi hui fu wu qi
-法强	fa qiang
-法师	fa shi
-法师的宗师之力	fa shi de zong shi zhi li
-法师帽	fa shi mao
-法师英雄	fa shi ying xiong
-法术	fa shu
-法术穿透	fa shu chuan tou
-法术穿透武器	fa shu chuan tou wu qi
-法术打野刀	fa shu da ye dao
-法术防御	fa shu fang yu
-法术攻击	fa shu gong ji
-法术武器	fa shu wu qi
-法术吸血	fa shu xi xue
-法术吸血武器	fa shu xi xue wu qi
-范海辛	fan hai xin
-反甲	fan jia
-反伤刺甲	fan shang ci jia
-反野	fan ye
-反野先杀刘备	fan ye xian sha liu bei
-方天画斩	fang tian hua zhan
-防御类英雄	fang yu lei ying xiong
-防御塔	fang yu ta
-防御鞋子	fang yu xie zi
-防御英雄	fang yu ying xiong
-防御装备	fang yu zhuang bei
-非指向性技能	fei zhi xiang xing ji neng
-凤白	feng bai
-风暴巨剑	feng bao ju jian
-凤凰于飞	feng huang yu fei
-凤求凰	feng qiu huang
-风骚控制	feng sao kong zhi
-复活甲	fu huo jia
-富可敌国	fu ke di guo
-符文大剑	fu wen da jian
-符文碎片	fu wen sui pian
-辅助	fu zhu
-干将	gan jiang
-干将莫邪	gan jiang mo ye
-干扰	gan rao
-高地	gao di
-高地塔	gao di ta
-高渐离	gao jian li
-哥特玫瑰	ge te mei gui
-阁下的首级收下了	ge xia de shou ji shou xia le
-根源之目	gen yuan zhi mu
-宫本	gong ben
-宫本地狱之眼	gong ben di yu zhi yan
-宫本万象初新	gong ben wan xiang chu xin
-宫本武藏	gong ben wu zang
-攻击速度	gong ji su du
-攻击装	gong ji zhuang
-攻速打野刀	gong su da ye dao
-攻速鞋	gong su xie
-攻速鞋子	gong su xie zi
-攻速装	gong su zhuang
-孤身越塔	gu shen yue ta
-挂机	gua ji
-挂机狗	gua ji gou
-关羽	guan yu
-关羽天启骑士	guan yu tian qi qi shi
-光辉之剑	guang hui zhi jian
-鬼谷子	gui gu zi
-鬼剑武藏	gui jian wu zang
-国服赵云顺风局	guo fu zhao yun shun feng ju
-国士无双	guo shi wu shuang
-海军大将	hai jun da jiang
-嗨氏	hai shi
-寒冰之心	han bing zhi xin
-韩信	han xin
-韩信白龙吟	han xin bai long yin
-韩信教廷特使	han xin jiao ting te shi
-汉昭烈帝	han zhao lie di
-好友	hao you
-好友系统	hao you xi tong
-和妲己玩耍开个价吧	he da ji wan shua kai ge jia ba
-和平守望	he ping shou wang
-黑暗暴君	hei an bao jun
-黑切	hei qie
-黑色战斧	hei se zhan fu
-横扫千军	heng sao qian jun
-轰飞	hong fei
-红莲斗篷	hong lian dou peng
-红莲之瞳	hong lian zhi tong
-红玛瑙	hong ma nao
-红色惩戒	hong se cheng jie
-红色狂热	hong se kuang re
-红色梦魇	hong se meng yan
-红色阳炎	hong se yang yan
-红野刀	hong ye dao
-后排英雄	hou pai ying xiong
-后期切后排	hou qi qie hou pai
-后羿	hou yi
-后羿阿尔法小队	hou yi a er fa xiao dui
-后羿精灵王	hou yi jing ling wang
-狐白	hu bai
-蝴蝶梦	hu die meng
-护甲鞋	hu jia xie
-护主邪冢	hu zhu xie zhong
-花木兰	hua mu lan
-换掉	huan diao
-换线	huan xian
-欢迎来到王者荣耀	huan ying lai dao wang zhe rong yao
-皇家上将	huang jia shang jiang
-黄金	huang jin
-黄金武士	huang jin wu shi
-黄忠	huang zhong
-黄忠纽约教父	huang zhong niu yue jiao fu
-黄忠芝加哥教父	huang zhong zhi jia ge jiao fu
-回城徽章	hui cheng hui zhang
-灰灰	hui hui
-回响	hui xiang
-回响之杖	hui xiang zhi zhang
-回血装备技能	hui xue zhuang bei ji neng
-辉月	hui yue
-火甲	huo jia
-火炮千金	huo pao qian jin
-火舞	huo wu
-火焰山	huo yan shan
-火焰山大战	huo yan shan da zhan
-活跃度系统	huo yue du xi tong
-疾步之靴	ji bu zhi xue
-击飞	ji fei
-机关术	ji guan shu
-机关血条	ji guan xue tiao
-机关造物	ji guan zao wu
-极寒风暴	ji han feng bao
-集火	ji huo
-集火秒杀	ji huo miao sha
-技能分析	ji neng fen xi
-技能冷却鞋子	ji neng leng que xie zi
-疾跑	ji pao
-即时对战	ji shi dui zhan
-急速战靴	ji su zhan xue
-机械之圣	ji xie zhi sheng
-基友	ji you
-加勒比小姐	jia le bi xiao jie
-剑圣	jian sheng
-姜子牙	jiang zi ya
-教廷特使	jiao ting te shi
-桀骜炎枪	jie ao yan qiang
-金币	jin bi
-进化水晶	jin hua shui jing
-近卫荣耀	jin wei rong yao
-禁血狂兽	jin xue kuang shou
-锦衣卫	jin yi wei
-净化	jing hua
-警戒令	jing jie ling
-荆轲	jing ke
-精灵公主	jing ling gong zhu
-精灵王	jing ling wang
-九天	jiu tian
-举报	ju bao
-巨人之握	ju ren zhi wo
-橘右京	ju you jing
-绝代智谋	jue dai zhi mou
-倔强青铜	jue jiang qing tong
-绝世舞姬	jue shi wu ji
-军团荣耀	jun tuan rong yao
-开黑	kai hei
-抗魔披风	kang mo pi feng
-可汗狂猎	ke han kuang lie
-克隆大作战	ke long da zuo zhan
-克隆模式	ke long mo shi
-控线	kong xian
-控制技能	kong zhi ji neng
-狂暴	kuang bao
-狂暴双刃	kuang bao shuang ren
-狂战士	kuang zhan shi
-辣鸡	la ji
-蓝宝石	lan bao shi
-兰陵王	lan ling wang
-兰陵王隐刃	lan ling wang yin ren
-蓝色急救	lan se ji jiu
-蓝色渴血	lan se ke xue
-蓝色轮回	lan se lun hui
-蓝色正义	lan se zheng yi
-老夫子	lao fu zi
-雷鸣刃	lei ming ren
-冷静之靴	leng jing zhi xue
-冷血装备	leng xue zhuang bei
-李白	li bai
-李九	li jiu
-力量腰带	li liang yao dai
-离我远点	li wo yuan dian
-李元芳	li yuan fang
-李元芳特种部队	li yuan fang te zhong bu dui
-炼金大师	lian jin da shi
-炼金护符	lian jin hu fu
-炼金王	lian jin wang
-廉颇	lian po
-恋人	lian ren
-连杀	lian sha
-连招加点	lian zhao jia dian
-恋之微风	lian zhi wei feng
-两小	liang xiao
-刘邦	liu bang
-刘备	liu bei
-刘备汉昭烈帝	liu bei han zhao lie di
-刘备万事如意	liu bei wan shi ru yi
-刘表	liu biao
-六令追凶	liu ling zhui xiong
-刘禅	liu shan
-龙虎榜	long hu bang
-龙腾万里	long teng wan li
-龙信	long xin
-鲁班	lu ban
-鲁班大师	lu ban da shi
-鲁班七号	lu ban qi hao
-露娜	lu na
-露娜哥特玫瑰	lu na ge te mei gui
-露娜紫霞仙子	lu na zi xia xian zi
-洛神降临	luo shen jiang lin
-吕布	lv bu
-绿甲	lv jia
-绿色侵蚀	lv se qin shi
-绿色心眼	lv se xin yan
-绿色野性	lv se ye xing
-马可	ma ke
-马可波罗	ma ke bo luo
-魅惑之狐	mei huo zhi hu
-没蓝	mei lan
-没血	mei xue
-魅影面罩	mei ying mian zhao
-梦魇	meng yan
-梦魇之牙	meng yan zhi ya
-秘法之靴	mi fa zhi xue
-芈月	mi yue
-面具	mian ju
-秒脆皮英雄	miao cui pi ying xiong
-名刀	ming dao
-名刀司命	ming dao si ming
-明媚烈焰	ming mei lie yan
-铭文	ming wen
-铭文碎片	ming wen sui pian
-铭文系统	ming wen xi tong
-魔道	mo dao
-魔法小厨娘	mo fa xiao chu niang
-墨家机关道	mo jia ji guan dao
-魔抗	mo kang
-魔抗鞋子	mo kang xie zi
-魔女斗篷	mo nv dou peng
-魔女面纱	mo nv mian sha
-末日机甲	mo ri ji jia
-魔神降临	mo shen jiang lin
-末世	mo shi
-莫邪夺魂	mo ye duo hun
-魔种	mo zhong
-魔种少女	mo zhong shao nv
-墨子	mo zi
-娜可露露	na ke lu lu
-哪吒	ne zha
-哪吒哪吒	ne zha ne zha
-内圈	nei quan
-你们跑不掉了	ni men pao bu diao le
-你们已无路可逃	ni men yi wu lu ke tao
-牛魔	niu mo
-纽约教父	niu yue jiao fu
-女娲	nv wa
-排位	pai wei
-庞统	pang tong
-皮肤	pi fu
-皮肤碎片	pi fu sui pian
-匹配	pi pei
-瓶子	ping zi
-破败	po bai
-破甲	po jia
-破甲弓	po jia gong
-破军	po jun
-破军之矛	po jun zhi mao
-破灭	po mie
-破灭君主	po mie jun zhu
-破魔刀	po mo dao
-破碎圣杯	po sui sheng bei
-普攻	pu gong
-泣血之刃	qi xue zhi ren
-千金重弩	qian jin zhong nu
-千年狐	qian nian hu
-千年之狐	qian nian zhi hu
-前期发育	qian qi fa yu
-强杀脆皮	qiang sha cui pi
-蔷薇恋人	qiang wei lian ren
-侵蚀	qin shi
-青龙偃月	qing long yan yue
-情侣	qing lv
-青铜	qing tong
-拳王	quan wang
-燃魂重炮	ran hun zhong pao
-热烈之斧	re lie zhi fu
-仁德义枪	ren de yi qiang
-忍炎影	ren yan ying
-日冕	ri mian
-日蚀亲临	ri shi qin lin
-熔炼之心	rong lian zhi xin
-荣耀兵器谱	rong yao bing qi pu
-荣耀黄金	rong yao huang jin
-荣耀王者	rong yao wang zhe
-肉盾	rou dun
-肉装	rou zhuang
-如我之神迹	ru wo zhi shen ji
-弱化	ruo hua
-赛事周刊	sai shi zhou kan
-三路争锋	san lu zheng feng
-三杀	san sha
-三圣	san sheng
-三圣之力	san sheng zhi li
-三太子	san tai zi
-杀戮之影	sha lu zhi ying
-杀人书	sha ren shu
-杀手不太冷	sha shou bu tai leng
-鲨嘴炮	sha zui pao
-闪电匕首	shan dian bi shou
-善恶怪医	shan e guai yi
-闪现	shan xian
-伤害输出	shang hai shu chu
-上路	shang lu
-上野	shang ye
-少女阿狸	shao nv a li
-蛇皮走位	she pi zou wei
-射手	she shou
-神兵天降	shen bing tian jiang
-蜃楼王	shen lou wang
-神梦一刀	shen meng yi dao
-神秘斗篷	shen mi dou peng
-神射	shen she
-神速之靴	shen su zhi xue
-神隐斗篷	shen yin dou peng
-深渊大乱斗	shen yuan da luan dou
-圣杯	sheng bei
-圣诞恋歌	sheng dan lian ge
-圣殿骑士团	sheng dian qi shi tuan
-生命打野刀	sheng ming da ye dao
-圣骑之力	sheng qi zhi li
-圣域余晖	sheng yu yu hui
-圣者法典	sheng zhe fa dian
-十步杀一人千里不留人	shi bu sha yi ren qian li bu liu ren
-噬灭日蚀	shi mie ri shi
-嗜杀剑气	shi sha jian qi
-噬神之书	shi shen zhi shu
-师徒系统	shi tu xi tong
-时之预言	shi zhi yu yan
-收割	shou ge
-收割技能	shou ge ji neng
-守护者之铠	shou hu zhe zhi kai
-狩猎宽刃	shou lie kuan ren
-输出	shu chu
-数据封神榜	shu ju feng shen bang
-刷新暴君	shua xin bao jun
-刷新黑暗暴君	shua xin hei an bao jun
-刷新野怪	shua xin ye guai
-刷新主宰	shua xin zhu zai
-刷野	shua ye
-双面君主	shuang mian jun zhu
-双杀	shuang sha
-水果甜心	shui guo tian xin
-水晶	shui jing
-顺风	shun feng
-死的多注意下战局	si de duo zhu yi xia zhan ju
-四杀	si sha
-死神来了	si shen lai le
-死亡骑士	si wang qi shi
-死亡之刃	si wang zhi ren
-搜查令	sou cha ling
-速击之枪	su ji zhi qiang
-孙膑	sun bin
-孙膑妖精王	sun bin yao jing wang
-孙尚香	sun shang xiang
-孙尚香蔷薇恋人	sun shang xiang qiang wei lian ren
-孙悟空	sun wu kong
-太乙	tai yi
-太乙圆桌骑士	tai yi yuan zhuo qi shi
-太乙真人	tai yi zhen ren
-坦克	tan ke
-贪婪之噬	tan lan zhi shi
-贪狼之握	tan lang zhi wo
-饕餮血统	tao tie xue tong
-特种部队	te zhong bu dui
-提神水晶	ti shen shui jing
-体验服	ti yan fu
-天籁弦音	tian lai xian yin
-天美	tian mei
-天启骑士	tian qi qi shi
-天犬伏击	tian quan fu ji
-天堂福音	tian tang fu yin
-天瞳被动	tian tong bei dong
-天下无双	tian xia wu shuang
-铁剑	tie jian
-铁血都督	tie xue du du
-痛苦面具	tong ku mian ju
-投降	tou xiang
-突进	tu jin
-突进英雄	tu jin ying xiong
-团队增益	tuan dui zeng yi
-团控	tuan kong
-团控英雄	tuan kong ying xiong
-团灭	tuan mie
-团他们团不过我们	tuan ta men tuan bu guo wo men
-团战	tuan zhan
-团战技巧	tuan zhan ji qiao
-团战思路	tuan zhan si lu
-推塔	tui ta
-外挂	wai gua
-外挂狗	wai gua gou
-外圈	wai quan
-万古长明	wan gu chang ming
-万事如意	wan shi ru yi
-万物有灵	wan wu you ling
-万象初新	wan xiang chu xin
-王朝密令	wang chao mi ling
-王都密探	wang du mi tan
-王昭君	wang zhao jun
-王昭君凤凰于飞	wang zhao jun feng huang yu fei
-王昭君精灵公主	wang zhao jun jing ling gong zhu
-王昭君我是歌手	wang zhao jun wo shi ge shou
-王者解毒	wang zhe jie du
-王者联盟	wang zhe lian meng
-王者峡谷	wang zhe xia gu
-王者学院	wang zhe xue yuan
-王者职业	wang zhe zhi ye
-维京掠夺者	wei jing lue duo zhe
-渭水之畔	wei shui zhi pan
-猥琐发育	wei suo fa yu
-位移	wei yi
-稳住我们能赢	wen zhu wo men neng ying
-我是歌手	wo shi ge shou
-武道大会	wu dao da hui
-无防御塔	wu fang yu ta
-五福同心	wu fu tong xin
-五级铭文	wu ji ming wen
-无尽	wu jin
-无尽刀锋	wu jin dao feng
-无尽战刃	wu jin zhan ren
-物抗	wu kang
-物理	wu li
-物理防御	wu li fang yu
-物理攻击	wu li gong ji
-五杀	wu sha
-五杀超神	wu sha chao shen
-巫术法杖	wu shu fa zhang
-无畏之盾	wu wei zhi dun
-五五开黑节	wu wu kai hei jie
-武则天	wu ze tian
-武则天东方不败	wu ze tian dong fang bu bai
-吸血	xi xue
-吸血刀	xi xue dao
-吸血机制	xi xue ji zhi
-吸血书	xi xue shu
-吸血之镰	xi xue zhi lian
-夏侯淳	xia hou chun
-夏侯惇	xia hou dun
-夏侯惇战争骑士	xia hou dun zhan zheng qi shi
-下路	xia lu
-下野	xia ye
-瞎子	xia zi
-贤者的庇护	xian zhe de bi hu
-贤者之书	xian zhe zhi shu
-项羽	xiang yu
-小兵血条	xiao bing xue tiao
-小丑面罩	xiao chou mian zhao
-小龙	xiao long
-小乔	xiao qiao
-小学生	xiao xue sheng
-逍遥幻梦	xiao yao huan meng
-小招	xiao zhao
-信白	xin bai
-心流型	xin liu xing
-星航指挥官	xing hang zhi hui guan
-型走位	xing zou wei
-凶残之力	xiong can zhi li
-虚灵城判	xu ling cheng pan
-虚无法杖	xu wu fa zhang
-血刀	xue dao
-血量装备	xue liang zhuang bei
-血魔之怒	xue mo zhi nu
-雪山圆盾	xue shan yuan dun
-血书	xue shu
-血条	xue tiao
-血族之书	xue zu zhi shu
-迅捷	xun jie
-巡守利斧	xun shou li fu
-雅典娜	ya dian na
-亚瑟	ya se
-亚瑟死亡骑士	ya se si wang qi shi
-压制英雄	ya zhi ying xiong
-眼镜蛇	yan jing she
-言灵操纵	yan ling cao zong
-言灵之书	yan ling zhi shu
-言灵咒印	yan ling zhou yin
-杨戬	yang jian
-杨戬埃及法老	yang jian ai ji fa lao
-杨戬出装	yang jian chu zhuang
-杨戬杨戬	yang jian yang jian
-杨菊花	yang ju hua
-杨玉环	yang yu huan
-妖精王	yao jing wang
-野怪血条	ye guai xue tiao
-野区	ye qu
-一波	yi bo
-移动装备	yi dong zhuang bei
-一级铭文	yi ji ming wen
-一骑当千	yi qi dang qian
-一千零一夜	yi qian ling yi ye
-一人守家剩下的中路推	yi ren shou jia sheng xia de zhong lu tui
-移速鞋	yi su xie
-一血	yi xue
-隐刃	yin ren
-饮血	yin xue
-阴阳师	yin yang shi
-影刃	ying ren
-影忍之足	ying ren zhi zu
-英雄	ying xiong
-英雄对战	ying xiong dui zhan
-英雄碎片	ying xiong sui pian
-英雄血条	ying xiong xue tiao
-英雄战迹	ying xiong zhan ji
-鹰眼的神射	ying yan de shen she
-嬴政	ying zheng
-嬴政暗夜贵公子	ying zheng an ye gui gong zi
-嬴政优雅恋人	ying zheng you ya lian ren
-鹰之守护	ying zhi shou hu
-永恒的乐章	yong heng de yue zhang
-永恒钻石	yong heng zuan shi
-游击弯刀	you ji wan dao
-优雅恋人	you ya lian ren
-虞姬	yu ji
-虞姬加勒比小姐	yu ji jia le bi xiao jie
-远程狙击法师	yuan cheng ju ji fa shi
-远程消耗	yuan cheng xiao hao
-元气弹	yuan qi dan
-元素杖	yuan su zhang
-远游之枪	yuan you zhi qiang
-圆桌骑士	yuan zhuo qi shi
-月爱	yue ai
-月光之女	yue guang zhi nv
-越塔	yue ta
-陨星	yun xing
-晕眩	yun xuan
-增强移动鞋子	zeng qiang yi dong xie zi
-斩杀	zhan sha
-战士	zhan shi
-战争骑士	zhan zheng qi shi
-张飞	zhang fei
-张飞五福同心	zhang fei wu fu tong xin
-张良	zhang liang
-张良天堂福音	zhang liang tian tang fu yin
-张良一千零一夜	zhang liang yi qian ling yi ye
-赵云	zhao yun
-赵云白执事	zhao yun bai zhi shi
-赵云皇家上将	zhao yun huang jia shang jiang
-赵云火影皮肤	zhao yun huo ying pi fu
-折磨面具	zhe mo mian ju
-甄姬	zhen ji
-振兴之铠	zhen xing zhi kai
-正义爆轰	zheng yi bao hong
-直播	zhi bo
-制裁	zhi cai
-制裁之刃	zhi cai zhi ren
-芝加哥教父	zhi jia ge jiao fu
-治疗术	zhi liao shu
-智商低是会传染的	zhi shang di shi hui chuan ran de
-秩序白银	zhi xu bai yin
-支援收割	zhi yuan shou ge
-至尊宝	zhi zun bao
-中单	zhong dan
-终结	zhong jie
-钟馗	zhong kui
-中路	zhong lu
-中路先团一波	zhong lu xian tuan yi bo
-钟无艳	zhong wu yan
-中招	zhong zhao
-咒术典籍	zhou shu dian ji
-周瑜	zhou yu
-周瑜海军大将	zhou yu hai jun da jiang
-诸葛大	zhu ge da
-诸葛亮	zhu ge liang
-诸葛亮星航指挥官	zhu ge liang xing hang zhi hui guan
-主力输出	zhu li shu chu
-逐梦之音	zhu meng zhi yin
-逐日之弓	zhu ri zhi gong
-注意分散站位	zhu yi fen san zhan wei
-主宰	zhu zai
-主宰先锋来袭	zhu zai xian feng lai xi
-转生之术	zhuan sheng zhi shu
-庄周	zhuang zhou
-庄周蜃楼王	zhuang zhou shen lou wang
-追击刀锋	zhui ji dao feng
-资深	zi shen
-紫霞仙子	zi xia xian zi
 宗师	zong shi
 宗师之力	zong shi zhi li
+邹城市委党校	zou cheng shi wei dang xiao
+邹平县委党校	zou ping xian wei dang xiao
 走位	zou wei
 钻石	zuan shi
 最佳	zui jia
 嘴强王者	zui qiang wang zhe
 最强王者	zui qiang wang zhe
 最终兵器	zui zhong bing qi
-尊贵铂金	zun gui bo jin
+尊贵铂金	zun gui bo jin遵义师范学院	zun yi shi fan xue yuan
+遵义市委党校	zun yi shi wei dang xiao
+遵义医学院	zun yi yi xue yuan
+遵义医药高等专科学校	zun yi yi yao gao deng zhuan ke xue xiao
+遵义职业技术学院	zun yi zhi ye ji shu xue yuan
