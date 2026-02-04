@@ -20,11 +20,13 @@ import_tables:
   - dicts/simp-ext # 原字表中除单字外部分
   - dicts/sogou_net # 网络流行语
 
-  # 一点点小小的私货，不需要的可以自行关闭~
-  - dicts/moegirl # 萌娘百科
-  - dicts/sogou_touhou # 东方 Project
-  - dicts/sogou_minecraft # Minecraft 词条
-
   # emoji 补全词库
   - dicts/emoji
+  - dicts/sogou_minecraft
+  - dicts/custom_sougou_extenal
+
+  # 英文
+  - en_dicts/en
+  - en_dicts/en_ext
+
 ...

@@ -94,10 +94,10 @@ speller:
     # - derive/^fu$/hu/ # hu -> fu
 
     # 韵母部分
-    - derive/([^iu])([a])n$/$1$2ng/ # ang -> an
-    - derive/([^iu])([a])ng$/$1$2n/ # an -> ang
-    - derive/([e])n$/$1ng/ # eng -> en
-    - derive/([e])ng$/$1n/ # en -> eng
+    # - derive/([^iu])([a])n$/$1$2ng/ # ang -> an
+    # - derive/([^iu])([a])ng$/$1$2n/ # an -> ang
+    # - derive/([e])n$/$1ng/ # eng -> en
+    # - derive/([e])ng$/$1n/ # en -> eng
     # - derive/([i])n$/$1ng/ # ing -> in
     # - derive/([i])ng$/$1n/ # in -> ing
     # - derive/([i])an$/$1ang/ # iang -> ian
@@ -113,19 +113,19 @@ speller:
     # - derive/^([bpmfw])eng$/$1ong/ # bpmfw 后接 ong -> bpmfw 后接 eng
 
     # 容错拼写
-    - derive/^([nl])ve$/$1ue/ # nue -> nve, lue -> lve
-    - derive/^([jqxy])u/$1v/ # jv -> ju
+    # - derive/^([nl])ve$/$1ue/ # nue -> nve, lue -> lve
+    # - derive/^([jqxy])u/$1v/ # jv -> ju
     # - derive/un$/uen/ # guen -> gun
     # - derive/ui$/uei/ # guei -> gui
     # - derive/iu$/iou/ # jiou -> jiu
 
     # 按键纠错
-    - derive/([aeiou])ng$/$1gn/ # dagn -> dang
-    - derive/([dtngkhrzcs])o(u|ng)$/$1o/ # zho -> zhong|zhou
-    - derive/ong$/on/ # zhonguo -> zhong guo
-    - derive/ao$/oa/ # hoa -> hao
-    - derive/([iu])a(o|ng?)$/a$1$2/ # tain -> tian
-    - derive/^([csz])h/h$1/ # hc、hs、hz -> ch、sh、zh
+    # - derive/([aeiou])ng$/$1gn/ # dagn -> dang
+    # - derive/([dtngkhrzcs])o(u|ng)$/$1o/ # zho -> zhong|zhou
+    # - derive/ong$/on/ # zhonguo -> zhong guo
+    # - derive/ao$/oa/ # hoa -> hao
+    # - derive/([iu])a(o|ng?)$/a$1$2/ # tain -> tian
+    # - derive/^([csz])h/h$1/ # hc、hs、hz -> ch、sh、zh
 
 translator:
   dictionary: extended
