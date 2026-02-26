@@ -19,15 +19,16 @@ import_tables:
 
   - dicts/simp-ext # 原字表中除单字外部分
   - dicts/sogou_net # 网络流行语
-
-  # emoji 补全词库
-  - dicts/emoji
   - dicts/sogou_minecraft
   - dicts/sogou_cities
   - dicts/custom_sougou_extenal
-
+  
   # 英文
   - en_dicts/en
   - en_dicts/en_ext
+
+  # emoji 补全词库
+  - dicts/emoji
+
 
 ...
