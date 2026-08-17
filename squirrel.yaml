@@ -2,9 +2,9 @@
 # encoding: utf-8
 # 修改自: https://github.com/rime/squirrel/blob/master/data/squirrel.yaml
 #
-# COMMIT SHA: ea6720a0348a2f047ca0d8d87d82b221ac03be7b
+# COMMIT SHA: 4fd723822a8882be73399f606ee3d63e5a5714c6
 
-config_version: "2025-04-24"
+config_version: "2026-07-06"
 
 # 可用选项：last | default | _custom_
 # last：上次使用的拉丁字母键盘布局
@@ -15,9 +15,18 @@ keyboard_layout: last
 # 给打字贼快的家伙们设置的按键持续时间（
 chord_duration: 0.1 # seconds
 
+# 通知设置
 # options: always | never | appropriate
 show_notifications_when: appropriate
 show_notifications_via_notification_center: true
+
+# 状态栏图标
+# show: 是否显示状态栏图标，设置为 false 可隐藏状态栏图标
+# 图标的文本为 schema 的 ascii_mode 的短状态标签（通过 get_state_label_abbreviated 获取）。
+# 声明了 `abbrev: [中, Ａ]` 的 schema 会得到紧凑的字形；否则 schema 的 `states:` 值会按原样使用。
+# 当没有定义 `states:` 时，回退为 "中" / "Ａ"。
+status_icon:
+  show: true
 
 app_options: {} # 清除应用默认输入法，防止无法输入中文（建议通过 Caps 切换中英文）
 
@@ -79,16 +88,16 @@ preset_color_schemes:
     hilited_corner_radius: 0
     border_height: 0
     border_width: 0
-    alpha: 0.95
+    # alpha: 0.95
     shadow_size: 0
 
     color_space: display_p3
-    back_color: 0xFFFFFF
+    back_color: 0x66FFFFFF
     border_color: 0xECE4FC
     candidate_text_color: 0x121212
     comment_text_color: 0x8E8E8E
     label_color: 0x888785
-    hilited_candidate_back_color: 0xECE4FC
+    hilited_candidate_back_color: 0xA6ECE4FC
     hilited_candidate_text_color: 0x7A40EC
     hilited_comment_text_color: 0x8E8E8E
     hilited_candidate_label_color: 0xB18FF4
@@ -113,16 +122,16 @@ preset_color_schemes:
     hilited_corner_radius: 0
     border_height: 0
     border_width: 0
-    alpha: 0.95
+    # alpha: 0.95
     shadow_size: 0
 
     color_space: display_p3
-    back_color: 0x000000
+    back_color: 0xA6000000
     border_color: 0xECE4FC
     candidate_text_color: 0xD2D2D2
     comment_text_color: 0x8E8E8E
     label_color: 0x888785
-    hilited_candidate_back_color: 0x2C1E3C
+    hilited_candidate_back_color: 0xA62C1E3C
     hilited_candidate_text_color: 0x7036E2
     hilited_comment_text_color: 0x8E8E8E
     hilited_candidate_label_color: 0x7036E2
@@ -147,15 +156,15 @@ preset_color_schemes:
     hilited_corner_radius: 6
     border_height: 1
     border_width: 1
-    alpha: 0.95
-    shadow_size: 2
+    # alpha: 0.95
+    shadow_size: 1
 
     color_space: display_p3
-    back_color: 0xF5FCFD
+    back_color: 0x66F5FCFD
     candidate_text_color: 0x282C32
     comment_text_color: 0x717172
     label_color: 0x888785
-    hilited_candidate_back_color: 0xF5FCFD
+    hilited_candidate_back_color: 0xA6F5FCFD
     hilited_candidate_text_color: 0x4F00E5
     hilited_comment_text_color: 0x9F9CF2
     hilited_candidate_label_color: 0x4F00E5
@@ -180,16 +189,15 @@ preset_color_schemes:
     hilited_corner_radius: 6
     border_height: 1
     border_width: 1
-    alpha: 0.95
+    # alpha: 0.95
     shadow_size: 2
 
     color_space: display_p3
-    back_color: 0x020A00
-    border_color: 0x020A00
+    back_color: 0xD2020A00
     candidate_text_color: 0xC0C0C0
     comment_text_color: 0x717172
     label_color: 0x717172
-    hilited_candidate_back_color: 0x0C140A
+    hilited_candidate_back_color: 0xBF0C140A
     hilited_candidate_text_color: 0x3100C7
     hilited_comment_text_color: 0x7772AF
     hilited_candidate_label_color: 0x3100C7
