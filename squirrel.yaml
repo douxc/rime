@@ -31,8 +31,8 @@ status_icon:
 app_options: {} # 清除应用默认输入法，防止无法输入中文（建议通过 Caps 切换中英文）
 
 style:
-  color_scheme: reimu # 主题方案
-  color_scheme_dark: reimu_dark # 指定深色模式时输入法所使用的主题方案
+  color_scheme: shadcn_newyork # 主题方案
+  color_scheme_dark: shadcn_newyork_dark # 指定深色模式时输入法所使用的主题方案
   translucency: true # 背景半透明总开关，不需要关掉即可
 
   # 是否将选定的候选项作为文本嵌入到输入框中
@@ -498,6 +498,72 @@ preset_color_schemes:
     hilited_candidate_label_color: 0xFFFFFF
     text_color: 0x3F000000
     hilited_text_color: 0xD8000000
+
+  shadcn_newyork:
+    name: "shadcn／New York"
+    author: "nfish <nfish@jajalink.com>"
+
+    font_face: "PingFangSC-Regular"
+    font_point: 16
+    label_font_face: "PingFangSC-Regular"
+    label_font_point: 12
+
+    candidate_format: "[label] [candidate] [comment]"
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: true
+
+    corner_radius: 8
+    hilited_corner_radius: 4
+    border_height: 1
+    border_width: 1
+    shadow_size: 0
+
+    color_space: display_p3
+    back_color: 0xFFFFFFFF
+    border_color: 0xFFE7E4E4
+    candidate_text_color: 0xFF1B1818
+    comment_text_color: 0xFF7A7171
+    label_color: 0xFF7A7171
+    hilited_candidate_back_color: 0xFFE7E4E4
+    hilited_candidate_text_color: 0xFF1B1818
+    hilited_comment_text_color: 0xFF7A7171
+    hilited_candidate_label_color: 0xFF7A7171
+    text_color: 0xFF1B1818
+    hilited_text_color: 0xFF1B1818
+
+  shadcn_newyork_dark:
+    name: "shadcn／New York／深色"
+    author: "nfish <nfish@jajalink.com>"
+
+    font_face: "PingFangSC-Regular"
+    font_point: 16
+    label_font_face: "PingFangSC-Regular"
+    label_font_point: 12
+
+    candidate_format: "[label] [candidate] [comment]"
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: true
+
+    corner_radius: 8
+    hilited_corner_radius: 4
+    border_height: 1
+    border_width: 1
+    shadow_size: 1
+
+    color_space: display_p3
+    back_color: 0xFF1B1818
+    border_color: 0xFF2A2727
+    candidate_text_color: 0xFFFAFAFA
+    comment_text_color: 0xFFAAA1A1
+    label_color: 0xFFAAA1A1
+    hilited_candidate_back_color: 0xFF2A2727
+    hilited_candidate_text_color: 0xFFFAFAFA
+    hilited_comment_text_color: 0xFFAAA1A1
+    hilited_candidate_label_color: 0xFFAAA1A1
+    text_color: 0xFFFAFAFA
+    hilited_text_color: 0xFFFFFFFF
 
   # 若都有值，则对应的生效逻辑为
   ## .[custom].yaml > style/preset_color_schemes/[配置名] > style
