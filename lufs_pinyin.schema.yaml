@@ -14,9 +14,6 @@ schema:
     - melt_eng # 英文输入词库，先于方案构建
 
 switches:
-  - name: ascii_mode
-    reset: 0
-    states: [中, Ａ]
   - name: full_shape
     states: [半角, 全角]
   - name: ascii_punct
@@ -30,7 +27,6 @@ switches:
 
 engine:
   processors:
-    - ascii_composer
     - recognizer
     - lua_processor@*select_character # lua 选词扩展
     - key_binder
@@ -165,16 +161,6 @@ custom_phrase:
   enable_completion: false
   enable_sentence: true
   initial_quality: 1
-
-ascii_composer:
-  good_old_caps_lock: true
-  switch_key:
-    Shift_L: commit_code # 左 Shift 切换中英（上屏当前输入）
-    Shift_R: commit_code # 右 Shift 切换中英
-    Control_L: noop
-    Control_R: noop
-    Caps_Lock: clear # Caps 切换（clear 表示清空输入并切换）
-    Eisu_toggle: clear
 
 melt_eng:
   dictionary: melt_eng # 挂载英文词库
