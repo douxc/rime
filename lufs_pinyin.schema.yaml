@@ -40,7 +40,6 @@ engine:
     - navigator
     - express_editor
   segmentors:
-    - ascii_segmentor
     - matcher
     - abc_segmentor
     - punct_segmentor
@@ -181,7 +180,7 @@ melt_eng:
   dictionary: melt_eng # 挂载英文词库
   enable_sentence: false # 禁止造句
   enable_user_dict: false # 禁用用户词典，避免污染英文词频
-  enable_completion: false # 不开启补全，避免英文词在中文输入时刷屏
+  enable_completion: true # 开启补全：输入 hell 可提示 hello
   initial_quality: 1.1 # 权重，英文词优先于拼音（拼音默认 1.0）
   comment_format:
     - xform/.*// # 清空提示码
