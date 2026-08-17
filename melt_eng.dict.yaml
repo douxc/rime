@@ -1,0 +1,14 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 英文次翻译器词库
+# 独立挂载英文词库，与拼音主词库分离，可单独控制权重与候选顺序
+# 参考 rime-ice 的 melt_eng 方案
+
+---
+name: melt_eng
+version: "2026-08-17"
+import_tables:
+  - en_dicts/en_ext # 补充词汇（缩写、按键、月份等）
+  - en_dicts/en     # 英文主词库
+...

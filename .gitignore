@@ -3,6 +3,7 @@
 .DS_Store
 /*.userdb/
 /build/
+/.tmp/
 /rime.wiki/
 /sync/
 /temp/

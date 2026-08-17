@@ -1,0 +1,16 @@
+# Rime schema
+# encoding: utf-8
+#
+# 英文输入词库（作为依赖方案，供 lufs_pinyin 的 table_translator@melt_eng 挂载）
+# 本方案不作为独立输入方案使用，仅用于让 rime_deployer 构建 melt_eng 词典
+
+schema:
+  schema_id: melt_eng
+  name: "英文输入词库（依赖）"
+  version: "2026-08-17"
+  description: |
+    英文次翻译器词库。作为 lufs_pinyin 的依赖方案存在，
+    确保 rime_deployer 构建 melt_eng 词典。
+
+translator:
+  dictionary: melt_eng

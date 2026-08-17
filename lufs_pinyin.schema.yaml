@@ -10,8 +10,13 @@ schema:
     - Modified by Lufs_X <i@isteed.cc>
   description: |
     Rime 预设的拼音输入方案。
+  dependencies:
+    - melt_eng # 英文输入词库，先于方案构建
 
 switches:
+  - name: ascii_mode
+    reset: 0
+    states: [中, Ａ]
   - name: full_shape
     states: [半角, 全角]
   - name: ascii_punct
@@ -25,6 +30,7 @@ switches:
 
 engine:
   processors:
+    - ascii_composer
     - recognizer
     - lua_processor@*select_character # lua 选词扩展
     - key_binder
@@ -34,6 +40,7 @@ engine:
     - navigator
     - express_editor
   segmentors:
+    - ascii_segmentor
     - matcher
     - abc_segmentor
     - punct_segmentor
@@ -43,6 +50,7 @@ engine:
     - lua_translator@*date_translator # 动态日期时间输入
     - lua_translator@*unicode_input # Unicode 输入支持
     - table_translator@custom_phrase # 用户自定义词典
+    - table_translator@melt_eng # 英文输入
     - script_translator
   filters:
     - simplifier@emoji_suggestion
@@ -158,3 +166,22 @@ custom_phrase:
   enable_completion: false
   enable_sentence: true
   initial_quality: 1
+
+ascii_composer:
+  good_old_caps_lock: true
+  switch_key:
+    Shift_L: commit_code # 左 Shift 切换中英（上屏当前输入）
+    Shift_R: commit_code # 右 Shift 切换中英
+    Control_L: noop
+    Control_R: noop
+    Caps_Lock: clear # Caps 切换（clear 表示清空输入并切换）
+    Eisu_toggle: clear
+
+melt_eng:
+  dictionary: melt_eng # 挂载英文词库
+  enable_sentence: false # 禁止造句
+  enable_user_dict: false # 禁用用户词典，避免污染英文词频
+  enable_completion: false # 不开启补全，避免英文词在中文输入时刷屏
+  initial_quality: 1.1 # 权重，英文词优先于拼音（拼音默认 1.0）
+  comment_format:
+    - xform/.*// # 清空提示码
