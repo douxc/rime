@@ -11,10 +11,17 @@ dict_list = {
     "sogou_net.dict.yaml": {"id": 4, "name": "网络流行新词", "increment": True},
     "sogou_cities.dict.yaml":{"id": 11314, "name":"全国县及县以上行政区划地名"},
     "sogou_minecraft.dict.yaml": {
-        "id": 124017,
-        "name": "Minecraft最全词库（更新至1.16.2）",
+        "id": 178845,
+        "name": "我的世界Minecraft经典版(Java版)1.17-26.2高版本常用",
     },
-    "sogou_touhou.dict.yaml": {"id": 50826, "name": "【东方project】"},
+    "sogou_touhou.dict.yaml": {"id": 70032, "name": "超全东方project词库"},
+    "sogou_ai.dict.yaml": {"id": 72476, "name": "人工智能专业术语〖官方推荐〗"},
+    "sogou_frontend.dict.yaml": {"id": 148103, "name": "前端开发常用词库"},
+    "sogou_universities.dict.yaml": {
+        "id": 20647,
+        "name": "中国高等院校（大学）大全〖官方推荐〗",
+    },
+    "sogou_honor_of_kings.dict.yaml": {"id": 73918, "name": "王者荣耀〖官方推荐〗"},
 }
 
 
@@ -48,17 +55,23 @@ def convert_to_rime(words, output_file, id, update_date=None, increment=False):
         # 增量更新处理
         existing_words = set()
         existing_lines = []
-        flag = False
+        body_started = False
 
         # 如果文件已存在，读取现有内容
         if os.path.exists(output_file):
             with open(output_file, "r", encoding="utf-8") as f:
                 lines = f.readlines()
-                # 分离词条
+                # 读取既有词条并去重；保留历史增量词条，但不重复写入它们。
                 for line in lines:
-                    if flag or line == "...\n":
+                    if line.strip() == "...":
+                        body_started = True
+                        continue
+                    if not body_started or not line.strip():
+                        continue
+                    word = line.split("\t", 1)[0]
+                    if word and word not in existing_words:
                         existing_lines.append(line)
-                        flag = True
+                        existing_words.add(word)
 
         with open(output_file, "w", encoding="utf-8") as f:
             f.write(f"# Rime dictionary\n")
@@ -71,7 +84,9 @@ def convert_to_rime(words, output_file, id, update_date=None, increment=False):
             f.write(f'version: "{version_date}"\n')
             f.write(f"sort: by_weight\n")
 
-            # 写回现有词条
+            f.write("...\n\n")
+
+            # 写回去重后的既有词条
             for line in existing_lines:
                 f.write(line)
 

@@ -19,9 +19,13 @@ import_tables:
 
   - dicts/simp-ext # 原字表中除单字外部分
   - dicts/sogou_net # 网络流行语
-  - dicts/sogou_minecraft
-  - dicts/sogou_cities
-  - dicts/custom_sougou_extenal
+  - dicts/sogou_minecraft # Minecraft 1.17–26.2
+  - dicts/sogou_cities # 全国县及县以上行政区划
+  - dicts/sogou_universities # 中国高等院校
+  - dicts/sogou_honor_of_kings # 王者荣耀
+  - dicts/sogou_touhou # 东方 Project
+  - dicts/sogou_ai # 人工智能专业术语
+  - dicts/sogou_frontend # 前端开发
   
   # 英文
   - en_dicts/en

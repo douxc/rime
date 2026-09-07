@@ -1,0 +1,271 @@
+# Rime dictionary
+# encoding: utf-8
+# source: https://pinyin.sogou.com/dict/detail/index/148103
+
+---
+name: frontend
+version: "2022-06-08"
+sort: by_weight
+...
+
+版本管理	ban ben guan li
+背景颜色	bei jing yan se
+备忘录模式	bei wang lu mo shi
+闭包	bi bao
+边距	bian ju
+边框	bian kuang
+遍历数组	bian li shu zu
+变量	bian liang
+变量提升	bian liang ti sheng
+编码	bian ma
+便签	bian qian
+表单验证	biao dan yan zheng
+部署	bu shu
+操作数据库	cao zuo shu ju ku
+策略模式	ce lue mo shi
+测试	ce shi
+测试用例	ce shi yong li
+插槽	cha cao
+插入排序	cha ru pai xu
+长链接	chang lian jie
+超出显示滚动条	chao chu xian shi gun dong tiao
+超出隐藏	chao chu yin cang
+重构	chong gou
+重绘	chong hui
+抽象工厂模式	chou xiang gong chang mo shi
+初始化	chu shi hua
+创建服务器	chuang jian fu wu qi
+打包	da bao
+代理模式	dai li mo shi
+代码规范	dai ma gui fan
+单例模式	dan li mo shi
+单链表	dan lian biao
+单文件组件	dan wen jian zu jian
+单线程	dan xian cheng
+单向数据流	dan xiang shu ju liu
+单选框	dan xuan kuang
+单页应用	dan ye ying yong
+递归	di gui
+递归遍历	di gui bian li
+迭代器模式	die dai qi mo shi
+定时器	ding shi qi
+动态路由	dong tai lu you
+动态组件	dong tai zu jian
+断点续传	duan dian xu chuan
+堆排序	dui pai xu
+多进程	duo jin cheng
+二叉树	er cha shu
+二进制	er jin zhi
+发布订阅	fa bu ding yue
+发布订阅模式	fa bu ding yue mo shi
+返回值	fan hui zhi
+反转链表	fan zhuan lian biao
+防抖	fang dou
+访问者模式	fang wen zhe mo shi
+分支	fen zhi
+封装	feng zhuang
+浮动	fu dong
+服务端	fu wu duan
+服务端渲染	fu wu duan xuan ran
+复选框	fu xuan kuang
+父元素	fu yuan su
+副作用	fu zuo yong
+根元素	gen yuan su
+工厂模式	gong chang mo shi
+工程化	gong cheng hua
+工具模块	gong ju mo kuai
+构造函数	gou zao han shu
+构造函数继承	gou zao han shu ji cheng
+钩子函数	gou zi han shu
+骨架屏	gu jia ping
+挂载	gua zai
+管道流	guan dao liu
+广度遍历	guang du bian li
+归并排序	gui bing pai xu
+滚动条	gun dong tiao
+函数式编程	han shu shi bian cheng
+函数式组件	han shu shi zu jian
+行内元素	hang nei yuan su
+合并	he bing
+盒子模型	he zi mo xing
+宏任务	hong ren wu
+缓冲区	huan chong qu
+回流	hui liu
+回调地狱	hui tiao di yu
+回调函数	hui tiao han shu
+获取数据	huo qu shu ju
+继承	ji cheng
+寄生式继承	ji sheng shi ji cheng
+寄生组合继承	ji sheng zu he ji cheng
+基数排序	ji shu pai xu
+计数排序	ji shu pai xu
+计算属性	ji suan shu xing
+渐进式	jian jin shi
+兼容性	jian rong xing
+监听事件	jian ting shi jian
+建造者模式	jian zao zhe mo shi
+校验	jiao yan
+解除绑定	jie chu bang ding
+节点	jie dian
+节流	jie liu
+解释器模式	jie shi qi mo shi
+解析	jie xi
+局部变量	ju bu bian liang
+绝对定位	jue dui ding wei
+客户端	ke hu duan
+柯里化	ke li hua
+空间复杂度	kong jian fu za du
+控制台	kong zhi tai
+跨域	kua yu
+块级格式化上下文	kuai ji ge shi hua shang xia wen
+块级元素	kuai ji yuan su
+快速排序	kuai su pai xu
+块元素	kuai yuan su
+扩展运算符	kuo zhan yun suan fu
+拉取	la qu
+类名	lei ming
+类数组	lei shu zu
+类型检测	lei xing jian ce
+类型转换	lei xing zhuan huan
+链表	lian biao
+连接服务器	lian jie fu wu qi
+链式调用	lian shi diao yong
+链式流	lian shi liu
+临界值	lin jie zhi
+浏览器对象模型	liu lan qi dui xiang mo xing
+浏览器兼容	liu lan qi jian rong
+浏览器内核	liu lan qi nei he
+浏览器支持	liu lan qi zhi chi
+路由	lu you
+路由守卫	lu you shou wei
+冒泡排序	mao pao pai xu
+面向对象	mian xiang dui xiang
+秒传	miao chuan
+命令模式	ming ling mo shi
+模块方法模式	mo kuai fang fa mo shi
+模块化	mo kuai hua
+模板编译	mu ban bian yi
+模板引擎	mu ban yin qing
+模板字符串	mu ban zi fu chuan
+内边距	nei bian ju
+内部样式表	nei bu yang shi biao
+内存泄露	nei cun xie lou
+内联元素	nei lian yuan su
+启动服务	qi dong fu wu
+前后端分离	qian hou duan fen li
+嵌套	qian tao
+强制缓存	qiang zhi huan cun
+桥接模式	qiao jie mo shi
+切片	qie pian
+切片上传	qie pian shang chuan
+清除定时器	qing chu ding shi qi
+清除浮动	qing chu fu dong
+请求拦截	qing qiu lan jie
+请求头	qing qiu tou
+全局变量	quan ju bian liang
+全局对象	quan ju dui xiang
+三元表达式	san yuan biao da shi
+三元运算符	san yuan yun suan fu
+设计模式	she ji mo shi
+审查元素	shen cha yuan su
+深度遍历	shen du bian li
+生命周期	sheng ming zhou qi
+事件代理	shi jian dai li
+时间复杂度	shi jian fu za du
+事件监听	shi jian jian ting
+事件循环	shi jian xun huan
+十进制	shi jin zhi
+实例	shi li
+实例对象	shi li dui xiang
+十六进制	shi liu jin zhi
+适配器模式	shi pei qi mo shi
+实体	shi ti
+首屏	shou ping
+数据结构	shu ju jie gou
+数据类型	shu ju lei xing
+双链表	shuang lian biao
+双向绑定	shuang xiang bang ding
+提交	ti jiao
+提交按钮	ti jiao an niu
+调试	tiao shi
+桶排序	tong pai xu
+通配符	tong pei fu
+拖拽	tuo zhuai
+外边距	wai bian ju
+外部样式表	wai bu yang shi biao
+伪类	wei lei
+微任务	wei ren wu
+伪元素	wei yuan su
+文档对象模型	wen dang dui xiang mo xing
+文件读取	wen jian du qu
+文件系统	wen jian xi tong
+文件写入	wen jian xie ru
+无序列表	wu xu lie biao
+希尔排序	xi er pai xu
+下拉框	xia la kuang
+线性渐变	xian xing jian bian
+相对定位	xiang dui ding wei
+向上取整	xiang shang qu zheng
+向下取整	xiang xia qu zheng
+响应拦截	xiang ying lan jie
+响应式	xiang ying shi
+响应头	xiang ying tou
+享元模式	xiang yuan mo shi
+写入流	xie ru liu
+协商缓存	xie shang huan cun
+性能优化	xing neng you hua
+兄弟元素	xiong di yuan su
+虚拟节点	xu ni jie dian
+渲染函数	xuan ran han shu
+选择排序	xuan ze pai xu
+选择器	xuan ze qi
+雪碧图	xue bi tu
+压缩	ya suo
+严格模式	yan ge mo shi
+洋葱模型	yang cong mo xing
+页面结构	ye mian jie gou
+异步请求	yi bu qing qiu
+异步组件	yi bu zu jian
+移除事件	yi chu shi jian
+依赖收集	yi lai shou ji
+引入	yin ru
+隐式转换	yin shi zhuan huan
+引用类型	yin yong lei xing
+用户体验	yong hu ti yan
+优先级	you xian ji
+有序列表	you xu lie biao
+圆角	yuan jiao
+源码	yuan ma
+原始类型	yuan shi lei xing
+元素	yuan su
+原型	yuan xing
+原型链	yuan xing lian
+原型链继承	yuan xing lian ji cheng
+原型模式	yuan xing mo shi
+原型式继承	yuan xing shi ji cheng
+增删查改	zeng shan cha gai
+侦听器	zhen ting qi
+正则表达式	zheng ze biao da shi
+指向	zhi xiang
+职责链模式	zhi ze lian mo shi
+中间件	zhong jian jian
+中介模式	zhong jie mo shi
+装饰器模式	zhuang shi qi mo shi
+状态管理	zhuang tai guan li
+状态码	zhuang tai ma
+状态模式	zhuang tai mo shi
+自定义指令	zi ding yi zhi ling
+自动化	zi dong hua
+自动化部署	zi dong hua bu shu
+字符编码	zi fu bian ma
+字符串	zi fu chuan
+字符实体	zi fu shi ti
+子元素	zi yuan su
+组合继承	zu he ji cheng
+组合模式	zu he mo shi
+组件	zu jian
+组件化	zu jian hua
+组件通信	zu jian tong xin
+阻止默认事件	zu zhi mo ren shi jian
+阻止事件冒泡	zu zhi shi jian mao pao
+作用域	zuo yong yu

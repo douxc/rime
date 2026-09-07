@@ -263,9 +263,8 @@ def main():
         print(f"[scel2txt] 词库类型: {info.get('Type')}")
         print(f"[scel2txt] 词条数量: {info.get('CountWord')}")
         print(f"[scel2txt] 词库描述: {info.get('Info')}")
-        print(
-            f"[scel2txt] 词库示例: {info.get('Sample').replace('\u3000', '').replace('\r', '|')}"
-        )
+        sample = info.get("Sample").replace("\u3000", "").replace("\r", "|")
+        print(f"[scel2txt] 词库示例: {sample}")
 
         words = reader.read_scel()
         print(f"[scel2txt] 实际解析词条: {len(words)}")
