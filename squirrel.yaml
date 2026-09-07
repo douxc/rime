@@ -71,8 +71,9 @@ style:
 preset_color_schemes:
   # 关于主题中的各个设置项的说明，详见文件末尾
   qujiang_liu:
-    name: "曲江柳／Qujiang Willow"
+    name: "槿紫／Hibiscus Purple"
     author: "nfish <nfish@jajalink.com>"
+    # 风露凄凄秋景繁，可怜荣落在朝昏。
 
     font_point: 14
     label_font_point: 12
@@ -89,25 +90,26 @@ preset_color_schemes:
     border_height: 0
     border_width: 0
     spacing: 4
-    margin_x: 0
-    margin_y: 0
+    margin_x: 4
+    margin_y: 2
 
     color_space: display_p3
-    back_color: 0xFFFFFFFF
-    border_color: 0xFFE7E4E4
-    candidate_text_color: 0xFF1B1818
-    comment_text_color: 0xFF7A7171
-    label_color: 0xFF7A7171
-    hilited_candidate_back_color: 0xFF7FAE7F
+    back_color: 0xF0F6F9FA
+    border_color: 0xFFEAE2E7
+    candidate_text_color: 0xFF251D21
+    comment_text_color: 0xFF7C6D74
+    label_color: 0xFF7C6D74
+    hilited_candidate_back_color: 0xFF9E6D80
     hilited_candidate_text_color: 0xFFFFFFFF
-    hilited_comment_text_color: 0xFFF0F7F0
+    hilited_comment_text_color: 0xFFFFFFFF
     hilited_candidate_label_color: 0xFFFFFFFF
-    text_color: 0xFF1B1818
-    hilited_text_color: 0xFF1B1818
+    text_color: 0xFF251D21
+    hilited_text_color: 0xFF251D21
 
   qujiang_liu_dark:
-    name: "曲江柳／Qujiang Willow／深色"
+    name: "槿紫／Hibiscus Purple／深色"
     author: "nfish <nfish@jajalink.com>"
+    # 风露凄凄秋景繁，可怜荣落在朝昏。
 
     font_point: 14
     label_font_point: 12
@@ -124,20 +126,20 @@ preset_color_schemes:
     border_height: 0
     border_width: 0
     spacing: 4
-    margin_x: 0
-    margin_y: 0
+    margin_x: 4
+    margin_y: 2
 
     color_space: display_p3
-    back_color: 0xFF1B1818
-    border_color: 0xFF2A2727
-    candidate_text_color: 0xFFFAFAFA
-    comment_text_color: 0xFFAAA1A1
-    label_color: 0xFFAAA1A1
-    hilited_candidate_back_color: 0xFF7FAE7F
+    back_color: 0xF0211A1D
+    border_color: 0xFF382B31
+    candidate_text_color: 0xFFF9F4F7
+    comment_text_color: 0xFFBFAFB8
+    label_color: 0xFFBFAFB8
+    hilited_candidate_back_color: 0xFF9E6D80
     hilited_candidate_text_color: 0xFFFFFFFF
-    hilited_comment_text_color: 0xFFF0F7F0
+    hilited_comment_text_color: 0xFFFFFFFF
     hilited_candidate_label_color: 0xFFFFFFFF
-    text_color: 0xFFFAFAFA
+    text_color: 0xFFF9F4F7
     hilited_text_color: 0xFFFFFFFF
 
   # 若都有值，则对应的生效逻辑为
