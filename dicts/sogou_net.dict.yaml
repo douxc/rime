@@ -8,13 +8,9 @@ version: "2026-09-10"
 sort: by_weight
 ...
 
-<<<<<<< HEAD
-=======
->>>>>>> upstream/master
-阿安	a an
 小鹤	xiao he
 小鹤双拼	xiao he shuang pin
->>>>>>> feature/ascii-mode-english
+阿安	a an
 阿敖	a ao
 阿坝	a ba
 阿巴巴	a ba ba
