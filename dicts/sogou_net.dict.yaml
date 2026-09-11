@@ -9,9 +9,15 @@ sort: by_weight
 ...
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> upstream/master
 阿安	a an
+=======
+小鹤	xiao he
+小鹤双拼	xiao he shuang pin
+
+>>>>>>> feature/ascii-mode-english
 阿敖	a ao
 阿坝	a ba
 阿巴巴	a ba ba
@@ -4692,8 +4698,6 @@ sort: by_weight
 百寿路	bai shou lu
 百寿图	bai shou tu
 百兽之王	bai shou zhi wang
-柏庶	bai shu
-白树	bai shu
 白水	bai shui
 白水洞	bai shui dong
 白水县	bai shui xian
@@ -10794,8 +10798,6 @@ sort: by_weight
 布莱克尼	bu lai ke ni
 布莱克浦	bu lai ke pu
 不来梅	bu lai mei
-不莱梅	bu lai mei
-不莱玫	bu lai mei
 布莱默顿	bu lai mo dun
 不来水	bu lai shui
 布莱泽	bu lai ze
@@ -29560,8 +29562,6 @@ sort: by_weight
 读几年	du ji nian
 杜集区	du ji qu
 毒驾	du jia
-独家	du jia
-杜嘉班纳	du jia ban na
 独家版权	du jia ban quan
 度假村	du jia cun
 独家打卡点	du jia da ka dian
@@ -31342,8 +31342,6 @@ sort: by_weight
 恩科雨露实验学校	en ke yu lu shi yan xue xiao
 恩昆库	en kun ku
 摁喇叭	en la ba
-恩利	en li
-恩力	en li
 恩里克	en li ke
 恩利母子	en li mu zi
 恩利音乐节	en li yin yue jie
@@ -44465,8 +44463,6 @@ sort: by_weight
 郭奉孝	guo feng xiao
 国风新材	guo feng xin cai
 国服	guo fu
-果脯	guo fu
-郭芙	guo fu
 郭富城	guo fu cheng
 国服达摩	guo fu da mo
 国服韩信	guo fu han xin
@@ -50876,9 +50872,6 @@ sort: by_weight
 黑啤	hei pi
 黑皮辣妹	hei pi la mei
 黑皮帅哥第一	hei pi shuai ge di yi
-黑苹果	hei ping guo
-黑七	hei qi
-黑旗	hei qi
 黑麒麟	hei qi lin
 黑骑士足球俱乐部集团	hei qi shi zu qiu ju le bu ji tuan
 黑崎真音	hei qi zhen yin
@@ -59697,9 +59690,12 @@ sort: by_weight
 贾冰演了个笨	jia bing yan le ge ben
 加播	jia bo
 贾布	jia bu
+<<<<<<< HEAD
 加布	jia bu
 加补	jia bu
 贾荹澄	jia bu cheng
+=======
+>>>>>>> feature/ascii-mode-english
 贾布加布	jia bu jia bu
 加布里	jia bu li
 加布里埃尔	jia bu li ai er
@@ -75079,9 +75075,6 @@ sort: by_weight
 老庙黄金	lao miao huang jin
 老庙黄金致歉	lao miao huang jin zhi qian
 老莫	lao mo
-劳模	lao mo
-牢莫	lao mo
-老墨	lao mo
 劳模精神	lao mo jing shen
 老魔杖	lao mo zhang
 老谋	lao mou
@@ -78081,8 +78074,6 @@ sort: by_weight
 利辛	li xin
 李信	li xin
 李欣	li xin
-立信	li xin
-李鑫	li xin
 李心艾	li xin ai
 李心艾产女	li xin ai chan nv
 李心艾孕晚期	li xin ai yun wan qi
@@ -82796,9 +82787,6 @@ sort: by_weight
 流言终结者	liu yan zhong jie zhe
 刘洋	liu yang
 浏阳	liu yang
-留洋	liu yang
-刘扬	liu yang
-浏阳河	liu yang he
 柳杨杰	liu yang jie
 刘洋金牌	liu yang jin pai
 刘阳老师辞职	liu yang lao shi ci zhi
@@ -93321,8 +93309,6 @@ sort: by_weight
 姆登连线	mu deng lian xian
 穆蒂	mu di
 穆迪	mu di
-墓地	mu di
-牧笛	mu di
 墓地铃兰	mu di ling lan
 穆迪受伤	mu di shou shang
 穆迪膝盖变形	mu di xi gai bian xing
@@ -114629,8 +114615,6 @@ sort: by_weight
 上交所道歉	shang jiao suo dao qian
 上交所致歉	shang jiao suo zhi qian
 尚界	shang jie
-上届	shang jie
-商界	shang jie
 商界半边天	shang jie ban bian tian
 商界传奇	shang jie chuan qi
 商界大佬孙宇晨	shang jie da lao sun yu chen
@@ -115665,8 +115649,6 @@ sort: by_weight
 射手步枪	she shou bu qiang
 射手路	she shou lu
 射手王	she shou wang
-射术	she shu
-蛇鼠	she shu
 蛇鼠一窝的	she shu yi wo de
 涉水	she shui
 滠水河特大桥	she shui he te da qiao
@@ -136722,10 +136704,13 @@ sort: by_weight
 王毅	wang yi
 王轶	wang yi
 王异	wang yi
+<<<<<<< HEAD
 王颐	wang yi
 网易	wang yi
 王怡	wang yi
 王奕	wang yi
+=======
+>>>>>>> feature/ascii-mode-english
 网易暴雪	wang yi bao xue
 王一冰	wang yi bing
 王一博	wang yi bo
@@ -136880,8 +136865,6 @@ sort: by_weight
 王影璐演技	wang ying lu yan ji
 王莺莺	wang ying ying
 王勇	wang yong
-王永	wang yong
-王永国	wang yong guo
 王永辉	wang yong hui
 王用生	wang yong sheng
 王永祥	wang yong xiang
@@ -150099,8 +150082,6 @@ sort: by_weight
 小尾	xiao wei
 小伟	xiao wei
 小威	xiao wei
-肖炜	xiao wei
-小微	xiao wei
 小胃袋	xiao wei dai
 消委会	xiao wei hui
 小微企业	xiao wei qi ye
@@ -157193,8 +157174,7 @@ sort: by_weight
 雅秀云庭	ya xiu yun ting
 亚轩	ya xuan
 亚轩生日快乐	ya xuan sheng ri kuai le
-鸭血粉丝汤	ya xue fen si tang
-亚巡	ya xun
+鸭鸭	ya ya
 丫丫	ya ya
 鸭鸭	ya ya
 芽芽	ya ya
@@ -168860,9 +168840,6 @@ sort: by_weight
 于祥宇	yu xiang yu
 于翔宇	yu xiang yu
 俞笑	yu xiao
-愚孝	yu xiao
-雨小	yu xiao
-于笑	yu xiao
 俞晓东	yu xiao dong
 余小二	yu xiao er
 于小飞	yu xiao fei
@@ -174451,12 +174428,15 @@ sort: by_weight
 张雅芝	zhang ya zhi
 张燕	zhang yan
 张岩	zhang yan
+<<<<<<< HEAD
 张彦	zhang yan
 张妍	zhang yan
 张艳	zhang yan
 张延	zhang yan
 张延兵	zhang yan bing
 张延淡	zhang yan dan
+=======
+>>>>>>> feature/ascii-mode-english
 张延芳	zhang yan fang
 张延和	zhang yan he
 张彦江	zhang yan jiang
@@ -182788,8 +182768,6 @@ sort: by_weight
 周雅琴	zhou ya qin
 周雅琴掉木	zhou ya qin diao mu
 周岩	zhou yan
-周炎	zhou yan
-周延	zhou yan
 周艳华	zhou yan hua
 周燕妮	zhou yan ni
 周彦羲	zhou yan xi
