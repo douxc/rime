@@ -42,7 +42,7 @@
 
 - macOS 可使用 `Caps_Lock` 切换系统英文输入法
 - Windows 默认 `Shift_R` 切换中英文输入（需按照安装说明取消注释）
-- 默认四候选项，便于选词
+- 默认五候选项，便于选词（`default.yaml` 基础值为 4，由 `default.custom.yaml` 的 `menu/page_size` 调为 5）
 - 按键绑定
   - <kbd>;</kbd>：二选
   - <kbd>'</kbd>：三选

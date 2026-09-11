@@ -56,14 +56,10 @@ engine:
     # - lua_filter@*candidate_sorting.single_char_only # 只显示单字
 
 traditionalize:
-  option_name: traditionalization
-  opencc_config: s2t.json # s2t.json | s2hk.json | s2tw.json | s2twp.json
-  tips: none # 转换提示: all 显示 | char 仅单字显示 | none 不显示。
+  __include: lufs_shared:/traditionalize
 
 emoji_suggestion:
-  opencc_config: emoji.json
-  option_name: emoji_suggestion
-  tips: false
+  __include: lufs_shared:/emoji_suggestion
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba/
@@ -144,24 +140,19 @@ translator:
     # - xform/ // # 去掉上屏字符间空格
 
 grammar:
-  language: zh-hans-t-essay-bgw
+  __include: lufs_shared:/grammar
 
 punctuator:
-  import_preset: lufs_symbols
+  __include: lufs_shared:/punctuator
 
 key_binder:
-  import_preset: default
+  __include: lufs_shared:/key_binder
 
 recognizer:
-  import_preset: default
+  __include: lufs_shared:/recognizer
 
 custom_phrase:
-  dictionary: ""
-  user_dict: custom_phrase
-  db_class: stabledb
-  enable_completion: false
-  enable_sentence: true
-  initial_quality: 1
+  __include: lufs_shared:/custom_phrase
 
 melt_eng:
   dictionary: melt_eng # 挂载英文词库

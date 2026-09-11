@@ -27,11 +27,10 @@ import_tables:
   - dicts/sogou_ai # 人工智能专业术语
   - dicts/sogou_frontend # 前端开发
   
-  # 英文
-  - en_dicts/en
-  - en_dicts/en_ext
-
   # 英文由 melt_eng.dict.yaml 独立挂载（见 lufs_pinyin.schema.yaml 的 melt_eng 配置）
+  # 注意：此处不可再挂载 en_dicts/*。英文词条若同时进入 script_translator 与
+  # table_translator@melt_eng，会为拼音索引制造大量无意义音节组合，
+  # 实测使 extended.prism.bin 膨胀约 59 倍（1,254,552 B vs 21,168 B）。
 
   # emoji 补全词库
   - dicts/emoji

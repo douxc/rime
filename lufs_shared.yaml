@@ -1,0 +1,40 @@
+# Rime 共享配置块
+# encoding: utf-8
+#
+# 本文件由 tools/dedup_schema_blocks.py 生成，承载五个 lufs_*.schema.yaml
+# 中逐字相同的映射型配置块。各方案经 __include: lufs_shared:/<块名> 引用。
+#
+# 注意：__include 仅适用于映射型块。列表型块（switches / engine /
+# speller）无法用 __include 扩展，由 tools/gen_schemas.py 处理；
+# import_preset 对 engine / switches 会静默丢弃内容，禁止使用。
+
+traditionalize:
+  option_name: traditionalization
+  opencc_config: s2t.json # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  tips: none # 转换提示: all 显示 | char 仅单字显示 | none 不显示。
+
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: false
+
+grammar:
+  language: zh-hans-t-essay-bgw
+
+punctuator:
+  import_preset: lufs_symbols
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: true
+  initial_quality: 1
+
